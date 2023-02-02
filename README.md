@@ -1,5 +1,6 @@
 # Billionaire Analysis
 
+
 **File Sources:**
 
 - Jupyter Notebook: [cleaning_data.ipynb](cleaning_data.ipynb)
@@ -37,3 +38,14 @@ After cleaning the data set we can now see that our number of billionaires for 2
 The questions we want to answer are, what industries make up majority of billionaires? At what age is someone most likely to be a billionaire? Are they usually male or female? What country are they from and is there money inhereted or are they self made?
 
 These questions will be answered in our future analysis.
+
+---
+
+## Technologies Used:
+
+- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, confusion_matrix, accuracy_score, classification_report), Numpy 
+- SQL: Database host
+- Tableau: Visualization creation
+- HTML: Dashboard creation using Javascript/ CSS for customization
+- Jupyter Notebook: Code production and testing purposes
+- Quick Database Diagrams: To draft the entity relationship diagram
