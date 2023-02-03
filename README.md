@@ -1,3 +1,4 @@
+
 # Billionaire Analysis
 
 
@@ -49,3 +50,5 @@ These questions will be answered in our future analysis.
 - HTML: Dashboard creation using Javascript/ CSS for customization
 - Jupyter Notebook: Code production and testing purposes
 - Quick Database Diagrams: To draft the entity relationship diagram
+
+
