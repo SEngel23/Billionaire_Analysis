@@ -59,7 +59,7 @@ These questions will be answered in our future analysis.
 
 - The original Forbes Billionaire dataset had 23 separate columns ranging from each billionaire’s biography, their net worth, to the number of siblings they have.
 
-- Based on the timeframe of this project, it was determined to build a supervised learning model; therefore, the data would have to be encoded to numerical values in order to have a binary outcome.
+- Based on the timeframe of this project, it was determined to build a supervised learning model; therefore, the data was encoded to numerical values in order for the machine learning model to produce a numerical outcome.
 
 - Also based on the scope and goal of the project the data was cleaned and reduced to 7 specific columns.
 
