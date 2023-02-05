@@ -51,4 +51,22 @@ These questions will be answered in our future analysis.
 - Jupyter Notebook: Code production and testing purposes
 - Quick Database Diagrams: To draft the entity relationship diagram
 
+## Data
 
+- This project includes two separate sets of data: one captures data on billionaires in 2018, and the second dataset is of billionaires from 2022.
+
+- Both datasets are from Forbes.com. Forbes is a global media company that is focused on covering subjects regarding business, investing, technology, entrepreneurship, and lifestyle.
+
+- The original Forbes Billionaire dataset had 23 separate columns ranging from each billionaire’s biography, their net worth, to the number of siblings they have.
+
+- Based on the timeframe of this project, it was determined to build a supervised learning model; therefore, the data would have to be encoded to numerical values in order to have a binary outcome.
+
+- Also based on the scope and goal of the project the data was cleaned and reduced to 7 specific columns.
+
+- It was determined that the necessary columns included net worth, age, category, country, gender, and overall wealth rank. 
+
+- Each billionaire's name became the project's primary unique value. 
+
+- Machine learning algorithms typically only work with numerical data Data; therefore, things like the billionaire's country, the sector they made their wealth, and their gender were encoded to numerical values.
+
+- Overall the data was cleaned and prepared in a way to predict overall wealth based on the included columns in the cleaned data sets.
