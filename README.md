@@ -51,7 +51,7 @@ These questions will be answered in our future analysis.
 - Jupyter Notebook: Code production and testing purposes
 - Quick Database Diagrams: To draft the entity relationship diagram
 
-## Data
+## Data:
 
 - This project includes two separate sets of data: one captures data on billionaires in 2018, and the second dataset is of billionaires from 2022.
 
