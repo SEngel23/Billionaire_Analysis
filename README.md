@@ -57,7 +57,7 @@ These questions will be answered in our future analysis.
 
 - Both datasets are from Forbes.com. Forbes is a global media company that is focused on covering subjects regarding business, investing, technology, entrepreneurship, and lifestyle.
 
-- The original Forbes Billionaire dataset had 23 separate columns ranging from each billionaire’s biography, their net worth, to the number of siblings they have.
+- The original Forbes Billionaire datasets had 23 separate columns ranging from each billionaire’s biography, their net worth, to the number of siblings they have.
 
 - Based on the timeframe of this project, it was determined to build a supervised learning model; therefore, the data was encoded to numerical values in order for the machine learning model to produce a numerical outcome.
 
