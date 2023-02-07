@@ -1,6 +1,5 @@
 # Billionaire Analysis
 
-
 **File Sources:**
 
 - Jupyter Notebook: [cleaning_data.ipynb](cleaning_data.ipynb)
@@ -8,6 +7,14 @@
 - Cleaned CSV: [cleaned_billionaire.csv](Resources/cleaned_billionaire.csv)
 
 ---
+
+## Selected Topic
+
+We will be analyzing trends seen in the billionaire community throughout this project. Specifically, we are looking to predict the net worth of a specific billionaire subject dependent on input variables including age, source of wealth and country. We plan to inspect two data frames from different periods in time (2018 and 2022) to understand changes over time as seen in subjects who hold billionaire status.
+
+## Reasoning
+
+We chose this topic as all team members had an interest in analyzing data relevant to finance. When compared to other financial topics, such as car price prediction and stock price prediction, the billionaire data sparked more interest as it represents a way to inspect economies over time and over world locations.
 
 ## Analysis Overview:
 
@@ -17,7 +24,9 @@ The purpose of this analysis was to clean the raw csv file containing informatio
 
 ## Results:
 
-- Using Jupyter Notebook and pandas to clean the data, the file was first imported using the pathlib function and put into a dataframe using pandas.
+#### Cleaning Data
+
+- Using Jupyter Notebook and Pandas to clean the data, the file was first imported using the pathlib function and put into a dataframe using pandas.
 
 - In order to not over complicate and overfit our future machine learning process, certain columns that do not add value are dropped from the original dataframe.
 
@@ -28,6 +37,20 @@ The purpose of this analysis was to clean the raw csv file containing informatio
 - The end result is the following image of the new and improved data set for further analysis.
 
 ![cleaned_df.png](Images/cleaned_df.png)
+
+#### Exploratory Data Analysis
+
+- Using Jupyter Notebook and Pandas the cleaned dataset for 2022 was filtered down to see the relationship between the number of billionaires and gender specifics. Below shows a pie chart highlighting the gender split between Male and Female. Male made up 88.8% of billionaires while Female only made up 11.2%.
+
+![2022_Category_vs_Billionaires.png](Images/2022_Gender_Pie.png)
+
+- To determine how age effects a billionaires final net worth, the following scatter plot was created. From this simple analysis, we can see that there isn't a huge correlation or relationship, so far between age and a billionaires final net worth.
+
+![2022_Age_vs_FinalWorth.png](Images/2022_Age_vs_FinalWorth.png)
+
+- Taking a close look at the Industry Category and the number of billionaires we can see from the horizontal bar chart below which industries rank the highest. **#1 Finance & Investments, #2 Technology, and #3 Manufacturing**.
+
+![2022_Category_vs_Billionaires](Images/2022_Category_vs_Billionaires.png)
 
 ---
 
@@ -43,9 +66,29 @@ These questions will be answered in our future analysis.
 
 ## Technologies Used:
 
-- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, confusion_matrix, accuracy_score, classification_report), Numpy 
+- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, confusion_matrix, accuracy_score, classification_report), Numpy
 - SQL: Database host
 - Tableau: Visualization creation
 - HTML: Dashboard creation using Javascript/ CSS for customization
 - Jupyter Notebook: Code production and testing purposes
 - Quick Database Diagrams: To draft the entity relationship diagram
+
+## Data:
+
+- This project includes two separate sets of data: one captures data on billionaires in 2018, and the second dataset is of billionaires from 2022.
+
+- Both datasets are from Forbes.com. Forbes is a global media company that is focused on covering subjects regarding business, investing, technology, entrepreneurship, and lifestyle.
+
+- The original Forbes Billionaire datasets had 23 separate columns ranging from each billionaire’s biography, their net worth, to the number of siblings they have.
+
+- Based on the timeframe of this project, it was determined to build a supervised learning model; therefore, the data was encoded to numerical values in order for the machine learning model to produce a numerical outcome.
+
+- Also based on the scope and goal of the project the data was cleaned and reduced to 7 specific columns.
+
+- It was determined that the necessary columns included net worth, age, category, country, gender, and overall wealth rank.
+
+- Each billionaire's name became the project's primary unique value.
+
+- Machine learning algorithms typically only work with numerical data; therefore, things like the billionaire's country, the sector they made their wealth, and their gender were encoded to numerical values.
+
+- Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict net worth.
