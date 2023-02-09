@@ -534,7 +534,7 @@ rank,personName,age,finalWorth,category,country,gender_F,gender_M
 536,Tsai Hong-tu,69,5100,14,27,0,1
 536,Richard Tsai,64,5100,14,27,0,1
 536,Wang Junshi & family,73,5100,1,53,0,1
-536,Wang Yanqing & family,55,5100,1,53,0,1
+536,Wang Yanquing (Wuxi Lead Intelligent Equipment),55,5100,1,53,0,1
 552,Shari Arison,64,5000,6,57,1,0
 552,Alain Bouchard,73,5000,17,15,0,1
 552,"Austen Cargill, II.",71,5000,3,26,0,1
@@ -1146,7 +1146,7 @@ rank,personName,age,finalWorth,category,country,gender_F,gender_M
 1163,Vivek Jain,66,2700,1,3,0,1
 1163,Brad Kelley,65,2700,4,26,0,1
 1163,Alicia Koplowitz,68,2700,14,59,1,0
-1163,Li Li,56,2700,2,53,0,1
+1163,Li Li (Shenzhen Hepalink Pharmaceutical),56,2700,2,53,0,1
 1163,C. Dean Metropoulos,75,2700,3,26,0,1
 1163,Dan Olsson,75,2700,0,48,0,1
 1163,Tor Peterson,57,2700,7,46,0,1
@@ -1738,7 +1738,7 @@ rank,personName,age,finalWorth,category,country,gender_F,gender_M
 1729,Radha Vembu,49,1700,11,3,1,0
 1729,Patrizio Vinciarelli,75,1700,11,26,0,1
 1729,Mingwang Wang,54,1700,1,53,0,1
-1729,Wang Yanqing & family,75,1700,1,53,1,0
+1729,Wang Yanquing (Weihai Guangwei Group),75,1700,1,53,1,0
 1729,Lars Wingefors,45,1700,13,48,0,1
 1729,Stephen Winn,75,1700,4,26,0,1
 1729,Ian Wood & family,79,1700,10,25,0,1
@@ -2059,7 +2059,7 @@ rank,personName,age,finalWorth,category,country,gender_F,gender_M
 2076,Sebastian Kulczyk,41,1400,14,46,0,1
 2076,Gary Lauder,59,1400,17,26,0,1
 2076,Art Levinson,72,1400,0,26,0,1
-2076,Li Li,58,1400,2,53,0,1
+2076,Li Li (Aier Eye Hospital Group),58,1400,2,53,0,1
 2076,Guangwei Liang,58,1400,1,53,0,1
 2076,Scott Lin,89,1400,11,27,0,1
 2076,Jenny Lindén Urnes,51,1400,1,48,1,0

@@ -346,7 +346,7 @@ rank,personName,age,finalWorth,category,country,gender_F,gender_M
 351,George Roberts,74,5000,10,20,0,1
 351,"Edward Roski, Jr.",79,5000,14,20,0,1
 365,Mike Adenuga,64,5000,13,42,0,1
-365,Jim Davis,74,5000,12,20,0,1
+365,Jim Davis & Family,74,5000,12,20,0,1
 365,David Filo,51,5000,8,20,0,1
 365,Pansy Ho,55,5000,4,1,1,0
 365,Henry Kravis,74,5000,10,20,0,1
@@ -903,7 +903,7 @@ rank,personName,age,finalWorth,category,country,gender_F,gender_M
 924,"Stephen Mandel, Jr.",61,2000,10,20,0,1
 924,Gilles Martin,54,2000,1,36,0,1
 924,Daniel Mate,54,2000,0,38,0,1
-924,Robert Miller,72,2000,8,49,0,1
+924,Robert G. Miller,72,2000,8,49,0,1
 924,Jorge Moll Filho,73,2000,1,17,0,1
 924,Maria Helena Moraes Scripilliti,87,2000,13,17,1,0
 924,Sean Parker,38,2000,8,20,0,1
