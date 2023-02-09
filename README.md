@@ -66,8 +66,8 @@ After cleaning the data set we can now see that our number of billionaires for 2
 
 ## Questions To Answer
 
-* Will a model be able to predict if a billionaire's final worth is greater than the mean value on the list based off feature input values?
-* What industries are 2022 billionaire's in?
+* Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
+* What industries are 2022 billionaires in?
 * Do the average ages of billionaires vary across different countries?
 * Which industries produced billionaires in specific age groups and demographics?
 * What is the percentage of male to female billionaires?
