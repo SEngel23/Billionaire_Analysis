@@ -91,4 +91,4 @@ These questions will be answered in our future analysis.
 
 - Machine learning algorithms typically only work with numerical data; therefore, things like the billionaire's country, the sector they made their wealth, and their gender were encoded to numerical values.
 
-- Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict net worth.
+- Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict if an net worth is greater than a specified value.
