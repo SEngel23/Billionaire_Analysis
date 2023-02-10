@@ -16,6 +16,10 @@ We will be analyzing trends seen in the billionaire community throughout this pr
 
 We chose this topic as all team members had an interest in analyzing data relevant to finance. When compared to other financial topics, such as car price prediction and stock price prediction, the billionaire data sparked more interest as it represents a way to inspect economies over time and over world locations.
 
+Analyzing the demographic information of billionaires can provide insight into the thriving industries, the accumulation of wealth, and the prevalent traits of billionaires such as age, gender, and location. Examining the yearly changes in billionaire data can give us a comprehensive understanding of growth patterns in emerging sectors.
+
+Our team will be interested to compare the number of billionaires in each industry, examine the gender ratio, and discover other demographic trends that present themselves between the data from 2018 and 2022.
+
 ## Analysis Overview:
 
 The purpose of this analysis was to clean the raw csv file containing information on Forbes Billionaires of 2022. The future use case of the cleaned billionaire csv file will be used for machine learning to better understand the relationships between key features and billionaires around the globe.
@@ -58,9 +62,24 @@ The purpose of this analysis was to clean the raw csv file containing informatio
 
 After cleaning the data set we can now see that our number of billionaires for 2022 are filtered down to 2,576 people with 8 important features. All of the information is relative to future analysis in understanding the relationships between these individuals around the world.
 
-The questions we want to answer are, what industries make up majority of billionaires? At what age is someone most likely to be a billionaire? Are they usually male or female? What country are they from and is there money inhereted or are they self made?
+---
 
-These questions will be answered in our future analysis.
+## Questions To Answer
+
+* Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
+* What industries are 2022 billionaires in?
+* Do the average ages of billionaires vary across different countries?
+* Which industries produced billionaires in specific age groups and demographics?
+* What is the percentage of male to female billionaires?
+* Which countries are home to billionaires? Also, how many billionaires live in each country?
+* Are a majority of billionaires male and over 50 years old?
+
+When comparing 2018 to 2022 data...
+* How has the distribution of industries that billionaires operate in changed from 2018 to 2022?
+* What has been the shift in the distribution of billionaires' net worths from 2018 to 2022?
+* What has been the change in the number of billionaires per country from 2018 to 2022?
+* What is the comparison of male to female billionaires from 2018 to 2022?
+* What has been the shift in the age groups of billionaires from 2018 to 2022?
 
 ---
 
@@ -72,6 +91,8 @@ These questions will be answered in our future analysis.
 - HTML: Dashboard creation using Javascript/ CSS for customization
 - Jupyter Notebook: Code production and testing purposes
 - Quick Database Diagrams: To draft the entity relationship diagram
+
+---
 
 ## Data:
 
