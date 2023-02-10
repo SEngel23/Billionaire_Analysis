@@ -1,18 +1,29 @@
 # Billionaire Analysis
 
+---
+
 **File Sources:**
 
 - Jupyter Notebook: [cleaning_data.ipynb](cleaning_data.ipynb)
 - CSV: [forbes_2022_billionaires.csv](Resources/forbes_2022_billionaires.csv)
 - Cleaned CSV: [cleaned_billionaire.csv](Resources/cleaned_billionaire.csv)
 
+**Technologies Used:**
+
+- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, confusion_matrix, accuracy_score, classification_report), Numpy
+- SQL: Database host
+- Tableau: Visualization creation
+- HTML: Dashboard creation using Javascript/ CSS for customization
+- Jupyter Notebook: Code production and testing purposes
+- Quick Database Diagrams: To draft the entity relationship diagram
+
 ---
 
-## Selected Topic
+## Topic Introduction:
 
 We will be analyzing trends seen in the billionaire community throughout this project. Specifically, we are looking to predict the net worth of a specific billionaire subject dependent on input variables including age, source of wealth and country. We plan to inspect two data frames from different periods in time (2018 and 2022) to understand changes over time as seen in subjects who hold billionaire status.
 
-## Reasoning
+## Purpose:
 
 We chose this topic as all team members had an interest in analyzing data relevant to finance. When compared to other financial topics, such as car price prediction and stock price prediction, the billionaire data sparked more interest as it represents a way to inspect economies over time and over world locations.
 
@@ -23,6 +34,44 @@ Our team will be interested to compare the number of billionaires in each indust
 ## Analysis Overview:
 
 The purpose of this analysis was to clean the raw csv file containing information on Forbes Billionaires of 2022. The future use case of the cleaned billionaire csv file will be used for machine learning to better understand the relationships between key features and billionaires around the globe.
+
+## Data Insights:
+
+- This project includes two separate sets of data: one captures data on billionaires in 2018, and the second dataset is of billionaires from 2022.
+
+- Both datasets are from Forbes.com. Forbes is a global media company that is focused on covering subjects regarding business, investing, technology, entrepreneurship, and lifestyle.
+
+- The original Forbes Billionaire datasets had 23 separate columns ranging from each billionaire’s biography, their net worth, to the number of siblings they have.
+
+- Based on the timeframe of this project, it was determined to build a supervised learning model; therefore, the data was encoded to numerical values in order for the machine learning model to produce a numerical outcome.
+
+- Also based on the scope and goal of the project the data was cleaned and reduced to 7 specific columns.
+
+- It was determined that the necessary columns included net worth, age, category, country, gender, and overall wealth rank.
+
+- Each billionaire's name became the project's primary unique value.
+
+- Machine learning algorithms typically only work with numerical data; therefore, things like the billionaire's country, the sector they made their wealth, and their gender were encoded to numerical values.
+
+- Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict if an net worth is greater than a specified value.
+
+## Questions To Answer:
+
+- Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
+- What industries are 2022 billionaires in?
+- Do the average ages of billionaires vary across different countries?
+- Which industries produced billionaires in specific age groups and demographics?
+- What is the percentage of male to female billionaires?
+- Which countries are home to billionaires? Also, how many billionaires live in each country?
+- Are a majority of billionaires male and over 50 years old?
+
+When comparing 2018 to 2022 data...
+
+- How has the distribution of industries that billionaires operate in changed from 2018 to 2022?
+- What has been the shift in the distribution of billionaires' net worths from 2018 to 2022?
+- What has been the change in the number of billionaires per country from 2018 to 2022?
+- What is the comparison of male to female billionaires from 2018 to 2022?
+- What has been the shift in the age groups of billionaires from 2018 to 2022?
 
 ---
 
@@ -61,55 +110,3 @@ The purpose of this analysis was to clean the raw csv file containing informatio
 ## Summary:
 
 After cleaning the data set we can now see that our number of billionaires for 2022 are filtered down to 2,576 people with 8 important features. All of the information is relative to future analysis in understanding the relationships between these individuals around the world.
-
----
-
-## Questions To Answer
-
-* Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
-* What industries are 2022 billionaires in?
-* Do the average ages of billionaires vary across different countries?
-* Which industries produced billionaires in specific age groups and demographics?
-* What is the percentage of male to female billionaires?
-* Which countries are home to billionaires? Also, how many billionaires live in each country?
-* Are a majority of billionaires male and over 50 years old?
-
-When comparing 2018 to 2022 data...
-* How has the distribution of industries that billionaires operate in changed from 2018 to 2022?
-* What has been the shift in the distribution of billionaires' net worths from 2018 to 2022?
-* What has been the change in the number of billionaires per country from 2018 to 2022?
-* What is the comparison of male to female billionaires from 2018 to 2022?
-* What has been the shift in the age groups of billionaires from 2018 to 2022?
-
----
-
-## Technologies Used:
-
-- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, confusion_matrix, accuracy_score, classification_report), Numpy
-- SQL: Database host
-- Tableau: Visualization creation
-- HTML: Dashboard creation using Javascript/ CSS for customization
-- Jupyter Notebook: Code production and testing purposes
-- Quick Database Diagrams: To draft the entity relationship diagram
-
----
-
-## Data:
-
-- This project includes two separate sets of data: one captures data on billionaires in 2018, and the second dataset is of billionaires from 2022.
-
-- Both datasets are from Forbes.com. Forbes is a global media company that is focused on covering subjects regarding business, investing, technology, entrepreneurship, and lifestyle.
-
-- The original Forbes Billionaire datasets had 23 separate columns ranging from each billionaire’s biography, their net worth, to the number of siblings they have.
-
-- Based on the timeframe of this project, it was determined to build a supervised learning model; therefore, the data was encoded to numerical values in order for the machine learning model to produce a numerical outcome.
-
-- Also based on the scope and goal of the project the data was cleaned and reduced to 7 specific columns.
-
-- It was determined that the necessary columns included net worth, age, category, country, gender, and overall wealth rank.
-
-- Each billionaire's name became the project's primary unique value.
-
-- Machine learning algorithms typically only work with numerical data; therefore, things like the billionaire's country, the sector they made their wealth, and their gender were encoded to numerical values.
-
-- Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict if an net worth is greater than a specified value.
