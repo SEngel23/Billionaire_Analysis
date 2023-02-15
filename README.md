@@ -59,6 +59,23 @@ Forbes is an American based business magazine and media company that produces ar
 
 - Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict if an net worth is greater than a specified value.
 
+## Data Columns Explained:
+
+<img width="494" alt="data columns " src="https://user-images.githubusercontent.com/112028534/218921791-344dd98a-6fb7-45ae-8f4c-3583992e5a8f.png">
+
+The first column is the person’s name which acts as the unique identifier and primary key. 
+
+The age column represents how old each billionaire is.
+
+The net worth of each billionaire is found in the billionaire final worth column.
+
+The industry that the billionaire derives the majority of their wealth from is captured in the category column.
+
+The country column illustrates each billionaire’s current citizenship.
+
+The gender column breaks down if each is either male or female
+
+
 ## Questions To Answer:
 
 - Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
