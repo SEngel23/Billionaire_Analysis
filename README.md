@@ -63,17 +63,17 @@ Forbes is an American based business magazine and media company that produces ar
 
 <img width="494" alt="data columns " src="https://user-images.githubusercontent.com/112028534/218921791-344dd98a-6fb7-45ae-8f4c-3583992e5a8f.png">
 
-The first column is the person’s name which acts as the unique identifier and primary key. 
+- The first column is the person’s name which acts as the unique identifier and primary key. 
 
-The age column represents how old each billionaire is.
+- The age column represents how old each billionaire is.
 
-The net worth of each billionaire is found in the billionaire final worth column.
+- The net worth of each billionaire is found in the billionaire final worth column.
 
-The industry that the billionaire derives the majority of their wealth from is captured in the category column.
+- The industry that the billionaire derives the majority of their wealth from is captured in the category column.
 
-The country column illustrates each billionaire’s current citizenship.
+- The country column illustrates each billionaire’s current citizenship.
 
-The gender column breaks down if each is either male or female
+- The gender columns split the billionaires into male or female categories.
 
 
 ## Questions To Answer:
