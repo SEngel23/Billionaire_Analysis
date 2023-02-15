@@ -59,6 +59,23 @@ Forbes is an American based business magazine and media company that produces ar
 
 - Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict if an net worth is greater than a specified value.
 
+## Data Columns Explained:
+
+<img width="494" alt="data columns " src="https://user-images.githubusercontent.com/112028534/218921791-344dd98a-6fb7-45ae-8f4c-3583992e5a8f.png">
+
+- The first column is the person’s name which acts as the unique identifier and primary key. 
+
+- The age column represents how old each billionaire is.
+
+- The net worth of each billionaire is found in the billionaire final worth column.
+
+- The industry that the billionaire derives the majority of their wealth from is captured in the category column.
+
+- The country column illustrates each billionaire’s current citizenship.
+
+- The gender columns split the billionaires into male or female categories.
+
+
 ## Questions To Answer:
 
 - Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
@@ -108,6 +125,16 @@ When comparing 2018 to 2022 data...
 - Taking a close look at the Industry Category and the number of billionaires we can see from the horizontal bar chart below which industries rank the highest. **#1 Finance & Investments, #2 Technology, and #3 Manufacturing**.
 
 ![2022_Category_vs_Billionaires](Images/2022_Category_vs_Billionaires.png)
+
+#### Machine Learning Model
+
+**Section 1:** The cleaned data was read into a dataframe for the 2022 Forbes List. A column was added to the dataframe that captured billionaires with final worth > 4799. If their final worth was greater than 4799, a 1 is generated into the column and a 0 if their final worth is less than 4799.
+Target features are "rank", "age", "category", "country", "gender_F", and "gender_M" with the target column "finalWorth>4799".
+Training and testing the model under logistic regression, the model was able to produce results of 99% accuracy.
+
+**Section 2:** This model takes the cleaned merge data from 2018 and 2022 and ran through another logistical regression model. Using the same framework as section 1, a new column was generated to identify billionaires with a networth over 4799. While this model generated a slightly low accuracy, the model is still very accurate with a result of 96.7%.
+
+**Section 3:** After further analysis of section 1 and 2 models, we wanted to see how much weight the "rank" column had on the machine learning model. The "rank" column was removed and the 2022 model from section 1 was ran through the logistical regression model to see how the results differ from the section 1 results. The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 75.4% versus with the "rank" column 99%.
 
 ---
 
