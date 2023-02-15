@@ -1,0 +1,2577 @@
+rank,personName,age,finalWorth,category,country,gender,finalWorth>4799
+1,Elon Musk,50.0,219000,Automotive,United States,M,1
+2,Jeff Bezos,58.0,171000,Technology,United States,M,1
+3,Bernard Arnault & family,73.0,158000,Fashion & Retail,France,M,1
+4,Bill Gates,66.0,129000,Technology,United States,M,1
+5,Warren Buffett,91.0,118000,Finance & Investments,United States,M,1
+6,Larry Page,49.0,111000,Technology,United States,M,1
+7,Sergey Brin,48.0,107000,Technology,United States,M,1
+8,Larry Ellison,77.0,106000,Technology,United States,M,1
+9,Steve Ballmer,66.0,91400,Technology,United States,M,1
+10,Mukesh Ambani,64.0,90700,Diversified,India,M,1
+11,Gautam Adani & family,59.0,90000,Diversified,India,M,1
+12,Michael Bloomberg,80.0,82000,Media & Entertainment,United States,M,1
+13,Carlos Slim Helu & family,82.0,81200,Telecom,Mexico,M,1
+14,Francoise Bettencourt Meyers & family,68.0,74800,Fashion & Retail,France,F,1
+15,Mark Zuckerberg,37.0,67300,Technology,United States,M,1
+16,Jim Walton,73.0,66200,Fashion & Retail,United States,M,1
+17,Zhong Shanshan,67.0,65700,Food & Beverage,China,M,1
+18,Alice Walton,72.0,65300,Fashion & Retail,United States,F,1
+19,Rob Walton,77.0,65000,Fashion & Retail,United States,M,1
+19,Changpeng Zhao,44.0,65000,Finance & Investments,Singapore,M,1
+21,Charles Koch,86.0,60000,Diversified,United States,M,1
+21,Julia Koch & family,59.0,60000,Diversified,United States,F,1
+23,Amancio Ortega,86.0,59600,Fashion & Retail,Spain,M,1
+24,Michael Dell,57.0,55100,Technology,United States,M,1
+25,Zhang Yiming,38.0,50000,Media & Entertainment,China,M,1
+26,David Thomson & family,64.0,49200,Media & Entertainment,Canada,M,1
+27,Phil Knight & family,84.0,47300,Fashion & Retail,United States,M,1
+28,Dieter Schwarz,82.0,47100,Fashion & Retail,Germany,M,1
+29,Robin Zeng,53.0,44800,Automotive,China,M,1
+30,MacKenzie Scott,51.0,43600,Technology,United States,F,1
+31,Rodolphe Saadé & family,52.0,41400,Logistics,France,M,1
+32,François Pinault & family,85.0,40400,Fashion & Retail,France,M,1
+33,Klaus-Michael Kuehne,84.0,37300,Logistics,Switzerland,M,1
+34,Ma Huateng,50.0,37200,Technology,China,M,1
+36,Giovanni Ferrero,57.0,36200,Food & Beverage,Belgium,M,1
+37,Li Ka-shing,93.0,34800,Diversified,Hong Kong,M,1
+37,Stephen Schwarzman,75.0,34800,Finance & Investments,United States,M,1
+39,Lee Shau Kee,94.0,32600,Real Estate,Hong Kong,M,1
+40,Len Blavatnik,64.0,32500,Diversified,United Kingdom,M,1
+41,Jacqueline Mars,82.0,31700,Food & Beverage,United States,F,1
+41,John Mars,86.0,31700,Food & Beverage,United States,M,1
+43,Alain Wertheimer,73.0,31200,Fashion & Retail,United States,M,1
+43,Gerard Wertheimer,71.0,31200,Fashion & Retail,United States,M,1
+45,German Larrea Mota Velasco & family,68.0,30800,Metals & Mining,Mexico,M,1
+46,Gina Rinehart,68.0,30200,Metals & Mining,Australia,F,1
+47,Shiv Nadar,76.0,28700,Technology,India,M,1
+48,Jim Simons,83.0,28600,Finance & Investments,United States,M,1
+49,He Xiangjian,79.0,28300,Manufacturing,China,M,1
+50,Miriam Adelson,76.0,27500,Gambling & Casinos,United States,F,1
+51,Dietrich Mateschitz,77.0,27400,Food & Beverage,Austria,M,1
+52,Leonardo Del Vecchio & family,86.0,27300,Fashion & Retail,Italy,M,1
+53,Ken Griffin,53.0,27200,Finance & Investments,United States,M,1
+54,Tadashi Yanai & family,73.0,26100,Fashion & Retail,Japan,M,1
+55,William Lei Ding,50.0,25200,Technology,China,M,1
+56,Susanne Klatten,59.0,24300,Automotive,Germany,F,1
+56,Cyrus Poonawalla,80.0,24300,Healthcare,India,M,1
+56,Wang Wei,51.0,24300,Service,China,M,1
+59,Qin Yinglin,56.0,24100,Food & Beverage,China,M,1
+60,Sam Bankman-Fried,30.0,24000,Finance & Investments,Bahamas,M,1
+61,Takemitsu Takizaki,76.0,23900,Manufacturing,Japan,M,1
+62,Li Shufu,58.0,23700,Automotive,China,M,1
+63,Emmanuel Besnier,51.0,23500,Food & Beverage,France,M,1
+64,R. Budi Hartono,81.0,23200,Finance & Investments,Indonesia,M,1
+65,Leonard Lauder,89.0,23100,Fashion & Retail,United States,M,1
+66,Guillaume Pousaz,40.0,23000,Finance & Investments,Switzerland,M,1
+67,Iris Fontbona & family,79.0,22800,Metals & Mining,Chile,F,1
+67,Jack Ma,57.0,22800,Technology,China,M,1
+69,Michael Hartono,82.0,22300,Manufacturing,Indonesia,M,1
+70,Eric Schmidt,66.0,22100,Technology,United States,M,1
+71,Ray Dalio,72.0,22000,Finance & Investments,United States,M,1
+71,Daniel Gilbert,60.0,22000,Finance & Investments,United States,M,1
+73,"Thomas Frist, Jr. & family",83.0,21800,Healthcare,United States,M,1
+74,Masayoshi Son,64.0,21300,Telecom,Japan,M,1
+75,Abigail Johnson,60.0,21200,Finance & Investments,United States,F,1
+76,Rupert Murdoch & family,91.0,20800,Media & Entertainment,United States,M,1
+77,Stefan Quandt,55.0,20700,Automotive,Germany,M,1
+78,Jensen Huang,59.0,20600,Technology,United States,M,1
+79,Huang Shilin,55.0,20300,Automotive,China,M,1
+80,Thomas Peterffy,77.0,20100,Finance & Investments,United States,M,1
+81,Radhakishan Damani,67.0,20000,Fashion & Retail,India,M,1
+82,Pang Kang,66.0,19600,Food & Beverage,China,M,1
+83,Wang Chuanfu,56.0,19500,Automotive,China,M,1
+84,Reinhold Wuerth & family,86.0,19000,Manufacturing,Germany,M,1
+85,"Theo Albrecht, Jr. & family",71.0,18700,Fashion & Retail,Germany,M,1
+85,Yang Huiyan & family,40.0,18700,Real Estate,China,F,1
+87,Vladimir Lisin,65.0,18400,Metals & Mining,Russia,M,1
+88,Fan Hongwei & family,55.0,18200,Energy,China,F,1
+89,Lakshmi Mittal,71.0,17900,Metals & Mining,United Kingdom,M,1
+90,Andrew Forrest,60.0,17800,Metals & Mining,Australia,M,1
+91,Jiang Rensheng & family,68.0,17700,Healthcare,China,M,1
+91,Savitri Jindal & family,72.0,17700,Metals & Mining,India,F,1
+91,Wang Wenyin,54.0,17700,Metals & Mining,China,M,1
+94,Li Xiting,71.0,17600,Healthcare,China,M,1
+94,Stefan Persson,74.0,17600,Fashion & Retail,Sweden,M,1
+96,Steve Cohen,65.0,17400,Finance & Investments,United States,M,1
+97,Vladimir Potanin,61.0,17300,Metals & Mining,Russia,M,1
+98,Harold Hamm & family,76.0,17200,Energy,United States,M,1
+99,Sun Piaoyang,63.0,17100,Healthcare,China,M,1
+100,Luo Liguo & family,66.0,17000,Manufacturing,China,M,1
+100,Peter Woo,75.0,17000,Real Estate,Hong Kong,M,1
+103,David Tepper,64.0,16700,Finance & Investments,United States,M,1
+104,Renata Kellnerova & family,54.0,16600,Finance & Investments,Czechia,F,1
+104,"John Menard, Jr.",82.0,16600,Fashion & Retail,United States,M,1
+106,Kumar Birla,54.0,16500,Diversified,India,M,1
+106,Carl Icahn,86.0,16500,Finance & Investments,United States,M,1
+106,Lukas Walton,35.0,16500,Fashion & Retail,United States,M,1
+110,Laurene Powell Jobs & family,58.0,16400,Technology,United States,F,1
+111,James Ratcliffe,69.0,16300,Manufacturing,United Kingdom,M,1
+112,Donald Bren,89.0,16200,Real Estate,United States,M,1
+113,Xu Hang,55.0,16100,Healthcare,China,M,1
+114,Lu Xiangyang,59.0,15700,Automotive,China,M,1
+115,Dilip Shanghvi,66.0,15600,Healthcare,India,M,1
+116,Wei Jianjun & family,58.0,15500,Automotive,China,M,1
+117,Jorge Paulo Lemann & family,82.0,15400,Food & Beverage,Switzerland,M,1
+117,Eyal Ofer,71.0,15400,Diversified,Monaco,M,1
+119,Mike Cannon-Brookes,42.0,15300,Technology,Australia,M,1
+119,Wu Yajun,58.0,15300,Real Estate,China,F,1
+121,Charlene de Carvalho-Heineken & family,67.0,15200,Food & Beverage,United Kingdom,F,1
+121,Michael Platt,54.0,15200,Finance & Investments,Switzerland,M,1
+123,Pavel Durov,37.0,15100,Technology,United Arab Emirates,M,1
+123,Scott Farquhar,42.0,15100,Technology,Australia,M,1
+125,Pallonji Mistry,92.0,15000,Construction & Engineering,India,M,1
+126,Dang Yanbao,49.0,14800,Metals & Mining,China,M,1
+127,Robert Pera,44.0,14600,Technology,United States,M,1
+128,Donald Newhouse,92.0,14400,Media & Entertainment,United States,M,1
+129,Uday Kotak,63.0,14300,Finance & Investments,India,M,1
+130,Aliko Dangote,64.0,14000,Manufacturing,Nigeria,M,1
+130,Leonid Mikhelson,66.0,14000,Energy,Russia,M,1
+132,Sunil Mittal & family,64.0,13900,Telecom,India,M,1
+134,Liu Hanyuan,58.0,13650,Food & Beverage,China,M,1
+135,Joseph Lau,70.0,13600,Real Estate,Hong Kong,M,1
+135,Anders Holch Povlsen,49.0,13600,Fashion & Retail,Denmark,M,1
+137,Dhanin Chearavanont,82.0,13500,Diversified,Thailand,M,1
+138,Gong Hongjia & family,57.0,13200,Finance & Investments,Hong Kong,M,1
+138,Liu Yongxing,73.0,13200,Service,China,M,1
+138,Alexey Mordashov,56.0,13200,Metals & Mining,Russia,M,1
+138,Wang Jianlin,67.0,13200,Real Estate,China,M,1
+142,David Duffield,81.0,12900,Technology,United States,M,1
+142,Li Zhenguo & family,54.0,12900,Manufacturing,China,M,1
+144,Harry Triguboff,89.0,12800,Real Estate,Australia,M,1
+144,Zhang Zhidong,50.0,12800,Technology,China,M,1
+146,Chen Bang,56.0,12700,Healthcare,China,M,1
+146,John Doerr,70.0,12700,Technology,United States,M,1
+149,Kwong Siu-hing,92.0,12600,Real Estate,Hong Kong,F,1
+150,Pei Zhenhua,63.0,12500,Energy,China,M,1
+151,Ricardo Salinas Pliego & family,66.0,12400,Fashion & Retail,Mexico,M,1
+152,Jim Pattison,93.0,12200,Diversified,Canada,M,1
+152,Charles Schwab,84.0,12200,Finance & Investments,United States,M,1
+154,Goh Cheng Liang,94.0,12100,Manufacturing,Singapore,M,1
+154,Lin Jianhua & family,59.0,12100,Manufacturing,China,M,1
+156,Charoen Sirivadhanabhakdi,77.0,12000,Food & Beverage,Thailand,M,1
+156,Jeff Yass,63.0,12000,Finance & Investments,United States,M,1
+158,John Fredriksen,77.0,11900,Logistics,United Kingdom,M,1
+158,Andreas Struengmann & family,72.0,11900,Healthcare,Germany,M,1
+158,Thomas Struengmann & family,72.0,11900,Healthcare,Germany,M,1
+161,Mikhail Fridman,57.0,11800,Energy,United Kingdom,M,1
+161,Sarath Ratanavadi,56.0,11800,Energy,Thailand,M,1
+163,Robert Kuok,98.0,11700,Diversified,Hong Kong,M,1
+163,Lei Jun,52.0,11700,Technology,China,M,1
+163,Zhang Congyuan,74.0,11700,Fashion & Retail,Taiwan,M,1
+166,Lui Che Woo,93.0,11600,Gambling & Casinos,Hong Kong,M,1
+167,Brian Chesky,40.0,11500,Technology,United States,M,1
+167,Israel Englander,73.0,11500,Finance & Investments,United States,M,1
+167,Dustin Moskovitz,37.0,11500,Technology,United States,M,1
+167,Alisher Usmanov,68.0,11500,Metals & Mining,Russia,M,1
+171,Jay Chaudhry,62.0,11400,Technology,United States,M,1
+171,Anthony Pratt,61.0,11400,Manufacturing,Australia,M,1
+173,Colin Zheng Huang,42.0,11300,Technology,China,M,1
+173,Jin Baofang,69.0,11300,Energy,China,M,1
+173,Pierre Omidyar,54.0,11300,Technology,United States,M,1
+173,Gennady Timchenko,69.0,11300,Energy,Russia,M,1
+177,Carl Cook,59.0,11100,Healthcare,United States,M,1
+177,Andrey Melnichenko,50.0,11100,Metals & Mining,Russia,M,1
+179,Xing Wang,43.0,11000,Technology,China,M,1
+180,Philip Anschutz,82.0,10900,Finance & Investments,United States,M,1
+180,David Cheriton,71.0,10900,Technology,United States,M,1
+180,Alexander Otto,54.0,10900,Real Estate,Germany,M,1
+183,Diane Hendricks,75.0,10700,Construction & Engineering,United States,F,1
+183,Stanley Kroenke,74.0,10700,Sports,United States,M,1
+185,Jerry Jones,79.0,10600,Sports,United States,M,1
+185,Quek Leng Chan,80.0,10600,Diversified,Malaysia,M,1
+185,Eduardo Saverin,40.0,10600,Technology,Singapore,M,1
+188,Vagit Alekperov,71.0,10500,Energy,Russia,M,1
+188,Richard Qiangdong Liu,48.0,10500,Technology,China,M,1
+188,Idan Ofer,66.0,10500,Diversified,United Kingdom,M,1
+191,Melker Schorling & family,74.0,10400,Finance & Investments,Sweden,M,1
+192,"Chase Coleman, III.",46.0,10300,Finance & Investments,United States,M,1
+192,Shuirong Li,65.0,10300,Manufacturing,China,M,1
+192,Stefano Pessina,80.0,10300,Fashion & Retail,Monaco,M,1
+192,Mikhail Prokhorov,56.0,10300,Finance & Investments,Russia,M,1
+192,Marcel Herrmann Telles,72.0,10300,Food & Beverage,Brazil,M,1
+197,Leon Black,70.0,10000,Finance & Investments,United States,M,1
+197,Joe Gebbia,40.0,10000,Technology,United States,M,1
+197,David Geffen,79.0,10000,Media & Entertainment,United States,M,1
+197,Yu Renrong,56.0,10000,Manufacturing,China,M,1
+201,Andrew Beal,69.0,9900,Finance & Investments,United States,M,1
+201,George Kaiser,79.0,9900,Energy,United States,M,1
+201,Qi Shi & family,52.0,9900,Technology,China,M,1
+201,Luis Carlos Sarmiento,89.0,9900,Finance & Investments,Colombia,M,1
+201,Andreas von Bechtolsheim & family,66.0,9900,Technology,United States,M,1
+206,Jan Koum,46.0,9800,Technology,United States,M,1
+206,Jorge Moll Filho & family,77.0,9800,Healthcare,Brazil,M,1
+206,Azim Premji,76.0,9800,Technology,India,M,1
+206,Finn Rausing,67.0,9800,Food & Beverage,United Kingdom,M,1
+206,Jorn Rausing,62.0,9800,Food & Beverage,United Kingdom,M,1
+206,Kirsten Rausing,69.0,9800,Food & Beverage,United Kingdom,F,1
+206,Wang Laisheng,57.0,9800,Technology,China,M,1
+214,John Collison,31.0,9500,Technology,United States,M,1
+214,Patrick Collison,33.0,9500,Technology,United States,M,1
+214,Gordon Moore,93.0,9500,Technology,United States,M,1
+214,Wang Laichun,54.0,9500,Technology,China,F,1
+218,Graeme Hart,66.0,9400,Finance & Investments,New Zealand,M,1
+218,Zheng Shuliang & family,76.0,9400,Metals & Mining,China,F,1
+220,Cao Renxian,53.0,9300,Energy,China,M,1
+221,Nathan Blecharczyk,38.0,9200,Technology,United States,M,1
+221,James Dyson,74.0,9200,Manufacturing,United Kingdom,M,1
+223,Ivan Glasenberg,65.0,9100,Metals & Mining,Switzerland,M,1
+223,Kim Beom-su,56.0,9100,Technology,South Korea,M,1
+223,Jay Y. Lee,53.0,9100,Diversified,South Korea,M,1
+223,Liu Yonghao & family,70.0,9100,Service,China,M,1
+227,Ann Walton Kroenke,73.0,9000,Fashion & Retail,United States,F,1
+227,Li Ping,54.0,9000,Automotive,China,M,1
+227,Eric Wittouck,75.0,9000,Finance & Investments,Monaco,M,1
+230,Friedhelm Loh,75.0,8900,Manufacturing,Germany,M,1
+230,Xavier Niel,54.0,8900,Telecom,France,M,1
+230,Michael Otto,78.0,8900,Fashion & Retail,Germany,M,1
+230,Johann Rupert & family,71.0,8900,Fashion & Retail,South Africa,M,1
+235,Hui Ka Yan,63.0,8800,Real Estate,China,M,1
+235,Pauline MacMillan Keinath,88.0,8800,Food & Beverage,United States,F,1
+235,"Herbert Kohler, Jr. & family",83.0,8800,Manufacturing,United States,M,1
+235,Li Ge,55.0,8800,Healthcare,China,M,1
+235,Kushal Pal Singh,90.0,8800,Real Estate,India,M,1
+235,Zong Qinghou,76.0,8800,Food & Beverage,China,M,1
+241,Cai Kui,59.0,8700,Real Estate,China,M,1
+241,Charles Ergen,69.0,8700,Media & Entertainment,United States,M,1
+241,Gao Jifan & family,57.0,8700,Energy,China,M,1
+241,Bernard Marcus,92.0,8700,Fashion & Retail,United States,M,1
+241,Nicky Oppenheimer & family,76.0,8700,Metals & Mining,South Africa,M,1
+246,"Ernest Garcia, II.",64.0,8600,Automotive,United States,M,1
+246,Paul Xiaoming Lee & family,64.0,8600,Manufacturing,China,M,1
+246,George Soros,91.0,8600,Finance & Investments,United States,M,1
+246,Wang Liping & family,56.0,8600,Manufacturing,China,M,1
+251,Ernesto Bertarelli,56.0,8500,Healthcare,Switzerland,M,1
+251,Tamara Gustavson,60.0,8500,Service,United States,F,1
+251,Carlos Alberto Sicupira & family,74.0,8500,Food & Beverage,Switzerland,M,1
+254,Laurent Dassault,68.0,8400,Diversified,France,M,1
+254,Thierry Dassault,65.0,8400,Diversified,France,M,1
+254,Marie-Hélène Habert-Dassault,57.0,8400,Diversified,France,F,1
+254,Liu Jincheng & family,57.0,8400,Technology,China,M,1
+254,Ma Jianrong & family,58.0,8400,Fashion & Retail,China,M,1
+254,Steven Rales,71.0,8400,Manufacturing,United States,M,1
+254,Joseph Tsai,58.0,8400,Technology,Hong Kong,M,1
+254,Anthony von Mandl,72.0,8400,Food & Beverage,Canada,M,1
+263,Carl Bennet,70.0,8300,Finance & Investments,Sweden,M,1
+263,Robert Kraft,80.0,8300,Sports,United States,M,1
+263,Chairul Tanjung,59.0,8300,Diversified,Indonesia,M,1
+263,Manuel Villar,72.0,8300,Real Estate,Philippines,M,1
+267,Jean-Michel Besnier,54.0,8200,Food & Beverage,France,M,1
+267,Marie Besnier Beauvalot,41.0,8200,Food & Beverage,France,F,1
+267,Gustaf Douglas,84.0,8200,Diversified,Sweden,M,1
+267,Kjeld Kirk Kristiansen,74.0,8200,Manufacturing,Denmark,M,1
+267,Sofie Kirk Kristiansen,46.0,8200,Manufacturing,Denmark,F,1
+267,Thomas Kirk Kristiansen,43.0,8200,Manufacturing,Denmark,M,1
+267,Stephen Ross,81.0,8200,Real Estate,United States,M,1
+267,Agnete Kirk Thinggaard,38.0,8200,Manufacturing,Denmark,F,1
+275,Marc Benioff,57.0,8100,Technology,United States,M,1
+275,Dmitri Bukhman,36.0,8100,Media & Entertainment,United Kingdom,M,1
+275,Igor Bukhman,40.0,8100,Media & Entertainment,United Kingdom,M,1
+275,Francis Choi,74.0,8100,Real Estate,Hong Kong,M,1
+275,Murali Divi & family,71.0,8100,Healthcare,India,M,1
+275,Nancy Walton Laurie,70.0,8100,Fashion & Retail,United States,F,1
+275,Georg Schaeffler,57.0,8100,Automotive,Germany,M,1
+275,Yao Liangsong,57.0,8100,Manufacturing,China,M,1
+275,Zhong Huijuan,61.0,8100,Healthcare,China,F,1
+284,George Roberts,78.0,8000,Finance & Investments,United States,M,1
+284,Michael Rubin,49.0,8000,Fashion & Retail,United States,M,1
+284,Patrick Ryan,84.0,8000,Finance & Investments,United States,M,1
+288,Christopher Hohn,55.0,7900,Finance & Investments,United Kingdom,M,1
+288,Marijke Mars,57.0,7900,Food & Beverage,United States,F,1
+288,Pamela Mars,61.0,7900,Food & Beverage,United States,F,1
+288,Valerie Mars,63.0,7900,Food & Beverage,United States,F,1
+288,Victoria Mars,65.0,7900,Food & Beverage,United States,F,1
+288,Hasso Plattner & family,78.0,7900,Technology,Germany,M,1
+288,Georg Stumpf,49.0,7900,Diversified,Austria,M,1
+288,Christy Walton,73.0,7900,Fashion & Retail,United States,F,1
+296,Giorgio Armani,87.0,7800,Fashion & Retail,Italy,M,1
+296,Gopikishan Damani,64.0,7800,Fashion & Retail,India,M,1
+296,Ding Shizhong & family,51.0,7800,Fashion & Retail,China,M,1
+296,Jim Kennedy,74.0,7800,Media & Entertainment,United States,M,1
+296,German Khan,60.0,7800,Energy,United Kingdom,M,1
+296,Liang Wengen,65.0,7800,Manufacturing,China,M,1
+296,Blair Parry-Okeden,71.0,7800,Media & Entertainment,Australia,F,1
+296,Tsai Eng-meng,65.0,7800,Food & Beverage,China,M,1
+304,Ashwin Dani & family,79.0,7700,Manufacturing,India,M,1
+304,Ding Shijia,58.0,7700,Fashion & Retail,China,M,1
+304,Karel Komarek,53.0,7700,Gambling & Casinos,Switzerland,M,1
+304,Henry Kravis,78.0,7700,Finance & Investments,United States,M,1
+304,Frederik Paulsen,71.0,7700,Healthcare,Switzerland,M,1
+304,Nassef Sawiris,61.0,7700,Construction & Engineering,Egypt,M,1
+304,Xu Shihui,64.0,7700,Food & Beverage,China,M,1
+313,Rahel Blocher,46.0,7600,Manufacturing,Switzerland,F,1
+313,Shahid Khan,71.0,7600,Automotive,United States,M,1
+313,Magdalena Martullo-Blocher,53.0,7600,Manufacturing,Switzerland,F,1
+316,Vincent Bolloré & family,70.0,7500,Finance & Investments,France,M,1
+316,Jeffery Hildebrand,63.0,7500,Energy,United States,M,1
+316,Michael Kim,58.0,7500,Finance & Investments,South Korea,M,1
+316,Richard Kinder,77.0,7500,Energy,United States,M,1
+316,David Shaw,71.0,7500,Finance & Investments,United States,M,1
+321,John Malone,81.0,7400,Media & Entertainment,United States,M,1
+321,Vicky Safra,69.0,7400,Finance & Investments,Switzerland,F,1
+321,Tim Sweeney,51.0,7400,Media & Entertainment,United States,M,1
+324,Mike Adenuga,68.0,7300,Diversified,Nigeria,M,1
+324,David Green & family,80.0,7300,Fashion & Retail,United States,M,1
+324,"Paul Tudor Jones, II.",67.0,7300,Finance & Investments,United States,M,1
+324,Yuri Milner,60.0,7300,Finance & Investments,United States,M,1
+324,Henry Samueli,67.0,7300,Technology,United States,M,1
+324,Patrick Soon-Shiong,69.0,7300,Healthcare,United States,M,1
+330,Antonia Ax:son Johnson & family,78.0,7200,Diversified,Sweden,F,1
+330,Michael Kadoorie,80.0,7200,Energy,Hong Kong,M,1
+330,Lin Shu-hong,93.0,7200,Manufacturing,Taiwan,M,1
+330,Niels Peter Louis-Hansen,74.0,7200,Healthcare,Denmark,M,1
+330,Reinhold Schmieding,67.0,7200,Healthcare,United States,M,1
+330,Wee Cho Yaw,93.0,7200,Finance & Investments,Singapore,M,1
+336,Silvio Berlusconi & family,85.0,7100,Diversified,Italy,M,1
+336,Arthur Blank,79.0,7100,Sports,United States,M,1
+336,Qian Dongqi & family,64.0,7100,Manufacturing,China,M,1
+336,J. Christopher Reyes,68.0,7100,Food & Beverage,United States,M,1
+336,Jude Reyes,66.0,7100,Food & Beverage,United States,M,1
+336,Nik Storonsky,37.0,7100,Finance & Investments,United Kingdom,M,1
+336,Zhou Qunfei & family,52.0,7100,Technology,Hong Kong,F,1
+343,Deng Weiming & family,53.0,7000,Manufacturing,China,M,1
+343,Judy Faulkner,78.0,7000,Technology,United States,F,1
+343,Robin Li,53.0,7000,Technology,China,M,1
+343,Carrie Perrodo & family,71.0,7000,Energy,United Kingdom,F,1
+343,David Reuben,83.0,7000,Real Estate,United Kingdom,M,1
+343,Simon Reuben,80.0,7000,Diversified,Monaco,M,1
+343,Seo Jung-jin,64.0,7000,Healthcare,South Korea,M,1
+350,Roman Abramovich,55.0,6900,Diversified,Russia,M,1
+350,Micky Arison,72.0,6900,Service,United States,M,1
+350,Edythe Broad & family,86.0,6900,Diversified,United States,F,1
+350,Terry Gou,71.0,6900,Technology,Taiwan,M,1
+350,Jiang Bin,55.0,6900,Technology,China,M,1
+350,Vinod Khosla,67.0,6900,Technology,United States,M,1
+350,Ralph Lauren,82.0,6900,Fashion & Retail,United States,M,1
+350,Douglas Leone,64.0,6900,Finance & Investments,United States,M,1
+350,Lucia Maggi & family,89.0,6900,Diversified,Brazil,F,1
+350,Horst Julius Pudwill,77.0,6900,Manufacturing,Hong Kong,M,1
+350,Abdulsamad Rabiu,61.0,6900,Diversified,Nigeria,M,1
+350,Harry Stine,80.0,6900,Food & Beverage,United States,M,1
+350,Dennis Washington,87.0,6900,Logistics,United States,M,1
+363,Hasmukh Chudgar & family,88.0,6800,Healthcare,India,M,1
+363,Stanley Druckenmiller,68.0,6800,Finance & Investments,United States,M,1
+363,Jonathan Gray,52.0,6800,Finance & Investments,United States,M,1
+363,Kwon Hyuk-bin,48.0,6800,Technology,South Korea,M,1
+363,Frank Lowy,91.0,6800,Real Estate,Israel,M,1
+363,Ronda Stryker,67.0,6800,Healthcare,United States,F,1
+369,Benu Gopal Bangur,90.0,6700,Manufacturing,India,M,1
+369,James Goodnight,79.0,6700,Technology,United States,M,1
+369,Alain Merieux & family,84.0,6700,Healthcare,France,M,1
+369,Enrique Razon Jr.,62.0,6700,Logistics,Philippines,M,1
+369,Robert F. Smith,59.0,6700,Finance & Investments,United States,M,1
+375,Brian Armstrong,39.0,6600,Finance & Investments,United States,M,1
+375,Dannine Avara,58.0,6600,Energy,United States,F,1
+375,Patrick Drahi,58.0,6600,Telecom,Switzerland,M,1
+375,Scott Duncan,39.0,6600,Energy,United States,M,1
+375,Milane Frantz,52.0,6600,Energy,United States,F,1
+375,Andreas Halvorsen,60.0,6600,Finance & Investments,United States,M,1
+375,Law Kar Po,73.0,6600,Real Estate,Hong Kong,M,1
+375,Nicolas Puech,79.0,6600,Fashion & Retail,Switzerland,M,1
+375,Viktor Rashnikov,73.0,6600,Manufacturing,Russia,M,1
+375,Dmitry Rybolovlev,55.0,6600,Manufacturing,Monaco,M,1
+375,Randa Duncan Williams,60.0,6600,Energy,United States,F,1
+386,Chen Jianhua,51.0,6500,Manufacturing,China,M,1
+386,John Grayken,65.0,6500,Finance & Investments,United Kingdom,M,1
+386,Ray Lee Hunt,78.0,6500,Energy,United States,M,1
+386,Philippe Laffont,54.0,6500,Finance & Investments,United States,M,1
+386,"Henry Nicholas, III.",62.0,6500,Technology,United States,M,1
+386,Axel Oberwelland & siblings,55.0,6500,Food & Beverage,Germany,M,1
+386,Cliff Obrecht,36.0,6500,Technology,Australia,M,1
+386,John Overdeck,52.0,6500,Finance & Investments,United States,M,1
+386,Melanie Perkins,34.0,6500,Technology,Australia,F,1
+386,Ruan Hongliang & family,61.0,6500,Manufacturing,China,M,1
+386,David Siegel,60.0,6500,Finance & Investments,United States,M,1
+386,David Velez,40.0,6500,Finance & Investments,Brazil,M,1
+398,Juergen Blickle,75.0,6400,Manufacturing,Germany,M,1
+398,Cheng Xue,52.0,6400,Food & Beverage,China,F,1
+398,Jack Dangermond,76.0,6400,Technology,United States,M,1
+398,Jiang Weiping & family,67.0,6400,Manufacturing,China,M,1
+398,Takahisa Takahara,60.0,6400,Fashion & Retail,Japan,M,1
+403,Orlando Bravo,51.0,6300,Finance & Investments,United States,M,1
+403,Hong Ra-hee,76.0,6300,Technology,South Korea,F,1
+403,"Edward Johnson, IV.",57.0,6300,Finance & Investments,United States,M,1
+403,Li Xiaohua & family,60.0,6300,Manufacturing,China,M,1
+403,Sri Prakash Lohia,69.0,6300,Manufacturing,United Kingdom,M,1
+403,Miao Hangen,57.0,6300,Diversified,China,M,1
+403,Bobby Murphy,33.0,6300,Technology,United States,M,1
+403,Wu Jianshu,58.0,6300,Automotive,China,M,1
+411,Maria Asuncion Aramburuzabala & family,58.0,6200,Food & Beverage,Mexico,F,1
+411,Melinda French Gates,57.0,6200,Technology,United States,F,1
+411,Bruce Kovner,77.0,6200,Finance & Investments,United States,M,1
+411,Pham Nhat Vuong,53.0,6200,Diversified,Vietnam,M,1
+411,Michal Solowow,59.0,6200,Finance & Investments,Poland,M,1
+411,Leonard Stern,84.0,6200,Real Estate,United States,M,1
+411,Stef Wertheimer & family,95.0,6200,Manufacturing,Israel,M,1
+418,Rocco Commisso,72.0,6100,Telecom,United States,M,1
+418,Jack Dorsey,45.0,6100,Technology,United States,M,1
+418,Lin Li,58.0,6100,Finance & Investments,China,M,1
+418,George Lucas,77.0,6100,Media & Entertainment,United States,M,1
+418,Evan Spiegel,31.0,6100,Technology,United States,M,1
+418,Zhao Yan,55.0,6100,Diversified,China,F,1
+424,Tom Gores,57.0,6000,Finance & Investments,United States,M,1
+424,Leo Koguan,67.0,6000,Technology,Singapore,M,1
+424,Alexei Kuzmichev,59.0,6000,Energy,Russia,M,1
+424,Fredrik Lundberg,70.0,6000,Real Estate,Sweden,M,1
+424,John Morris,74.0,6000,Fashion & Retail,United States,M,1
+424,Ivar Tollefsen,60.0,6000,Real Estate,Norway,M,1
+431,Stephen Bisciotti,61.0,5900,Sports,United States,M,1
+431,Mahendra Choksi & family,80.0,5900,Manufacturing,India,M,1
+431,Jian Jun,58.0,5900,Healthcare,China,F,1
+431,Barry Lam,72.0,5900,Technology,Taiwan,M,1
+431,Michael Moritz,67.0,5900,Technology,United States,M,1
+431,Teh Hong Piow,92.0,5900,Finance & Investments,Malaysia,M,1
+431,Gary Wang,28.0,5900,Finance & Investments,Bahamas,M,1
+438,Andre Esteves,53.0,5800,Finance & Investments,Brazil,M,1
+438,Joshua Harris,57.0,5800,Finance & Investments,United States,M,1
+438,Rakesh Jhunjhunwala,61.0,5800,Finance & Investments,India,M,1
+438,Ken Langone,86.0,5800,Finance & Investments,United States,M,1
+438,Ludwig Merckle,57.0,5800,Finance & Investments,Germany,M,1
+438,Sandra Ortega Mera,53.0,5800,Fashion & Retail,Spain,F,1
+438,Terrence Pegula,71.0,5800,Energy,United States,M,1
+438,Karen Pritzker,64.0,5800,Finance & Investments,United States,F,1
+438,Mitchell Rales,65.0,5800,Manufacturing,United States,M,1
+438,Wolfgang Reimann,69.0,5800,Fashion & Retail,Germany,M,1
+438,Matthias Reimann-Andersen,57.0,5800,Fashion & Retail,Germany,M,1
+438,Stefan Reimann-Andersen,58.0,5800,Fashion & Retail,Austria,M,1
+438,Renate Reimann-Haas,70.0,5800,Fashion & Retail,Austria,F,1
+438,Ruan Liping,58.0,5800,Manufacturing,China,M,1
+438,Ruan Xueping,50.0,5800,Manufacturing,China,M,1
+438,Charles Simonyi,73.0,5800,Technology,United States,M,1
+438,John A. Sobrato & family,82.0,5800,Real Estate,United States,M,1
+438,David Steward,70.0,5800,Technology,United States,M,1
+438,Radovan Vitek,50.0,5800,Real Estate,Switzerland,M,1
+438,Les Wexner & family,84.0,5800,Fashion & Retail,United States,M,1
+438,Aloys Wobben,70.0,5800,Energy,Germany,M,1
+438,Sam Zell,80.0,5800,Real Estate,United States,M,1
+460,Anthony Bamford & family,76.0,5700,Construction & Engineering,United Kingdom,M,1
+460,Rainer Blickle,74.0,5700,Manufacturing,Germany,M,1
+460,Clive Calder,75.0,5700,Media & Entertainment,Cayman Islands,M,1
+460,Frits Goldschmeding,88.0,5700,Service,Netherlands,M,1
+460,Ananda Krishnan,84.0,5700,Telecom,Malaysia,M,1
+460,Joe Mansueto,65.0,5700,Finance & Investments,United States,M,1
+460,Odd Reitan & family,70.0,5700,Fashion & Retail,Norway,M,1
+460,Antony Ressler,60.0,5700,Finance & Investments,United States,M,1
+460,Tang Xiao'ou,54.0,5700,Technology,China,M,1
+460,Tse Ping,70.0,5700,Healthcare,Hong Kong,M,1
+460,Ken Xie,59.0,5700,Technology,United States,M,1
+471,Tilman Fertitta,64.0,5600,Food & Beverage,United States,M,1
+471,Prajogo Pangestu,77.0,5600,Diversified,Indonesia,M,1
+471,"Edward Roski, Jr.",83.0,5600,Real Estate,United States,M,1
+471,Teddy Sagi,50.0,5600,Gambling & Casinos,Israel,M,1
+471,Thomas Straumann,58.0,5600,Healthcare,Switzerland,M,1
+471,David Sun,70.0,5600,Technology,United States,M,1
+471,John Tu,80.0,5600,Technology,United States,M,1
+471,Erich Wesjohann & family,76.0,5600,Food & Beverage,Germany,M,1
+471,Xu Jinfu,58.0,5600,Manufacturing,China,M,1
+480,Alexander Abramov,63.0,5500,Metals & Mining,Russia,M,1
+480,Neil Bluhm,84.0,5500,Real Estate,United States,M,1
+480,Don Hankey,78.0,5500,Finance & Investments,United States,M,1
+480,Jane Lauder,49.0,5500,Fashion & Retail,United States,F,1
+480,Gwendolyn Sontheim Meyer,60.0,5500,Food & Beverage,United States,F,1
+480,John Reece,65.0,5500,Manufacturing,United Kingdom,M,1
+480,Eric Smidt,62.0,5500,Fashion & Retail,United States,M,1
+480,Viktor Vekselberg,64.0,5500,Energy,Russia,M,1
+480,Ronald Wanek,80.0,5500,Manufacturing,United States,M,1
+490,Rene Benko,45.0,5400,Real Estate,Austria,M,1
+490,John Brown,87.0,5400,Healthcare,United States,M,1
+490,Chen Zhiping,46.0,5400,Manufacturing,China,M,1
+490,Andrew Currie,66.0,5400,Manufacturing,United Kingdom,M,1
+490,Jim Davis & family,78.0,5400,Manufacturing,United States,M,1
+490,Charles Dolan & family,95.0,5400,Media & Entertainment,United States,M,1
+490,Tom Golisano,80.0,5400,Service,United States,M,1
+490,Hui Wing Mau,71.0,5400,Real Estate,Hong Kong,M,1
+490,Daniel Kretinsky,46.0,5400,Energy,Czechia,M,1
+490,Massimiliana Landini Aleotti & family,79.0,5400,Healthcare,Italy,F,1
+490,Joe Lewis,85.0,5400,Finance & Investments,Bahamas,M,1
+490,Li Chunan,53.0,5400,Manufacturing,China,M,1
+490,Lin Muqin & family,58.0,5400,Food & Beverage,China,M,1
+490,Shigenobu Nagamori,77.0,5400,Manufacturing,Japan,M,1
+490,Kjell Inge Rokke,63.0,5400,Logistics,Norway,M,1
+490,Wang Wenjing,57.0,5400,Technology,China,M,1
+490,Chris Xu,38.0,5400,Fashion & Retail,China,M,1
+490,Samuel Yin,71.0,5400,Diversified,Taiwan,M,1
+490,M.A. Yusuff Ali,66.0,5400,Fashion & Retail,United Arab Emirates,M,1
+509,Denise Coates,54.0,5300,Gambling & Casinos,United Kingdom,F,1
+509,Ken Fisher,71.0,5300,Finance & Investments,United States,M,1
+509,Peter Grogg,80.0,5300,Healthcare,Switzerland,M,1
+509,Dietmar Hopp & family,81.0,5300,Technology,Germany,M,1
+509,Sumet Jiaravanon,87.0,5300,Diversified,Thailand,M,1
+509,Nathan Kirsh,90.0,5300,Fashion & Retail,Eswatini (Swaziland),M,1
+509,Forrest Li,44.0,5300,Media & Entertainment,Singapore,M,1
+509,Rudolf Maag,76.0,5300,Healthcare,Switzerland,M,1
+509,Gary Rollins,77.0,5300,Service,United States,M,1
+509,Ugur Sahin,56.0,5300,Healthcare,Germany,M,1
+509,Mark Scheinberg,48.0,5300,Gambling & Casinos,United Kingdom,M,1
+509,Shen Guojun,59.0,5300,Fashion & Retail,China,M,1
+509,Chip Wilson,65.0,5300,Fashion & Retail,Canada,M,1
+509,Zhang Yong,51.0,5300,Food & Beverage,Singapore,M,1
+523,James Chambers,64.0,5200,Media & Entertainment,United States,M,1
+523,Chen Fashu,61.0,5200,Finance & Investments,China,M,1
+523,Jaran Chiaravanont,92.0,5200,Diversified,Thailand,M,1
+523,Ravi Jaipuria,67.0,5200,Food & Beverage,India,M,1
+523,Koon Poh Keong,60.0,5200,Manufacturing,Malaysia,M,1
+523,Li Liangbin,54.0,5200,Manufacturing,China,M,1
+523,Liang Feng,53.0,5200,Manufacturing,China,M,1
+523,Wolfgang Marguerre & family,80.0,5200,Healthcare,Germany,M,1
+523,Katharine Rayner,77.0,5200,Media & Entertainment,United States,F,1
+523,Carlos Rodriguez-Pastor,62.0,5200,Finance & Investments,Peru,M,1
+523,Margaretta Taylor,79.0,5200,Media & Entertainment,United States,F,1
+523,You Xiaoping,64.0,5200,Manufacturing,China,M,1
+523,Eric Yuan & family,52.0,5200,Technology,United States,M,1
+536,Robert Bass,74.0,5100,Energy,United States,M,1
+536,Alexandre Behring,55.0,5100,Finance & Investments,United States,M,1
+536,Chan Laiwa & family,81.0,5100,Real Estate,China,F,1
+536,Jeff Greene,67.0,5100,Real Estate,United States,M,1
+536,Montri Jiaravanont,91.0,5100,Diversified,Thailand,M,1
+536,Charles B. Johnson,89.0,5100,Finance & Investments,United States,M,1
+536,Elizabeth Johnson,58.0,5100,Finance & Investments,United States,F,1
+536,Lin Bin,54.0,5100,Technology,China,M,1
+536,Hiroshi Mikitani,57.0,5100,Fashion & Retail,Japan,M,1
+536,Isaac Perlmutter,79.0,5100,Media & Entertainment,United States,M,1
+536,Michael Pieper,76.0,5100,Manufacturing,Switzerland,M,1
+536,Issad Rebrab & family,78.0,5100,Food & Beverage,Algeria,M,1
+536,Tsai Hong-tu,69.0,5100,Finance & Investments,Taiwan,M,1
+536,Richard Tsai,64.0,5100,Finance & Investments,Taiwan,M,1
+536,Wang Junshi & family,73.0,5100,Manufacturing,China,M,1
+536,Wang Yanqing & family,55.0,5100,Manufacturing,China,M,1
+552,Shari Arison,64.0,5000,Service,Israel,F,1
+552,Alain Bouchard,73.0,5000,Fashion & Retail,Canada,M,1
+552,"Austen Cargill, II.",71.0,5000,Food & Beverage,United States,M,1
+552,"James Cargill, II.",72.0,5000,Food & Beverage,United States,M,1
+552,Ben Chestnut,47.0,5000,Technology,United States,M,1
+552,Wei Fang,48.0,5000,Manufacturing,China,M,1
+552,Leonid Fedun,66.0,5000,Energy,Russia,M,1
+552,Johann Graf,75.0,5000,Gambling & Casinos,Austria,M,1
+552,Huang Chulong,63.0,5000,Real Estate,China,M,1
+552,Huang Yi,60.0,5000,Automotive,China,M,1
+552,Vladimir Kim,61.0,5000,Metals & Mining,Kazakhstan,M,1
+552,Dan Kurzius,50.0,5000,Technology,United States,M,1
+552,Ronald Lauder,78.0,5000,Fashion & Retail,United States,M,1
+552,Marianne Liebmann,68.0,5000,Food & Beverage,United States,F,1
+552,Tobi Lutke,41.0,5000,Technology,Canada,M,1
+552,Thomas Pritzker,71.0,5000,Finance & Investments,United States,M,1
+552,Scott Shleifer,44.0,5000,Finance & Investments,United States,M,1
+552,Autry Stephens,83.0,5000,Energy,United States,M,1
+552,Peter Thiel,54.0,5000,Finance & Investments,United States,M,1
+552,Tsai Cheng-ta,72.0,5000,Finance & Investments,Taiwan,M,1
+552,Hansjoerg Wyss,87.0,5000,Healthcare,United States,M,1
+552,Xiao Yongming & family,57.0,5000,Diversified,China,M,1
+552,Zhang Tao,49.0,5000,Fashion & Retail,China,M,1
+552,Daniel Ziff,50.0,5000,Finance & Investments,United States,M,1
+552,Dirk Ziff,58.0,5000,Finance & Investments,United States,M,1
+552,Robert Ziff,55.0,5000,Finance & Investments,United States,M,1
+579,Mat Ishbia,42.0,4900,Finance & Investments,United States,M,1
+579,"Robert Rich, Jr.",81.0,4900,Food & Beverage,United States,M,1
+579,Thomas Schmidheiny,76.0,4900,Construction & Engineering,Switzerland,M,1
+579,Alexandra Schoerghuber & family,63.0,4900,Real Estate,Germany,F,1
+579,Erik Selin,54.0,4900,Real Estate,Sweden,M,1
+579,Daniel Tsai,65.0,4900,Finance & Investments,Taiwan,M,1
+586,Dona Bertarelli,54.0,4800,Healthcare,Switzerland,F,1
+586,Andrei Guriev & family,62.0,4800,Manufacturing,Russia,M,1
+586,Luciano Hang,59.0,4800,Fashion & Retail,Brazil,M,1
+586,Hu Baifan,59.0,4800,Healthcare,China,M,1
+586,Bidzina Ivanishvili,66.0,4800,Finance & Investments,Georgia,M,1
+586,Leng Youbin,53.0,4800,Food & Beverage,China,M,1
+586,Theo Mueller,82.0,4800,Food & Beverage,Switzerland,M,1
+586,"Julian Robertson, Jr.",89.0,4800,Finance & Investments,United States,M,1
+586,Marc Rowan,59.0,4800,Finance & Investments,United States,M,1
+586,Emanuele (Lino) Saputo & family,85.0,4800,Food & Beverage,Canada,M,1
+586,Jeff Skoll,57.0,4800,Technology,United States,M,1
+586,Frank Wang,41.0,4800,Technology,China,M,1
+586,Wang Junlin,59.0,4800,Food & Beverage,China,M,1
+586,Yang Shaopeng,64.0,4800,Logistics,China,M,1
+601,Maria Fernanda Amorim & family,87.0,4700,Diversified,Portugal,F,0
+601,Leonid Boguslavsky,70.0,4700,Finance & Investments,Italy,M,0
+601,Richard Branson,71.0,4700,Diversified,British Virgin Islands,M,0
+601,Robert Brockman,80.0,4700,Technology,United States,M,0
+601,Pierre Chen,65.0,4700,Technology,Taiwan,M,0
+601,Chu Mang Yee & family,62.0,4700,Real Estate,China,M,0
+601,Scott Cook,69.0,4700,Technology,United States,M,0
+601,Mark Cuban,63.0,4700,Media & Entertainment,United States,M,0
+601,Guenther Fielmann & family,82.0,4700,Healthcare,Germany,M,0
+601,Martin Haefner,68.0,4700,Technology,Switzerland,M,0
+601,Johnelle Hunt,90.0,4700,Logistics,United States,F,0
+601,"Andre Koo, Sr.",54.0,4700,Finance & Investments,Taiwan,M,0
+601,Lai Meisong,51.0,4700,Logistics,China,M,0
+601,Richard Li,55.0,4700,Telecom,Hong Kong,M,0
+601,Mangal Prabhat Lodha,66.0,4700,Real Estate,India,M,0
+601,Igor Olenicoff,79.0,4700,Real Estate,United States,M,0
+601,Mark Shoen,71.0,4700,Automotive,United States,M,0
+601,Andrei Skoch & family,56.0,4700,Metals & Mining,Russia,M,0
+601,Fred Smith,77.0,4700,Logistics,United States,M,0
+601,Murat Ulker,63.0,4700,Food & Beverage,Turkey,M,0
+601,Yu Yong,61.0,4700,Finance & Investments,China,M,0
+622,Stéphane Bancel,49.0,4600,Healthcare,United States,M,0
+622,Bubba Cathy,67.0,4600,Food & Beverage,United States,M,0
+622,Dan Cathy,69.0,4600,Food & Beverage,United States,M,0
+622,Trudy Cathy White,66.0,4600,Food & Beverage,United States,F,0
+622,Jason Chang,77.0,4600,Technology,Taiwan,M,0
+622,Dagmar Dolby & family,80.0,4600,Technology,United States,F,0
+622,Bruce Flatt,56.0,4600,Finance & Investments,United Kingdom,M,0
+622,Masatoshi Ito,97.0,4600,Fashion & Retail,Japan,M,0
+622,Viatcheslav Kantor,68.0,4600,Manufacturing,United Kingdom,M,0
+622,Min Kao & family,73.0,4600,Technology,United States,M,0
+622,Lin Xiucheng & family,66.0,4600,Technology,China,M,0
+622,Sami Mnaymneh,60.0,4600,Finance & Investments,United States,M,0
+622,Tony Tamer,64.0,4600,Finance & Investments,United States,M,0
+622,Richard White,67.0,4600,Technology,Australia,M,0
+622,Baoguo Zhu & family,59.0,4600,Healthcare,China,M,0
+637,Michael Ashley,57.0,4500,Fashion & Retail,United Kingdom,M,0
+637,Ron Baron,78.0,4500,Finance & Investments,United States,M,0
+637,Bert Beveridge,60.0,4500,Food & Beverage,United States,M,0
+637,Todd Boehly,48.0,4500,Finance & Investments,United States,M,0
+637,David Bonderman,79.0,4500,Finance & Investments,United States,M,0
+637,Guo Guangchang,55.0,4500,Diversified,China,M,0
+637,Daryl Katz,60.0,4500,Diversified,Canada,M,0
+637,Ted Lerner & family,96.0,4500,Real Estate,United States,M,0
+637,Falguni Nayar,59.0,4500,Fashion & Retail,India,F,0
+637,Trevor Rees-Jones,70.0,4500,Energy,United States,M,0
+637,J. Joe Ricketts & family,80.0,4500,Finance & Investments,United States,M,0
+637,Robert Rowling,68.0,4500,Service,United States,M,0
+637,Mark Stevens,62.0,4500,Finance & Investments,United States,M,0
+637,Gustav Magnar Witzoe,28.0,4500,Food & Beverage,Norway,M,0
+637,Xie Liangzhi & family,56.0,4500,Healthcare,China,M,0
+637,Yeung Kin-man,58.0,4500,Manufacturing,Hong Kong,M,0
+654,Andrej Babis,67.0,4400,Food & Beverage,Czechia,M,0
+654,Giuseppe De'Longhi & family,82.0,4400,Fashion & Retail,Italy,M,0
+654,Barry Diller,80.0,4400,Media & Entertainment,United States,M,0
+654,Christian Haub,57.0,4400,Fashion & Retail,Germany,M,0
+654,Huang Li,58.0,4400,Technology,China,M,0
+654,Marian Ilitch,89.0,4400,Food & Beverage,United States,F,0
+654,Suleiman Kerimov & family,56.0,4400,Finance & Investments,Russia,M,0
+654,Edwin Leong,70.0,4400,Real Estate,Hong Kong,M,0
+654,Lu Yiwen,35.0,4400,Fashion & Retail,China,F,0
+654,N.R. Narayana Murthy,75.0,4400,Technology,India,M,0
+654,Yang Jianliang & family,52.0,4400,Manufacturing,China,M,0
+665,Pyotr Aven,67.0,4300,Finance & Investments,Russia,M,0
+665,Joesley Batista,50.0,4300,Food & Beverage,Brazil,M,0
+665,Wesley Batista,49.0,4300,Food & Beverage,Brazil,M,0
+665,Margot Birmingham Perot,88.0,4300,Technology,United States,F,0
+665,Rick Caruso,63.0,4300,Real Estate,United States,M,0
+665,Jim Davis,62.0,4300,Service,United States,M,0
+665,Walter P.J. Droege,69.0,4300,Finance & Investments,Germany,M,0
+665,Dan Friedkin,57.0,4300,Automotive,United States,M,0
+665,Gao Dekang & family,70.0,4300,Fashion & Retail,China,M,0
+665,Antti Herlin,65.0,4300,Manufacturing,Finland,M,0
+665,W. Herbert Hunt,93.0,4300,Energy,United States,M,0
+665,Jason Jiang,49.0,4300,Media & Entertainment,China,M,0
+665,"Rupert Johnson, Jr.",81.0,4300,Finance & Investments,United States,M,0
+665,Vikram Lal & family,80.0,4300,Automotive,India,M,0
+665,Chris Larsen,61.0,4300,Finance & Investments,United States,M,0
+665,Richard Schulze,81.0,4300,Fashion & Retail,United States,M,0
+665,Paul Singer,77.0,4300,Finance & Investments,United States,M,0
+665,Barry Sternlicht,61.0,4300,Finance & Investments,United States,M,0
+665,Su Hua,40.0,4300,Media & Entertainment,China,M,0
+665,Mark Walter,61.0,4300,Finance & Investments,United States,M,0
+665,Ty Warner,77.0,4300,Real Estate,United States,M,0
+687,Rinat Akhmetov,55.0,4200,Metals & Mining,Ukraine,M,0
+687,Bernard Broermann,78.0,4200,Healthcare,Germany,M,0
+687,Mong-Koo Chung,84.0,4200,Automotive,South Korea,M,0
+687,Daniel D'Aniello,75.0,4200,Finance & Investments,United States,M,0
+687,Traudl Engelhorn & family,95.0,4200,Healthcare,Switzerland,F,0
+687,Piero Ferrari,76.0,4200,Automotive,Italy,M,0
+687,Carlo Fidani,67.0,4200,Real Estate,Canada,M,0
+687,Yakir Gabay,55.0,4200,Real Estate,United Kingdom,M,0
+687,Jaime Gilinski Bacal,64.0,4200,Finance & Investments,United Kingdom,M,0
+687,Bertil Hult,81.0,4200,Service,Switzerland,M,0
+687,Martha Ingram & family,86.0,4200,Media & Entertainment,United States,F,0
+687,Lee Yin Yee,70.0,4200,Manufacturing,Hong Kong,M,0
+687,Daniel Loeb,60.0,4200,Finance & Investments,United States,M,0
+687,Janice McNair,85.0,4200,Sports,United States,F,0
+687,Ajay Piramal,66.0,4200,Healthcare,India,M,0
+687,Lynsi Snyder,39.0,4200,Food & Beverage,United States,F,0
+687,Peter Spuhler,62.0,4200,Manufacturing,Switzerland,M,0
+687,Kerry Stokes,81.0,4200,Diversified,Australia,M,0
+687,Jon Stryker,63.0,4200,Healthcare,United States,M,0
+687,Vincent Viola,66.0,4200,Finance & Investments,United States,M,0
+687,Romesh T. Wadhwani,74.0,4200,Technology,United States,M,0
+709,Juan Domingo Beckmann Legorreta & family,54.0,4100,Food & Beverage,Mexico,M,0
+709,Rafael Del Pino,63.0,4100,Construction & Engineering,Spain,M,0
+709,Sergey Dmitriev,56.0,4100,Technology,Czechia,M,0
+709,Senapathy Gopalakrishnan,67.0,4100,Technology,India,M,0
+709,James Irving,94.0,4100,Diversified,Canada,M,0
+709,Lee Boo-jin,51.0,4100,Service,South Korea,F,0
+709,Samuel Tak Lee,82.0,4100,Real Estate,Hong Kong,M,0
+709,Thai Lee,63.0,4100,Technology,United States,F,0
+709,Eric Lefkofsky,52.0,4100,Technology,United States,M,0
+709,Weiguo Li,57.0,4100,Manufacturing,China,M,0
+709,Ermirio Pereira de Moraes & family,89.0,4100,Diversified,Brazil,M,0
+709,Maria Helena Moraes Scripilliti & family,91.0,4100,Diversified,Brazil,F,0
+709,Thomas Secunda,67.0,4100,Media & Entertainment,United States,M,0
+709,Shaul Shani,67.0,4100,Telecom,Italy,M,0
+709,E. Joe Shoen,72.0,4100,Automotive,United States,M,0
+709,Steven Udvar-Hazy,76.0,4100,Service,United States,M,0
+709,Russ Weiner,51.0,4100,Food & Beverage,United States,M,0
+709,Guanjiang Wu & family,53.0,4100,Healthcare,China,M,0
+728,Anil Agarwal & family,68.0,4000,Metals & Mining,United Kingdom,M,0
+728,Somphote Ahunai,54.0,4000,Energy,Thailand,M,0
+728,Patrizio Bertelli,76.0,4000,Fashion & Retail,Italy,M,0
+728,Rakesh Gangwal,68.0,4000,Service,United States,M,0
+728,Paul Gauselmann & family,87.0,4000,Gambling & Casinos,Germany,M,0
+728,Hao Hong,66.0,4000,Healthcare,China,M,0
+728,He Xiaopeng,44.0,4000,Automotive,China,M,0
+728,Michael Herz,78.0,4000,Fashion & Retail,Germany,M,0
+728,Wolfgang Herz,71.0,4000,Fashion & Retail,Germany,M,0
+728,Arthur Irving,92.0,4000,Energy,Canada,M,0
+728,Victor Jacobsson,40.0,4000,Finance & Investments,Sweden,M,0
+728,Marc Ladreit de Lacharriere,81.0,4000,Finance & Investments,France,M,0
+728,Patrick Lee,80.0,4000,Manufacturing,Hong Kong,M,0
+728,Max Lytvyn,42.0,4000,Technology,United States,M,0
+728,Gilles Martin,58.0,4000,Healthcare,France,M,0
+728,Ramzi Musallam,53.0,4000,Finance & Investments,United States,M,0
+728,Georg Nemetschek & family,88.0,4000,Technology,Germany,M,0
+728,Akio Nitori,78.0,4000,Fashion & Retail,Japan,M,0
+728,Daniel Och,61.0,4000,Finance & Investments,United States,M,0
+728,Pankaj Patel,69.0,4000,Healthcare,India,M,0
+728,John Paulson,66.0,4000,Finance & Investments,United States,M,0
+728,Miuccia Prada,72.0,4000,Fashion & Retail,Italy,F,0
+728,Jean (Gigi) Pritzker,59.0,4000,Service,United States,F,0
+728,Juan Roig,72.0,4000,Fashion & Retail,Spain,M,0
+728,David Rubenstein,72.0,4000,Finance & Investments,United States,M,0
+728,Howard Schultz,68.0,4000,Food & Beverage,United States,M,0
+728,Alex Shevchenko,42.0,4000,Technology,Canada,M,0
+728,Dan Snyder,57.0,4000,Sports,United States,M,0
+728,Jerzy Starak,74.0,4000,Healthcare,Poland,M,0
+728,Kelcy Warren,66.0,4000,Energy,United States,M,0
+728,Herbert Wertheim,82.0,4000,Finance & Investments,United States,M,0
+728,Cameron Winklevoss,40.0,4000,Finance & Investments,United States,M,0
+728,Tyler Winklevoss,40.0,4000,Finance & Investments,United States,M,0
+728,Denise York & family,71.0,4000,Sports,United States,F,0
+728,Zhao Lixin,56.0,4000,Technology,China,M,0
+764,Hubert Burda,82.0,3900,Media & Entertainment,Germany,M,0
+764,Francesco Gaetano Caltagirone,79.0,3900,Construction & Engineering,Italy,M,0
+764,Li Xiang,40.0,3900,Automotive,China,M,0
+764,"Stephen Mandel, Jr.",66.0,3900,Finance & Investments,United States,M,0
+764,Gabe Newell,59.0,3900,Gambling & Casinos,United States,M,0
+764,Maja Oeri,67.0,3900,Healthcare,Switzerland,F,0
+764,Neil Shen,54.0,3900,Finance & Investments,China,M,0
+764,Helmut Sohmen,82.0,3900,Logistics,Hong Kong,M,0
+764,Donald Sterling,87.0,3900,Real Estate,United States,M,0
+764,Don Vultaggio & family,70.0,3900,Food & Beverage,United States,M,0
+764,Yiling Wu,72.0,3900,Healthcare,China,M,0
+764,Gongshan Zhu,64.0,3900,Manufacturing,China,M,0
+778,Gayle Benson,75.0,3800,Sports,United States,F,0
+778,"William Conway, Jr.",72.0,3800,Finance & Investments,United States,M,0
+778,Gurbachan Singh Dhingra,71.0,3800,Manufacturing,India,M,0
+778,Kuldip Singh Dhingra,74.0,3800,Manufacturing,India,M,0
+778,Luca Garavoglia,53.0,3800,Food & Beverage,Italy,M,0
+778,Jimmy Haslam,68.0,3800,Fashion & Retail,United States,M,0
+778,Susan Carol Holland,65.0,3800,Manufacturing,Italy,F,0
+778,Timur Kulibaev,55.0,3800,Finance & Investments,Kazakhstan,M,0
+778,Dinara Kulibaeva,54.0,3800,Finance & Investments,Kazakhstan,F,0
+778,Michel Leclercq & family,82.0,3800,Fashion & Retail,France,M,0
+778,Pablo Legorreta,58.0,3800,Finance & Investments,United States,M,0
+778,Margarita Louis-Dreyfus & family,59.0,3800,Food & Beverage,Switzerland,F,0
+778,Michael Milken,75.0,3800,Finance & Investments,United States,M,0
+778,Denis O'Brien,63.0,3800,Telecom,Ireland,M,0
+778,Katharina Otto-Bernstein,58.0,3800,Real Estate,United States,F,0
+778,James Packer,54.0,3800,Gambling & Casinos,United States,M,0
+778,Sergio Stevanato & family,79.0,3800,Healthcare,Italy,M,0
+778,Leena Tewari,64.0,3800,Healthcare,India,F,0
+778,Yitzhak Tshuva,73.0,3800,Real Estate,Israel,M,0
+778,Paul-Heinz Wesjohann & family,78.0,3800,Food & Beverage,Germany,M,0
+778,Zeng Fangqin,56.0,3800,Technology,China,F,0
+778,Zhou Bajin,86.0,3800,Manufacturing,China,M,0
+801,William Berkley,75.0,3700,Finance & Investments,United States,M,0
+801,John Catsimatidis,73.0,3700,Energy,United States,M,0
+801,Che Jianxing,55.0,3700,Fashion & Retail,China,M,0
+801,Gustavo Denegri,85.0,3700,Healthcare,Italy,M,0
+801,Charles Edelstenne,84.0,3700,Manufacturing,France,M,0
+801,Reed Hastings,61.0,3700,Media & Entertainment,United States,M,0
+801,"Amos Hostetter, Jr.",85.0,3700,Media & Entertainment,United States,M,0
+801,Brad Jacobs,65.0,3700,Logistics,United States,M,0
+801,Friedrich Knapp,70.0,3700,Fashion & Retail,Germany,M,0
+801,William Lauder,61.0,3700,Fashion & Retail,United States,M,0
+801,Richard LeFrak & family,76.0,3700,Real Estate,United States,M,0
+801,Li Guoqiang,58.0,3700,Automotive,China,M,0
+801,Low Tuck Kwong,73.0,3700,Energy,Indonesia,M,0
+801,Akira Mori & family,85.0,3700,Real Estate,Japan,M,0
+801,Anthony Pritzker,61.0,3700,Service,United States,M,0
+801,Ira Rennert,87.0,3700,Finance & Investments,United States,M,0
+801,"Bernard Saul, II.",89.0,3700,Finance & Investments,United States,M,0
+801,Shi Yonghong & family,53.0,3700,Food & Beverage,China,M,0
+801,Song Chi-hyung,43.0,3700,Finance & Investments,South Korea,M,0
+801,Steven Spielberg,75.0,3700,Media & Entertainment,United States,M,0
+801,Wong Luen Hei,60.0,3700,Manufacturing,Hong Kong,M,0
+822,Danielle Bellon & family,82.0,3600,Service,France,F,0
+822,Cho Tak Wong,75.0,3600,Manufacturing,China,M,0
+822,Charles Cohen,70.0,3600,Real Estate,United States,M,0
+822,Kenneth Dart,66.0,3600,Finance & Investments,Cayman Islands,M,0
+822,Martin Ebner,76.0,3600,Finance & Investments,Switzerland,M,0
+822,David Filo,55.0,3600,Technology,United States,M,0
+822,Miguel Fluxa Rossello,83.0,3600,Service,Spain,M,0
+822,John Henry,72.0,3600,Sports,United States,M,0
+822,Hu Kaijun,60.0,3600,Healthcare,China,M,0
+822,Peter Kellogg,79.0,3600,Finance & Investments,United States,M,0
+822,James Leprino,84.0,3600,Food & Beverage,United States,M,0
+822,Iskander Makhmudov,58.0,3600,Metals & Mining,Russia,M,0
+822,Daniel Mate,58.0,3600,Metals & Mining,Switzerland,M,0
+822,Aristotelis Mistakidis,60.0,3600,Metals & Mining,Switzerland,M,0
+822,Arturo Moreno,75.0,3600,Sports,United States,M,0
+822,Nan Cunhui,58.0,3600,Manufacturing,China,M,0
+822,Julio Ponce Lerou,76.0,3600,Metals & Mining,Chile,M,0
+822,J.B. Pritzker,57.0,3600,Finance & Investments,United States,M,0
+822,Chandru Raheja,81.0,3600,Real Estate,India,M,0
+822,Rodger Riney & family,76.0,3600,Finance & Investments,United States,M,0
+822,Shi Yuzhu,59.0,3600,Diversified,China,M,0
+822,Zuowen Song,75.0,3600,Diversified,China,M,0
+822,Jerry Speyer,81.0,3600,Real Estate,United States,M,0
+822,Julia Thiele-Schuerhoff,50.0,3600,Manufacturing,Germany,F,0
+822,Tung Chee Chen,79.0,3600,Logistics,Hong Kong,M,0
+822,Roger Wang,73.0,3600,Fashion & Retail,China,M,0
+822,Wu Shaoxun,66.0,3600,Food & Beverage,China,M,0
+822,Wenzhong Zhang,60.0,3600,Fashion & Retail,China,M,0
+851,Chen Kaixuan,63.0,3500,Manufacturing,China,M,0
+851,Beatriz Davila de Santo Domingo,83.0,3500,Food & Beverage,Bermuda,F,0
+851,Antonio Del Valle Ruiz & family,83.0,3500,Manufacturing,Mexico,M,0
+851,Carl Douglas,60.0,3500,Diversified,Sweden,M,0
+851,Eric Douglas,53.0,3500,Diversified,Sweden,M,0
+851,Jiangtao Du & family,52.0,3500,Manufacturing,China,M,0
+851,Juan Carlos Escotet,62.0,3500,Finance & Investments,Spain,M,0
+851,Fiona Geminder,57.0,3500,Manufacturing,Australia,F,0
+851,Yuhua Gu & family,72.0,3500,Manufacturing,China,M,0
+851,James Irsay,62.0,3500,Sports,United States,M,0
+851,Kuok Khoon Hong,72.0,3500,Manufacturing,Singapore,M,0
+851,Aerin Lauder,51.0,3500,Fashion & Retail,United States,F,0
+851,Lee Seo-hyun,48.0,3500,Diversified,South Korea,F,0
+851,Li Yongxin & family,46.0,3500,Service,China,M,0
+851,Jeffrey Lurie,70.0,3500,Sports,United States,M,0
+851,Mary Alice Dorrance Malone,72.0,3500,Food & Beverage,United States,F,0
+851,Ronald McAulay,86.0,3500,Energy,Hong Kong,M,0
+851,Apoorva Mehta,35.0,3500,Technology,United States,M,0
+851,Arnon Milchan,77.0,3500,Media & Entertainment,Israel,M,0
+851,Masahiro Noda,83.0,3500,Technology,Japan,M,0
+851,Renzo Rosso & family,66.0,3500,Fashion & Retail,Italy,M,0
+851,Lynn Schusterman,83.0,3500,Energy,United States,F,0
+851,Gil Shwed,53.0,3500,Technology,Israel,M,0
+851,Thomas Siebel,69.0,3500,Technology,United States,M,0
+851,Herb Simon,87.0,3500,Real Estate,United States,M,0
+851,Friede Springer,79.0,3500,Media & Entertainment,Germany,F,0
+851,Wang Zhenhua,60.0,3500,Real Estate,China,M,0
+851,Hans Peter Wild,80.0,3500,Food & Beverage,Switzerland,M,0
+851,"William Wrigley, Jr.",58.0,3500,Food & Beverage,United States,M,0
+851,Xia Zuoquan,60.0,3500,Automotive,China,M,0
+851,Xue Hua,52.0,3500,Manufacturing,China,M,0
+883,Mohed Altrad,74.0,3400,Construction & Engineering,France,M,0
+883,Sid Bass,79.0,3400,Energy,United States,M,0
+883,Nick Caporella,86.0,3400,Food & Beverage,United States,M,0
+883,Cheng Yixiao,38.0,3400,Media & Entertainment,China,M,0
+883,Wesley Edens,60.0,3400,Finance & Investments,United States,M,0
+883,Behdad Eghbali,45.0,3400,Finance & Investments,United States,M,0
+883,Archie Aldis Emmerson & family,92.0,3400,Manufacturing,United States,M,0
+883,Jose E. Feliciano,48.0,3400,Finance & Investments,United States,M,0
+883,Fu Liquan & family,54.0,3400,Technology,China,M,0
+883,David Gottesman,95.0,3400,Finance & Investments,United States,M,0
+883,Laurence Graff & family,83.0,3400,Fashion & Retail,Switzerland,M,0
+883,Jeff T. Green,45.0,3400,Media & Entertainment,United States,M,0
+883,Jim Kavanaugh,59.0,3400,Technology,United States,M,0
+883,Steven Klinsky,65.0,3400,Finance & Investments,United States,M,0
+883,John Middleton,67.0,3400,Food & Beverage,United States,M,0
+883,Jerry Ng,56.0,3400,Finance & Investments,Indonesia,M,0
+883,Tengyun Nie & family,46.0,3400,Service,China,M,0
+883,Nandan Nilekani,66.0,3400,Technology,India,M,0
+883,Bob Parsons,71.0,3400,Technology,United States,M,0
+883,Prasert Prasarttong-Osoth,89.0,3400,Healthcare,Thailand,M,0
+883,Qiu Guanghe & family,70.0,3400,Fashion & Retail,China,M,0
+883,Richard Sands,71.0,3400,Food & Beverage,United States,M,0
+883,Robert Sands,63.0,3400,Food & Beverage,United States,M,0
+883,T. Denny Sanford,86.0,3400,Finance & Investments,United States,M,0
+883,Naguib Sawiris,67.0,3400,Telecom,Egypt,M,0
+883,Pavel Tykac,57.0,3400,Metals & Mining,Czechia,M,0
+883,Todd Wanek,58.0,3400,Manufacturing,United States,M,0
+883,Meg Whitman,65.0,3400,Technology,United States,F,0
+883,Michael Xie,53.0,3400,Technology,United States,M,0
+883,Chenghai Ye & family,78.0,3400,Healthcare,Hong Kong,M,0
+913,An Kang,73.0,3300,Healthcare,China,M,0
+913,John Arnold,48.0,3300,Finance & Investments,United States,M,0
+913,Arun Bharat Ram,81.0,3300,Manufacturing,India,M,0
+913,Tomasz Biernacki,49.0,3300,Fashion & Retail,Poland,M,0
+913,Travis Boersma,51.0,3300,Food & Beverage,United States,M,0
+913,Dongsheng Chen,64.0,3300,Finance & Investments,China,M,0
+913,Jean Coutu & family,94.0,3300,Fashion & Retail,Canada,M,0
+913,Ralph Dommermuth,58.0,3300,Technology,Germany,M,0
+913,Walter Faria,67.0,3300,Food & Beverage,Brazil,M,0
+913,Bob Gaglardi,81.0,3300,Real Estate,Canada,M,0
+913,John Gandel,87.0,3300,Real Estate,Australia,M,0
+913,Xuande Hua & family,78.0,3300,Healthcare,China,M,0
+913,Micky Jagtiani,70.0,3300,Fashion & Retail,United Arab Emirates,M,0
+913,H. Fisk Johnson,63.0,3300,Manufacturing,United States,M,0
+913,S. Curtis Johnson,66.0,3300,Manufacturing,United States,M,0
+913,Helen Johnson-Leipold,65.0,3300,Manufacturing,United States,F,0
+913,Miguel Krigsner,72.0,3300,Fashion & Retail,Brazil,M,0
+913,Li Jianquan & family,65.0,3300,Healthcare,China,M,0
+913,Lin Ming-hsiung,72.0,3300,Fashion & Retail,Taiwan,M,0
+913,Winifred J. Marquart,62.0,3300,Manufacturing,United States,F,0
+913,Kiran Mazumdar-Shaw,69.0,3300,Healthcare,India,F,0
+913,Patrice Motsepe,60.0,3300,Metals & Mining,South Africa,M,0
+913,Alfred Oetker,55.0,3300,Fashion & Retail,Germany,M,0
+913,Carl Ferdinand Oetker,49.0,3300,Fashion & Retail,Germany,M,0
+913,Julia Oetker,43.0,3300,Fashion & Retail,Germany,F,0
+913,Or Wai Sheun,70.0,3300,Real Estate,Hong Kong,M,0
+913,Jay Paul,74.0,3300,Real Estate,United States,M,0
+913,Horst Paulmann & family,87.0,3300,Fashion & Retail,Chile,M,0
+913,Theodore Rachmat,78.0,3300,Diversified,Indonesia,M,0
+913,John Sall,74.0,3300,Technology,United States,M,0
+913,Stefan von Holtzbrinck,58.0,3300,Media & Entertainment,Germany,M,0
+913,Nusli Wadia,78.0,3300,Food & Beverage,India,M,0
+913,Steve Wynn,80.0,3300,Gambling & Casinos,United States,M,0
+913,Yang Weidong & family,53.0,3300,Manufacturing,China,M,0
+913,Barry Zekelman,55.0,3300,Manufacturing,Canada,M,0
+913,Zhang Shilong & family,56.0,3300,Technology,China,M,0
+913,Zhong Ruonong & family,59.0,3300,Manufacturing,China,F,0
+951,Cameron Adams,42.0,3200,Technology,Australia,M,0
+951,Dongchen Cai,69.0,3200,Healthcare,China,M,0
+951,Vanich Chaiyawan,90.0,3200,Finance & Investments,Thailand,M,0
+951,James Clark,78.0,3200,Technology,United States,M,0
+951,Jack Cowin,79.0,3200,Food & Beverage,Australia,M,0
+951,Giuseppe Crippa & family,86.0,3200,Manufacturing,Italy,M,0
+951,Sergei Galitsky,54.0,3200,Fashion & Retail,Russia,M,0
+951,"Ernest Garcia, III.",39.0,3200,Automotive,United States,M,0
+951,Peter Gilgan,71.0,3200,Construction & Engineering,Canada,M,0
+951,Joseph Grendys,60.0,3200,Food & Beverage,United States,M,0
+951,Thomas Hagen,86.0,3200,Finance & Investments,United States,M,0
+951,"Robert Hale, Jr.",55.0,3200,Telecom,United States,M,0
+951,Michael Hintze,68.0,3200,Finance & Investments,United Kingdom,M,0
+951,Pansy Ho,59.0,3200,Gambling & Casinos,Hong Kong,F,0
+951,Alan Howard,58.0,3200,Finance & Investments,Switzerland,M,0
+951,Kei Hoi Pang,56.0,3200,Real Estate,Hong Kong,M,0
+951,Rudy Ma,81.0,3200,Finance & Investments,Taiwan,M,0
+951,Najib Mikati,66.0,3200,Telecom,Lebanon,M,0
+951,Taha Mikati,77.0,3200,Telecom,Lebanon,M,0
+951,Gail Miller,78.0,3200,Automotive,United States,F,0
+951,Vikas Oberoi,51.0,3200,Real Estate,India,M,0
+951,"H. Ross Perot, Jr.",63.0,3200,Real Estate,United States,M,0
+951,Candido Pinheiro Koren de Lima,75.0,3200,Healthcare,Brazil,M,0
+951,Matthew Prince,47.0,3200,Technology,United States,M,0
+951,Penny Pritzker,62.0,3200,Finance & Investments,United States,F,0
+951,Yasumitsu Shigeta,57.0,3200,Telecom,Japan,M,0
+951,Sebastian Siemiatkowski,40.0,3200,Finance & Investments,Sweden,M,0
+951,Barry Silbert,45.0,3200,Finance & Investments,United States,M,0
+951,Daniel Sundheim,45.0,3200,Finance & Investments,United States,M,0
+951,Rita Tong Liu,73.0,3200,Real Estate,Hong Kong,F,0
+951,Tran Dinh Long,61.0,3200,Manufacturing,Vietnam,M,0
+951,Zhang Daocai,72.0,3200,Diversified,China,M,0
+984,John Caudwell,69.0,3100,Telecom,United Kingdom,M,0
+984,Philippe Foriel-Destezet,86.0,3100,Service,United Kingdom,M,0
+984,Walter Frey,78.0,3100,Automotive,Switzerland,M,0
+984,Alessandra Garavoglia,62.0,3100,Food & Beverage,Italy,F,0
+984,Peter Gassner,57.0,3100,Technology,United States,M,0
+984,Mitchell Goldhar,60.0,3100,Real Estate,Canada,M,0
+984,Otto Happel,74.0,3100,Construction & Engineering,Switzerland,M,0
+984,Peter Hargreaves,75.0,3100,Finance & Investments,United Kingdom,M,0
+984,Bom Kim,43.0,3100,Technology,South Korea,M,0
+984,Gaiteng Li,49.0,3100,Manufacturing,China,M,0
+984,Liufa Li & family,64.0,3100,Diversified,China,M,0
+984,Lu Weiding,51.0,3100,Diversified,China,M,0
+984,Harsh Mariwala,70.0,3100,Food & Beverage,India,M,0
+984,Samir Mehta,58.0,3100,Healthcare,India,M,0
+984,Sudhir Mehta,67.0,3100,Healthcare,India,M,0
+984,Pawan Munjal & family,68.0,3100,Automotive,India,M,0
+984,Nguyen Thi Phuong Thao,51.0,3100,Diversified,Vietnam,F,0
+984,Madhukar Parekh,75.0,3100,Manufacturing,India,M,0
+984,Sergei Popov,50.0,3100,Finance & Investments,Switzerland,M,0
+984,Haim Saban,77.0,3100,Media & Entertainment,United States,M,0
+984,Karthik Sarma,47.0,3100,Finance & Investments,United States,M,0
+984,Klaus-Peter Schulenberg,70.0,3100,Service,Germany,M,0
+984,Pat Stryker,65.0,3100,Healthcare,United States,F,0
+984,Jeff Sutton,62.0,3100,Real Estate,United States,M,0
+984,Jon Yarbrough,64.0,3100,Gambling & Casinos,United States,M,0
+984,Gang Ye,41.0,3100,Media & Entertainment,Singapore,M,0
+984,Yi Zheng,51.0,3100,Technology,China,M,0
+984,Zhang Fan,56.0,3100,Technology,China,M,0
+1012,William Ackman,55.0,3000,Finance & Investments,United States,M,0
+1012,Markus Blocher,51.0,3000,Manufacturing,Switzerland,M,0
+1012,Neal Blue & family,87.0,3000,Manufacturing,United States,M,0
+1012,Eva Maria Bucher-Haefner,65.0,3000,Technology,Switzerland,F,0
+1012,Chang Kuo-Hua,67.0,3000,Logistics,Taiwan,M,0
+1012,Todd Christopher,59.0,3000,Fashion & Retail,United States,M,0
+1012,Euisun Chung,51.0,3000,Logistics,South Korea,M,0
+1012,Bernard Ecclestone & family,91.0,3000,Sports,United Kingdom,M,0
+1012,Michael Federmann & family,78.0,3000,Technology,Israel,M,0
+1012,Gudrun Heine,67.0,3000,Healthcare,Germany,F,0
+1012,Heidi Horten,81.0,3000,Fashion & Retail,Austria,F,0
+1012,Dawen Huang,61.0,3000,Manufacturing,Hong Kong,M,0
+1012,Sheldon Lavin,89.0,3000,Food & Beverage,United States,M,0
+1012,Li Min,56.0,3000,Technology,China,M,0
+1012,Liang Yunchao,53.0,3000,Food & Beverage,China,M,0
+1012,Joseph Liemandt,53.0,3000,Technology,United States,M,0
+1012,Strive Masiyiwa,61.0,3000,Telecom,United Kingdom,M,0
+1012,Masahiro Miki,66.0,3000,Fashion & Retail,Japan,M,0
+1012,Karsanbhai Patel,78.0,3000,Diversified,India,M,0
+1012,Arvind Poddar,64.0,3000,Automotive,India,M,0
+1012,Remo Ruffini,60.0,3000,Fashion & Retail,Italy,M,0
+1012,Eddy Kusnadi Sariaatmadja,68.0,3000,Media & Entertainment,Indonesia,M,0
+1012,Sybill Storz,84.0,3000,Healthcare,Germany,F,0
+1012,Lawrence Stroll,62.0,3000,Fashion & Retail,Switzerland,M,0
+1012,Michael Tojner,56.0,3000,Manufacturing,Austria,M,0
+1012,Donald Trump,75.0,3000,Real Estate,United States,M,0
+1012,Tsai Ming-kai,71.0,3000,Technology,Taiwan,M,0
+1012,John Tyson,68.0,3000,Food & Beverage,United States,M,0
+1012,Rufino Vigil Gonzalez,73.0,3000,Metals & Mining,Mexico,M,0
+1012,Ning Wang & family,35.0,3000,Media & Entertainment,China,M,0
+1012,Wang Yusuo & family,58.0,3000,Energy,China,M,0
+1012,Zhigang Wu & family,87.0,3000,Food & Beverage,China,M,0
+1012,Xie Juhua & family,71.0,3000,Healthcare,China,F,0
+1012,Oren Zeev,57.0,3000,Finance & Investments,United States,M,0
+1012,Charles Zegar,74.0,3000,Media & Entertainment,United States,M,0
+1012,Zhang Lei,49.0,3000,Finance & Investments,Hong Kong,M,0
+1012,Mortimer Zuckerman,84.0,3000,Real Estate,United States,M,0
+1053,Juan Abello,80.0,2900,Finance & Investments,Spain,M,0
+1053,John Armitage,62.0,2900,Finance & Investments,United Kingdom,M,0
+1053,Bang Si-hyuk,49.0,2900,Media & Entertainment,South Korea,M,0
+1053,Miriam Baumann-Blocher,47.0,2900,Manufacturing,Switzerland,F,0
+1053,Riley Bechtel & family,70.0,2900,Construction & Engineering,United States,M,0
+1053,Wilhelm Beier & family,65.0,2900,Healthcare,Germany,M,0
+1053,Nicolas Berggruen,60.0,2900,Real Estate,United States,M,0
+1053,Bui Thanh Nhon,64.0,2900,Real Estate,Vietnam,M,0
+1053,Cao Longxiang & family,64.0,2900,Healthcare,China,M,0
+1053,Deng Wen,54.0,2900,Food & Beverage,China,M,0
+1053,Daniel Dines,50.0,2900,Technology,United States,M,0
+1053,Joseph Edelman,66.0,2900,Finance & Investments,United States,M,0
+1053,N. Murray Edwards,62.0,2900,Energy,United Kingdom,M,0
+1053,Jane Goldman,66.0,2900,Real Estate,United States,F,0
+1053,Guo Zhenyu & family,58.0,2900,Fashion & Retail,China,M,0
+1053,Stewart Horejsi & family,84.0,2900,Finance & Investments,United States,M,0
+1053,Zhenda Huang & family,74.0,2900,Construction & Engineering,China,M,0
+1053,"Jeremy Jacobs, Sr. & family",82.0,2900,Service,United States,M,0
+1053,Hamilton James,70.0,2900,Finance & Investments,United States,M,0
+1053,Valentin Kipyatkov,45.0,2900,Technology,Czechia,M,0
+1053,Li Zhongchu,58.0,2900,Technology,China,M,0
+1053,Martin Lorentzon,53.0,2900,Technology,Sweden,M,0
+1053,"Drayton McLane, Jr.",85.0,2900,Fashion & Retail,United States,M,0
+1053,Roger Penske,85.0,2900,Automotive,United States,M,0
+1053,Olivier Pomel,45.0,2900,Technology,United States,M,0
+1053,Jean Salata,56.0,2900,Finance & Investments,Hong Kong,M,0
+1053,Arnout Schuijff,54.0,2900,Technology,Netherlands,M,0
+1053,Shen Hua & family,59.0,2900,Technology,China,M,0
+1053,Martua Sitorus,62.0,2900,Manufacturing,Singapore,M,0
+1053,Zygmunt Solorz-Zak,65.0,2900,Media & Entertainment,Poland,M,0
+1053,Warren Stephens,65.0,2900,Finance & Investments,United States,M,0
+1053,Tang Jinkui & family,66.0,2900,Manufacturing,China,M,0
+1053,Alan Trefler,66.0,2900,Technology,United States,M,0
+1053,Masateru Uno & family,75.0,2900,Fashion & Retail,Japan,M,0
+1053,Frank VanderSloot,73.0,2900,Fashion & Retail,United States,M,0
+1053,Guangming Wu,60.0,2900,Healthcare,China,M,0
+1053,Kai Wu,54.0,2900,Energy,China,M,0
+1053,Ye Fan & family,51.0,2900,Automotive,China,M,0
+1053,Yoo Jung-hyun,52.0,2900,Media & Entertainment,South Korea,F,0
+1053,Fenggang Zhao,56.0,2900,Energy,China,M,0
+1053,Zheng Xiaodong,58.0,2900,Manufacturing,China,M,0
+1053,Zhou Jianping,61.0,2900,Fashion & Retail,China,M,0
+1096,Jose Joao Abdalla Filho,76.0,2800,Finance & Investments,Brazil,M,0
+1096,Brian Acton,50.0,2800,Technology,United States,M,0
+1096,Bill Alfond,73.0,2800,Fashion & Retail,United States,M,0
+1096,Susan Alfond,76.0,2800,Fashion & Retail,United States,F,0
+1096,Ted Alfond,77.0,2800,Fashion & Retail,United States,M,0
+1096,Felix Baker,53.0,2800,Finance & Investments,United States,M,0
+1096,Julian Baker,55.0,2800,Finance & Investments,United States,M,0
+1096,Karen Virginia Beckmann Legoretta,52.0,2800,Food & Beverage,Mexico,F,0
+1096,Maurizio Billi,64.0,2800,Healthcare,Brazil,M,0
+1096,Otto Philipp Braun,44.0,2800,Healthcare,Germany,M,0
+1096,Garrett Camp,43.0,2800,Technology,United States,M,0
+1096,Cao Ji,70.0,2800,Manufacturing,China,M,0
+1096,Hua Chen,56.0,2800,Real Estate,China,M,0
+1096,John Paul DeJoria,77.0,2800,Fashion & Retail,United States,M,0
+1096,Beda Diethelm,81.0,2800,Healthcare,Switzerland,M,0
+1096,K. Dinesh,67.0,2800,Technology,India,M,0
+1096,Dong Fan,52.0,2800,Healthcare,China,M,0
+1096,Bennett Dorrance,76.0,2800,Food & Beverage,United States,M,0
+1096,Marcel Erni,57.0,2800,Finance & Investments,Switzerland,M,0
+1096,Abhay Firodia,77.0,2800,Automotive,India,M,0
+1096,Alfred Gantner,54.0,2800,Finance & Investments,Switzerland,M,0
+1096,Allan Goldman,79.0,2800,Real Estate,United States,M,0
+1096,Amy Goldman Fowler,67.0,2800,Real Estate,United States,F,0
+1096,J. Tomilson Hill,73.0,2800,Finance & Investments,United States,M,0
+1096,Hong Jie,54.0,2800,Manufacturing,China,M,0
+1096,James Jannard,72.0,2800,Fashion & Retail,United States,M,0
+1096,Travis Kalanick,45.0,2800,Technology,United States,M,0
+1096,Diane Kemper,76.0,2800,Real Estate,United States,F,0
+1096,George Kurtz,51.0,2800,Technology,United States,M,0
+1096,Kwek Leng Beng,81.0,2800,Diversified,Singapore,M,0
+1096,Geoffrey Kwok,36.0,2800,Real Estate,Hong Kong,M,0
+1096,Maritsa Lazari & family,77.0,2800,Real Estate,United Kingdom,F,0
+1096,Alexis Lê-Quôc,47.0,2800,Technology,United States,M,0
+1096,Angela Leong,61.0,2800,Real Estate,Hong Kong,F,0
+1096,Lin Chen-hai,75.0,2800,Real Estate,Taiwan,M,0
+1096,Sergio Mantegazza,94.0,2800,Service,Switzerland,M,0
+1096,Hans Melchers,83.0,2800,Finance & Investments,Netherlands,M,0
+1096,Tom Morris,67.0,2800,Fashion & Retail,United Kingdom,M,0
+1096,Eugene Murtagh,79.0,2800,Manufacturing,Ireland,M,0
+1096,Philip Niarchos,68.0,2800,Diversified,France,M,0
+1096,Pan Dong,57.0,2800,Fashion & Retail,Hong Kong,F,0
+1096,Sean Parker,42.0,2800,Technology,United States,M,0
+1096,Richard Peery,83.0,2800,Real Estate,United States,M,0
+1096,Gregorio Perez Companc & family,86.0,2800,Energy,Argentina,M,0
+1096,Sebastian Piñera & family,72.0,2800,Finance & Investments,Chile,M,0
+1096,Nicholas Pritzker,78.0,2800,Finance & Investments,United States,M,0
+1096,Jeff Rothschild,67.0,2800,Technology,United States,M,0
+1096,Steven Sarowitz,56.0,2800,Technology,United States,M,0
+1096,Isabella Seràgnoli,76.0,2800,Manufacturing,Italy,F,0
+1096,Stephen Smith,70.0,2800,Finance & Investments,Canada,M,0
+1096,William Stone,66.0,2800,Technology,United States,M,0
+1096,Sun Hongbin,59.0,2800,Real Estate,China,M,0
+1096,Sun Shoukuan,72.0,2800,Manufacturing,China,M,0
+1096,"Henry Sy, Jr.",69.0,2800,Diversified,Philippines,M,0
+1096,Andrew Tan,70.0,2800,Diversified,Philippines,M,0
+1096,Kenneth Tuchman,62.0,2800,Service,United States,M,0
+1096,Tung Chee Hwa,84.0,2800,Logistics,Hong Kong,M,0
+1096,Bulat Utemuratov,64.0,2800,Metals & Mining,Kazakhstan,M,0
+1096,Xicheng Wang & family,73.0,2800,Manufacturing,China,M,0
+1096,Urs Wietlisbach,60.0,2800,Finance & Investments,Switzerland,M,0
+1096,Wong Man Li,57.0,2800,Manufacturing,Hong Kong,M,0
+1096,Xie Weitong,65.0,2800,Metals & Mining,Singapore,M,0
+1096,Xu Chuanhua & family,87.0,2800,Manufacturing,China,M,0
+1096,Ye Xiaoping,59.0,2800,Healthcare,China,M,0
+1096,Weiguo Zhao,55.0,2800,Technology,China,M,0
+1163,Ben Ashkenazy,52.0,2700,Real Estate,United States,M,0
+1163,Bill Austin,80.0,2700,Manufacturing,United States,M,0
+1163,Pavel Baudis,61.0,2700,Technology,Czechia,M,0
+1163,Yvonne Bauer,45.0,2700,Media & Entertainment,Germany,F,0
+1163,Giuliana Benetton,84.0,2700,Fashion & Retail,Italy,F,0
+1163,Luciano Benetton,86.0,2700,Fashion & Retail,Italy,M,0
+1163,Aneel Bhusri,56.0,2700,Technology,United States,M,0
+1163,George Bishop,84.0,2700,Energy,United States,M,0
+1163,Vivek Chand Burman,84.0,2700,Food & Beverage,India,M,0
+1163,Morris Chang,90.0,2700,Technology,Taiwan,M,0
+1163,Jinxia Chen,54.0,2700,Finance & Investments,China,F,0
+1163,Cho Jung-ho,63.0,2700,Finance & Investments,South Korea,M,0
+1163,Jack Cockwell,81.0,2700,Finance & Investments,Canada,M,0
+1163,"Edward DeBartolo, Jr.",75.0,2700,Real Estate,United States,M,0
+1163,Abilio dos Santos Diniz,85.0,2700,Fashion & Retail,Brazil,M,0
+1163,"John Dorrance, III.",78.0,2700,Food & Beverage,Ireland,M,0
+1163,Hailiang Feng,61.0,2700,Metals & Mining,China,M,0
+1163,Xingjiang Gao,58.0,2700,Manufacturing,China,M,0
+1163,Carlos Hank Rhon,74.0,2700,Diversified,Mexico,M,0
+1163,Vivek Jain,66.0,2700,Manufacturing,India,M,0
+1163,Brad Kelley,65.0,2700,Real Estate,United States,M,0
+1163,Alicia Koplowitz,68.0,2700,Finance & Investments,Spain,F,0
+1163,Li Li,56.0,2700,Healthcare,China,M,0
+1163,C. Dean Metropoulos,75.0,2700,Food & Beverage,United States,M,0
+1163,Dan Olsson,75.0,2700,Diversified,Sweden,M,0
+1163,Tor Peterson,57.0,2700,Metals & Mining,Switzerland,M,0
+1163,John Pritzker,68.0,2700,Finance & Investments,United States,M,0
+1163,Hussain Sajwani,69.0,2700,Real Estate,United Arab Emirates,M,0
+1163,Tseng Cheng,60.0,2700,Manufacturing,Taiwan,M,0
+1163,Jerry Yang,53.0,2700,Technology,United States,M,0
+1163,Takao Yasuda,72.0,2700,Fashion & Retail,Singapore,M,0
+1163,Yu Qibing & family,56.0,2700,Manufacturing,China,M,0
+1163,Zhang Xuezheng,46.0,2700,Technology,China,M,0
+1196,Isak Andic & family,68.0,2600,Fashion & Retail,Spain,M,0
+1196,Harindarpal Banga,71.0,2600,Finance & Investments,Hong Kong,M,0
+1196,Anne Beaufour,58.0,2600,Healthcare,United Kingdom,F,0
+1196,Henri Beaufour,56.0,2600,Healthcare,United Kingdom,M,0
+1196,Sanjeev Bikhchandani,58.0,2600,Technology,India,M,0
+1196,Norman Braman,89.0,2600,Automotive,United States,M,0
+1196,J. Hyatt Brown,84.0,2600,Finance & Investments,United States,M,0
+1196,Chen Lip Keong,74.0,2600,Gambling & Casinos,Cambodia,M,0
+1196,Jim Coulter,62.0,2600,Finance & Investments,United States,M,0
+1196,Federico De Nora,54.0,2600,Manufacturing,Italy,M,0
+1196,Dong Wei,51.0,2600,Healthcare,China,M,0
+1196,Sandeep Engineer,60.0,2600,Manufacturing,India,M,0
+1196,Alceu Elias Feldmann,72.0,2600,Energy,Brazil,M,0
+1196,"Frank Fertitta, III.",60.0,2600,Sports,United States,M,0
+1196,Lorenzo Fertitta,53.0,2600,Sports,United States,M,0
+1196,Doris Fisher,90.0,2600,Fashion & Retail,United States,F,0
+1196,Alec Gores,69.0,2600,Finance & Investments,United States,M,0
+1196,Rajinder Gupta,63.0,2600,Manufacturing,India,M,0
+1196,Igor Kesaev,55.0,2600,Fashion & Retail,Russia,M,0
+1196,Raj Kumar & Kishin RK,67.0,2600,Real Estate,Singapore,M,0
+1196,Li Hongxin & family,69.0,2600,Manufacturing,China,M,0
+1196,Liu Fangyi,52.0,2600,Healthcare,China,M,0
+1196,Lu Zhongfang,79.0,2600,Automotive,China,F,0
+1196,Nirmal Minda,64.0,2600,Automotive,India,M,0
+1196,Farhad Moshiri,66.0,2600,Diversified,Monaco,M,0
+1196,Hans Georg Naeder,60.0,2600,Manufacturing,Germany,M,0
+1196,Eren Ozmen,63.0,2600,Manufacturing,United States,F,0
+1196,Ronald Perelman,79.0,2600,Finance & Investments,United States,M,0
+1196,Ravi Pillai,68.0,2600,Construction & Engineering,United Arab Emirates,M,0
+1196,Daniel Pritzker,62.0,2600,Finance & Investments,United States,M,0
+1196,Matthias Reinhart,62.0,2600,Finance & Investments,Switzerland,M,0
+1196,Alejandro Santo Domingo,45.0,2600,Food & Beverage,United States,M,0
+1196,Vivek Chaand Sehgal,65.0,2600,Automotive,India,M,0
+1196,Kavitark Ram Shriram,65.0,2600,Technology,United States,M,0
+1196,Hans Sy,66.0,2600,Diversified,Philippines,M,0
+1196,Herbert Sy,65.0,2600,Diversified,Philippines,M,0
+1196,Tahir & family,70.0,2600,Diversified,Indonesia,M,0
+1196,Wang Linpeng,53.0,2600,Construction & Engineering,China,M,0
+1196,David Wertheim,64.0,2600,Food & Beverage,Israel,M,0
+1196,Oprah Winfrey,68.0,2600,Media & Entertainment,United States,F,0
+1196,Xingming Zhu,55.0,2600,Manufacturing,China,M,0
+1238,Suhail Bahwan,83.0,2500,Diversified,Oman,M,0
+1238,David Baszucki,59.0,2500,Media & Entertainment,United States,M,0
+1238,Thor Bjorgolfsson,55.0,2500,Diversified,United Kingdom,M,0
+1238,Charles Bronfman,90.0,2500,Food & Beverage,Canada,M,0
+1238,Chen Tei-fu,73.0,2500,Fashion & Retail,United States,M,0
+1238,Leon G. Cooperman,78.0,2500,Finance & Investments,United States,M,0
+1238,Smita Crishna-Godrej,71.0,2500,Diversified,India,F,0
+1238,Jacques D'Amours,65.0,2500,Fashion & Retail,Canada,M,0
+1238,Maria Del Pino,66.0,2500,Construction & Engineering,Spain,F,0
+1238,Gerald Ford,77.0,2500,Finance & Investments,United States,M,0
+1238,Adi Godrej,80.0,2500,Diversified,India,M,0
+1238,Jamshyd Godrej,73.0,2500,Diversified,India,M,0
+1238,Nadir Godrej,71.0,2500,Diversified,India,M,0
+1238,Sanjiv Goenka,61.0,2500,Diversified,India,M,0
+1238,Stein Erik Hagen,65.0,2500,Fashion & Retail,Norway,M,0
+1238,Donald Horton & family,72.0,2500,Real Estate,United States,M,0
+1238,Hu Yangzhong,57.0,2500,Technology,China,M,0
+1238,Baba Kalyani,73.0,2500,Construction & Engineering,India,M,0
+1238,Stephen Lansdown,69.0,2500,Finance & Investments,Guernsey,M,0
+1238,Mark Leonard & family,65.0,2500,Technology,Canada,M,0
+1238,William Li,47.0,2500,Automotive,China,M,0
+1238,K.C. Liu,68.0,2500,Technology,Taiwan,M,0
+1238,Liu Xiaodong,54.0,2500,Manufacturing,China,M,0
+1238,Aloke Lohia,63.0,2500,Manufacturing,Thailand,M,0
+1238,Mohamed Mansour,74.0,2500,Diversified,Egypt,M,0
+1238,Kishore Mariwala,87.0,2500,Food & Beverage,India,M,0
+1238,Jed McCaleb,47.0,2500,Finance & Investments,United States,M,0
+1238,Enhua Mi,64.0,2500,Fashion & Retail,China,M,0
+1238,Willy Michel,75.0,2500,Healthcare,Switzerland,M,0
+1238,Lachhman Das Mittal,91.0,2500,Automotive,India,M,0
+1238,Ravi Modi,45.0,2500,Fashion & Retail,India,M,0
+1238,Charles Munger,98.0,2500,Finance & Investments,United States,M,0
+1238,Rishad Naoroji,70.0,2500,Diversified,India,M,0
+1238,Yongpei Ni & family,70.0,2500,Food & Beverage,China,M,0
+1238,Fatih Ozmen,64.0,2500,Manufacturing,United States,M,0
+1238,Qiu Minxiu,76.0,2500,Technology,China,F,0
+1238,Stewart Rahr,76.0,2500,Healthcare,United States,M,0
+1238,Prathap Reddy,90.0,2500,Healthcare,India,M,0
+1238,Chad Richison,51.0,2500,Technology,United States,M,0
+1238,Suh Kyung-bae,59.0,2500,Fashion & Retail,South Korea,M,0
+1238,Glen Taylor,80.0,2500,Service,United States,M,0
+1238,Nadia Thiele,46.0,2500,Finance & Investments,Germany,F,0
+1238,Wang Minwen,58.0,2500,Technology,China,M,0
+1238,Huijiao Yu,56.0,2500,Logistics,China,M,0
+1238,Zhang Ning & family,48.0,2500,Manufacturing,China,F,0
+1238,Zhao Tao,56.0,2500,Healthcare,China,M,0
+1238,Hongyi Zhou,51.0,2500,Technology,China,M,0
+1292,Rajendra Agarwal,63.0,2400,Healthcare,India,M,0
+1292,George Argyros & family,85.0,2400,Real Estate,United States,M,0
+1292,Edward Bass,76.0,2400,Energy,United States,M,0
+1292,Banwari Lal Bawri,69.0,2400,Healthcare,India,M,0
+1292,Girdhari Lal Bawri,74.0,2400,Healthcare,India,M,0
+1292,Chao Teng-hsiung,77.0,2400,Real Estate,Taiwan,M,0
+1292,Zhisong Chen,56.0,2400,Technology,China,M,0
+1292,Chey Tae-won,61.0,2400,Telecom,South Korea,M,0
+1292,Choo Chong Ngen,68.0,2400,Real Estate,Singapore,M,0
+1292,John Coates,52.0,2400,Gambling & Casinos,United Kingdom,M,0
+1292,Alexandra Daitch,59.0,2400,Food & Beverage,United States,F,0
+1292,Chetan Dube,56.0,2400,Technology,United States,M,0
+1292,Daniel Ek,39.0,2400,Technology,Sweden,M,0
+1292,John Fisher,60.0,2400,Fashion & Retail,United States,M,0
+1292,Bernard Fraisse & family,65.0,2400,Healthcare,France,M,0
+1292,William Franke,84.0,2400,Diversified,United States,M,0
+1292,Caroline Hagen Kjos,38.0,2400,Diversified,Switzerland,F,0
+1292,Lam Kong,57.0,2400,Healthcare,Hong Kong,M,0
+1292,Hans Langer,70.0,2400,Manufacturing,Germany,M,0
+1292,Joe Lau,32.0,2400,Technology,United States,M,0
+1292,Kevin David Lehmann,19.0,2400,Fashion & Retail,Germany,M,0
+1292,Liang Qin & family,50.0,2400,Technology,China,F,0
+1292,Peter Lim,68.0,2400,Finance & Investments,Singapore,M,0
+1292,Sarah MacMillan,68.0,2400,Food & Beverage,United States,F,0
+1292,Kalanithi Maran,56.0,2400,Media & Entertainment,India,M,0
+1292,Lirio Parisotto,68.0,2400,Finance & Investments,Brazil,M,0
+1292,Rajan Raheja & family,67.0,2400,Diversified,India,M,0
+1292,Alberto Roemmers,95.0,2400,Healthcare,Argentina,M,0
+1292,Rodney Sacks,72.0,2400,Food & Beverage,United States,M,0
+1292,Ferit Faik Sahenk,58.0,2400,Diversified,Turkey,M,0
+1292,Hilton Schlosberg,69.0,2400,Food & Beverage,United States,M,0
+1292,Alberto Siccardi & family,77.0,2400,Healthcare,Switzerland,M,0
+1292,Salil Singhal,74.0,2400,Manufacturing,India,M,0
+1292,Lucy Stitzer,62.0,2400,Food & Beverage,United States,F,0
+1292,Otto Toto Sugiri,68.0,2400,Technology,Indonesia,M,0
+1292,Harley Sy,62.0,2400,Diversified,Philippines,M,0
+1292,Teresita Sy-Coson,71.0,2400,Diversified,Philippines,F,0
+1292,Katsumi Tada,76.0,2400,Real Estate,Japan,M,0
+1292,Tang Yiu,88.0,2400,Fashion & Retail,Hong Kong,M,0
+1292,Jeff Tangney,49.0,2400,Healthcare,United States,M,0
+1292,Lottie Tham & family,72.0,2400,Fashion & Retail,Sweden,F,0
+1292,T.Y. Tsai,69.0,2400,Finance & Investments,Taiwan,M,0
+1292,Timur Turlov,34.0,2400,Finance & Investments,Kazakhstan,M,0
+1292,Hamdi Ulukaya,49.0,2400,Food & Beverage,United States,M,0
+1292,Peter Unger,77.0,2400,Automotive,Germany,M,0
+1292,Nikil Viswanathan,34.0,2400,Technology,United States,M,0
+1292,Anthony Wood,56.0,2400,Technology,United States,M,0
+1292,Zhang Hongwei,67.0,2400,Diversified,China,M,0
+1292,Zhang Li,69.0,2400,Real Estate,China,M,0
+1341,Houshan Bai,58.0,2300,Energy,China,M,0
+1341,Alex Beard,54.0,2300,Metals & Mining,United Kingdom,M,0
+1341,Koos Bekker,69.0,2300,Media & Entertainment,South Africa,M,0
+1341,William Boyd & family,90.0,2300,Gambling & Casinos,United States,M,0
+1341,Timothy Boyle,72.0,2300,Fashion & Retail,United States,M,0
+1341,Anand Burman,69.0,2300,Food & Beverage,India,M,0
+1341,Richard Chandler,63.0,2300,Finance & Investments,Singapore,M,0
+1341,R.G. Chandramogan,73.0,2300,Food & Beverage,India,M,0
+1341,Cho Young-sik,60.0,2300,Healthcare,South Korea,M,0
+1341,Chu Lam Yiu,52.0,2300,Manufacturing,Hong Kong,F,0
+1341,Kommer Damen,78.0,2300,Manufacturing,Netherlands,M,0
+1341,Henry Davis,71.0,2300,Food & Beverage,United States,M,0
+1341,Ray Davis,80.0,2300,Energy,United States,M,0
+1341,Stephen Feinberg,62.0,2300,Finance & Investments,United States,M,0
+1341,Kenneth Feld & family,73.0,2300,Media & Entertainment,United States,M,0
+1341,Alexander Frolov,57.0,2300,Metals & Mining,Russia,M,0
+1341,Mario Germano Giuliani,50.0,2300,Healthcare,Monaco,M,0
+1341,Serge Godin,72.0,2300,Technology,Canada,M,0
+1341,Noam Gottesman,60.0,2300,Finance & Investments,United States,M,0
+1341,Yusuf Hamied,85.0,2300,Healthcare,India,M,0
+1341,Bill Haslam,63.0,2300,Fashion & Retail,United States,M,0
+1341,Hans-Werner Hector,82.0,2300,Technology,Germany,M,0
+1341,Ho Hung Anh,51.0,2300,Finance & Investments,Vietnam,M,0
+1341,Douglas Hsu,79.0,2300,Diversified,Taiwan,M,0
+1341,Erman Ilicak,54.0,2300,Construction & Engineering,Turkey,M,0
+1341,Zhaobai Jiang,58.0,2300,Real Estate,China,M,0
+1341,Osman Kibar,51.0,2300,Healthcare,United States,M,0
+1341,Adam Kwok,39.0,2300,Real Estate,Hong Kong,M,0
+1341,Frank Laukien,62.0,2300,Manufacturing,United States,M,0
+1341,Louis Le Duff,75.0,2300,Food & Beverage,France,M,0
+1341,Solomon Lew,77.0,2300,Fashion & Retail,Australia,M,0
+1341,Liang Rubo,39.0,2300,Technology,China,M,0
+1341,Liang Zhaoxian,57.0,2300,Manufacturing,China,M,0
+1341,Prayudh Mahagitsiri,76.0,2300,Food & Beverage,Thailand,M,0
+1341,Clayton Mathile,81.0,2300,Food & Beverage,United States,M,0
+1341,Erwin Franz Mueller,89.0,2300,Fashion & Retail,Germany,M,0
+1341,David Murdock,98.0,2300,Food & Beverage,United States,M,0
+1341,Rubens Ometto Silveira Mello,72.0,2300,Energy,Brazil,M,0
+1341,Erik Paulsson & family,80.0,2300,Real Estate,Sweden,M,0
+1341,Heloise Pratt,59.0,2300,Manufacturing,Australia,F,0
+1341,Qiu Jianping & family,60.0,2300,Manufacturing,China,M,0
+1341,Dirk Rossmann & family,75.0,2300,Fashion & Retail,Germany,M,0
+1341,Stephan Schmidheiny,74.0,2300,Finance & Investments,Switzerland,M,0
+1341,Wenrong Shen,76.0,2300,Metals & Mining,China,M,0
+1341,Guangxin Sun,59.0,2300,Diversified,China,M,0
+1341,Mengquan Sun & family,72.0,2300,Food & Beverage,China,M,0
+1341,Thomas Tull,51.0,2300,Media & Entertainment,United States,M,0
+1341,Ted Turner,83.0,2300,Media & Entertainment,United States,M,0
+1341,David Walentas,83.0,2300,Real Estate,United States,M,0
+1341,Yingming Wu,55.0,2300,Energy,China,M,0
+1341,Yingzhuo Xu,54.0,2300,Food & Beverage,China,M,0
+1341,Christoph Zeller,64.0,2300,Healthcare,Liechtenstein,M,0
+1341,Zhang Wanzhen,72.0,2300,Manufacturing,China,M,0
+1341,Xiaojuan Zhang,52.0,2300,Logistics,China,F,0
+1397,Michael Ashcroft,76.0,2200,Finance & Investments,Turks and Caicos Islands,M,0
+1397,Alex Atallah,30.0,2200,Technology,United States,M,0
+1397,Brett Blundy,62.0,2200,Fashion & Retail,Bahamas,M,0
+1397,Chris Britt,49.0,2200,Finance & Investments,United States,M,0
+1397,Cen Junda,57.0,2200,Healthcare,China,M,0
+1397,Yadu Hari Dalmia & family,74.0,2200,Manufacturing,India,M,0
+1397,Zhenggang Dou,68.0,2200,Diversified,China,M,0
+1397,Weimin Du,58.0,2200,Healthcare,China,M,0
+1397,Devin Finzer,31.0,2200,Technology,United States,M,0
+1397,Robert Friedland,71.0,2200,Metals & Mining,Singapore,M,0
+1397,Phillip Frost,85.0,2200,Healthcare,United States,M,0
+1397,Jeffrey Gundlach,63.0,2200,Finance & Investments,United States,M,0
+1397,John Hancock,46.0,2200,Metals & Mining,United Kingdom,M,0
+1397,Georg Haub,60.0,2200,Fashion & Retail,Germany,M,0
+1397,Hortensia Herrero,71.0,2200,Fashion & Retail,Spain,F,0
+1397,"B. Wayne Hughes, Jr.",61.0,2200,Real Estate,United States,M,0
+1397,Bruce Karsh,66.0,2200,Finance & Investments,United States,M,0
+1397,Shlomo Kramer,56.0,2200,Technology,Israel,M,0
+1397,Jonathan Kwok,30.0,2200,Real Estate,Hong Kong,M,0
+1397,Christian Latouche,81.0,2200,Finance & Investments,France,M,0
+1397,Martin Lau,49.0,2200,Technology,Hong Kong,M,0
+1397,Li Wa,56.0,2200,Real Estate,China,M,0
+1397,Liang Xinjun,54.0,2200,Diversified,China,M,0
+1397,Lin Chang Su-O,81.0,2200,Real Estate,Taiwan,F,0
+1397,Lin Fanlian,60.0,2200,Energy,China,M,0
+1397,Lin Lairong & family,53.0,2200,Metals & Mining,China,M,0
+1397,Daniel Lubetzky,53.0,2200,Food & Beverage,United States,M,0
+1397,Howard Marks,75.0,2200,Finance & Investments,United States,M,0
+1397,Craig McCaw,72.0,2200,Telecom,United States,M,0
+1397,Vincent McMahon,76.0,2200,Sports,United States,M,0
+1397,Mu Rongjun,42.0,2200,Technology,China,M,0
+1397,Jonathan Nelson,65.0,2200,Finance & Investments,United States,M,0
+1397,Bianca Rinehart,45.0,2200,Metals & Mining,Australia,F,0
+1397,Ginia Rinehart,35.0,2200,Metals & Mining,Australia,F,0
+1397,Filiz Sahenk,55.0,2200,Diversified,Turkey,F,0
+1397,S.D. Shibulal,67.0,2200,Technology,India,M,0
+1397,Alexander Svetakov,54.0,2200,Finance & Investments,Russia,M,0
+1397,Jeffrey Talpins,47.0,2200,Finance & Investments,United States,M,0
+1397,Ming Tian,68.0,2200,Technology,China,M,0
+1397,Arvind Tiku,52.0,2200,Energy,Singapore,M,0
+1397,Torsten Toeller,55.0,2200,Fashion & Retail,Germany,M,0
+1397,Riaz Valani,45.0,2200,Finance & Investments,United States,M,0
+1397,Pieter van der Does,52.0,2200,Technology,Netherlands,M,0
+1397,Lang Walker,76.0,2200,Real Estate,Australia,M,0
+1397,Hope Welker,36.0,2200,Metals & Mining,United States,F,0
+1397,Xie Bingkun & family,55.0,2200,Fashion & Retail,China,M,0
+1397,William Young,81.0,2200,Manufacturing,United States,M,0
+1397,Zhou Jian,45.0,2200,Energy,China,M,0
+1445,Mohamed Al Fayed,93.0,2100,Fashion & Retail,United Kingdom,M,0
+1445,Faisal Bin Qassim Al Thani,74.0,2100,Diversified,Qatar,M,0
+1445,Masaaki Arai,56.0,2100,Real Estate,Japan,M,0
+1445,Tatyana Bakalchuk,46.0,2100,Fashion & Retail,Russia,F,0
+1445,Lee Bass,65.0,2100,Energy,United States,M,0
+1445,Alberto Bombassei,81.0,2100,Automotive,Italy,M,0
+1445,Jim Breyer,60.0,2100,Technology,United States,M,0
+1445,Ron Burkle,69.0,2100,Finance & Investments,United Kingdom,M,0
+1445,Chen Huwen,51.0,2100,Manufacturing,China,M,0
+1445,Chen Huxiong,51.0,2100,Manufacturing,China,M,0
+1445,Chen Xuehua,61.0,2100,Metals & Mining,China,M,0
+1445,Bruce Cheng,86.0,2100,Technology,Taiwan,M,0
+1445,Ryan Cohen,36.0,2100,Finance & Investments,United States,M,0
+1445,Dermot Desmond,71.0,2100,Finance & Investments,Ireland,M,0
+1445,Fred Ehrsam,33.0,2100,Finance & Investments,United States,M,0
+1445,John Elkann,46.0,2100,Finance & Investments,Italy,M,0
+1445,Bob Ell,77.0,2100,Real Estate,Australia,M,0
+1445,Fang Xiaoliang & family,63.0,2100,Healthcare,China,M,0
+1445,Lindsay Fox,84.0,2100,Logistics,Australia,M,0
+1445,Gary Friedman,64.0,2100,Fashion & Retail,United States,M,0
+1445,Gordon Getty,88.0,2100,Energy,United States,M,0
+1445,Dennis Gillings,77.0,2100,Healthcare,United States,M,0
+1445,Harsh Goenka,64.0,2100,Diversified,India,M,0
+1445,David Hains,91.0,2100,Finance & Investments,Australia,M,0
+1445,Bahaa Hariri,55.0,2100,Real Estate,Switzerland,M,0
+1445,Shmuel Harlap,77.0,2100,Automotive,Israel,M,0
+1445,Gerry Harvey,82.0,2100,Fashion & Retail,Australia,M,0
+1445,Reid Hoffman,54.0,2100,Technology,United States,M,0
+1445,Hou Juncheng,57.0,2100,Healthcare,China,M,0
+1445,Thomas James,79.0,2100,Finance & Investments,United States,M,0
+1445,Eiichi Kuriwada,75.0,2100,Logistics,Japan,M,0
+1445,Kwek Leng Kee,67.0,2100,Diversified,Singapore,M,0
+1445,Lai Shixian,47.0,2100,Fashion & Retail,China,M,0
+1445,Lau Cho Kun,86.0,2100,Diversified,Malaysia,M,0
+1445,Lee Hae-jin,54.0,2100,Technology,South Korea,M,0
+1445,Harald Link,67.0,2100,Diversified,Thailand,M,0
+1445,Liu Xiucai & family,65.0,2100,Manufacturing,China,M,0
+1445,Yangyong Luo & family,46.0,2100,Metals & Mining,China,M,0
+1445,Igor Makarov,60.0,2100,Energy,United States,M,0
+1445,Alexander Mamut,62.0,2100,Finance & Investments,Israel,M,0
+1445,David Mindus,50.0,2100,Real Estate,Sweden,M,0
+1445,Yuji Otsuka,68.0,2100,Technology,Japan,M,0
+1445,Clive Palmer,68.0,2100,Metals & Mining,Australia,M,0
+1445,Ajay Parekh,64.0,2100,Manufacturing,India,M,0
+1445,Narendrakumar Parekh,83.0,2100,Manufacturing,India,M,0
+1445,Xiangdong Qi,51.0,2100,Technology,China,M,0
+1445,Jianhua Ren,65.0,2100,Manufacturing,China,M,0
+1445,Alice Schwartz,95.0,2100,Healthcare,United States,F,0
+1445,Peter Sondakh,72.0,2100,Finance & Investments,Indonesia,M,0
+1445,Song Fei,55.0,2100,Manufacturing,China,M,0
+1445,Timothy Springer,74.0,2100,Healthcare,United States,M,0
+1445,Suyu Su & family,73.0,2100,Real Estate,China,F,0
+1445,Elizabeth Sy,69.0,2100,Diversified,Philippines,F,0
+1445,Sukanto Tanoto,72.0,2100,Diversified,Singapore,M,0
+1445,Jayshree Ullal,61.0,2100,Technology,United States,F,0
+1445,Sunny Varkey,64.0,2100,Service,United Arab Emirates,M,0
+1445,Jitendra Virwani,56.0,2100,Real Estate,India,M,0
+1445,Wang Ren-sheng,90.0,2100,Fashion & Retail,China,M,0
+1445,Wang Wenmo,65.0,2100,Fashion & Retail,China,M,0
+1445,Thomas Wu,72.0,2100,Finance & Investments,Taiwan,M,0
+1445,Wu Ying,57.0,2100,Manufacturing,China,M,0
+1445,Amy Wyss,51.0,2100,Healthcare,United States,F,0
+1445,Xiang Guangming & family,58.0,2100,Manufacturing,China,M,0
+1445,Xu Shugen,56.0,2100,Manufacturing,China,M,0
+1445,Steven Meng Yang & family,39.0,2100,Technology,China,M,0
+1445,Clayton Zekelman,53.0,2100,Manufacturing,Canada,M,0
+1445,Hongfei Zhao,47.0,2100,Technology,China,M,0
+1513,S. Daniel Abraham,97.0,2000,Food & Beverage,United States,M,0
+1513,Aziz Akhannouch & family,61.0,2000,Diversified,Morocco,M,0
+1513,Andrey Andreev,48.0,2000,Technology,United Kingdom,M,0
+1513,Ramon Ang,68.0,2000,Food & Beverage,Philippines,M,0
+1513,Guilherme Benchimol,45.0,2000,Finance & Investments,Brazil,M,0
+1513,Julio Bozano,86.0,2000,Finance & Investments,Brazil,M,0
+1513,Ryan Breslow,27.0,2000,Technology,United States,M,0
+1513,Cao Jianwei,43.0,2000,Manufacturing,China,M,0
+1513,Herb Chambers,80.0,2000,Automotive,United States,M,0
+1513,Daniel Chiu,61.0,2000,Energy,Hong Kong,M,0
+1513,Tim Cook,61.0,2000,Technology,United States,M,0
+1513,Brunello Cucinelli & family,68.0,2000,Fashion & Retail,Italy,M,0
+1513,Georgi Domuschiev,49.0,2000,Diversified,United Kingdom,M,0
+1513,Kiril Domuschiev,52.0,2000,Diversified,United Kingdom,M,0
+1513,Glenn Dubin,64.0,2000,Finance & Investments,United States,M,0
+1513,James Duff,61.0,2000,Diversified,United States,M,0
+1513,Thomas Duff,65.0,2000,Diversified,United States,M,0
+1513,Robert Duggan,77.0,2000,Healthcare,United States,M,0
+1513,Maria Franca Fissolo,87.0,2000,Food & Beverage,Monaco,F,0
+1513,Fu Mingkang & family,59.0,2000,Manufacturing,China,M,0
+1513,Jay Hennick,65.0,2000,Finance & Investments,Canada,M,0
+1513,Orion Hindawi,42.0,2000,Technology,United States,M,0
+1513,Ji Qi,55.0,2000,Real Estate,China,M,0
+1513,Kim Chang-soo,61.0,2000,Fashion & Retail,South Korea,M,0
+1513,Vyacheslav Kim,52.0,2000,Finance & Investments,Kazakhstan,M,0
+1513,Kuan Kam Hon & family,74.0,2000,Manufacturing,Malaysia,M,0
+1513,Egor Kulkov,50.0,2000,Healthcare,Switzerland,M,0
+1513,Josh Kushner,36.0,2000,Finance & Investments,United States,M,0
+1513,Henry Laufer,76.0,2000,Finance & Investments,United States,M,0
+1513,Thomas Lee,78.0,2000,Finance & Investments,United States,M,0
+1513,Michael Lee-Chin,71.0,2000,Finance & Investments,Canada,M,0
+1513,Li Xuhui,53.0,2000,Food & Beverage,China,F,0
+1513,Lim Kok Thay,70.0,2000,Gambling & Casinos,Malaysia,M,0
+1513,Joao Roberto Marinho,68.0,2000,Media & Entertainment,Brazil,M,0
+1513,Jose Roberto Marinho,66.0,2000,Media & Entertainment,Brazil,M,0
+1513,Roberto Irineu Marinho,74.0,2000,Media & Entertainment,Brazil,M,0
+1513,Jim McKelvey,56.0,2000,Technology,United States,M,0
+1513,Robert Miller,88.0,2000,Fashion & Retail,Hong Kong,M,0
+1513,David Nahmad,74.0,2000,Fashion & Retail,United States,M,0
+1513,Florentino Perez,75.0,2000,Construction & Engineering,Spain,M,0
+1513,Jennifer Pritzker,71.0,2000,Finance & Investments,United States,F,0
+1513,Linda Pritzker,68.0,2000,Service,United States,F,0
+1513,P.V. Ramprasad Reddy,64.0,2000,Healthcare,India,M,0
+1513,"Joe Rogers, Jr.",75.0,2000,Food & Beverage,United States,M,0
+1513,Ruan Shuilong & family,86.0,2000,Manufacturing,China,M,0
+1513,Phil Ruffin,87.0,2000,Diversified,United States,M,0
+1513,Vinod Saraf,69.0,2000,Manufacturing,India,M,0
+1513,Maria-Elisabeth Schaeffler-Thumann,80.0,2000,Automotive,Germany,F,0
+1513,Genhuo Shao,56.0,2000,Food & Beverage,China,M,0
+1513,Shen Xiqiang & family,74.0,2000,Energy,China,M,0
+1513,Shi Wen-long,94.0,2000,Manufacturing,Taiwan,M,0
+1513,Thaksin Shinawatra,72.0,2000,Finance & Investments,United Arab Emirates,M,0
+1513,Alexander Skorobogatko,54.0,2000,Logistics,Russia,M,0
+1513,Sylvia Stroeher,66.0,2000,Fashion & Retail,Germany,F,0
+1513,Wichai Thongtang,75.0,2000,Finance & Investments,Thailand,M,0
+1513,Todd Wagner,61.0,2000,Media & Entertainment,United States,M,0
+1513,Wang Jianguo,62.0,2000,Fashion & Retail,China,M,0
+1513,Shuifu Wang,67.0,2000,Manufacturing,China,M,0
+1513,Wenbiao Wang,65.0,2000,Manufacturing,China,M,0
+1513,Kanye West,44.0,2000,Fashion & Retail,United States,M,0
+1513,Evan Williams,50.0,2000,Technology,United States,M,0
+1513,Zhongyi Wu,48.0,2000,Technology,China,M,0
+1513,Zhihan Xu,49.0,2000,Technology,China,M,0
+1513,Yan Zhi,49.0,2000,Real Estate,China,M,0
+1513,Michael Ying,72.0,2000,Fashion & Retail,Hong Kong,M,0
+1513,Yuan Liping,51.0,2000,Healthcare,China,F,0
+1579,Anu Aga,79.0,1900,Construction & Engineering,India,F,0
+1579,Joy Alukkas,65.0,1900,Fashion & Retail,India,M,0
+1579,Sezai Bacaksiz,72.0,1900,Diversified,Turkey,M,0
+1579,Baokun Bai,52.0,1900,Manufacturing,China,M,0
+1579,Acharya Balkrishna,49.0,1900,Food & Beverage,India,M,0
+1579,Kiki Barki,82.0,1900,Energy,Indonesia,M,0
+1579,John Bloor,78.0,1900,Diversified,United Kingdom,M,0
+1579,Nicola Bulgari,81.0,1900,Fashion & Retail,Italy,M,0
+1579,Alejandro Bulgheroni,77.0,1900,Energy,Uruguay,M,0
+1579,Fernando Chico Pardo,70.0,1900,Service,Mexico,M,0
+1579,Jose Luis Cutrale,75.0,1900,Food & Beverage,Brazil,M,0
+1579,D. Leopoldo Del Pino,59.0,1900,Construction & Engineering,Spain,M,0
+1579,James Dinan,62.0,1900,Finance & Investments,United States,M,0
+1579,Francois Feuillet & family,73.0,1900,Automotive,France,M,0
+1579,Guangming Fu & family,68.0,1900,Food & Beverage,China,M,0
+1579,Mario Gabelli,80.0,1900,Finance & Investments,United States,M,0
+1579,Reinold Geiger,74.0,1900,Fashion & Retail,Switzerland,M,0
+1579,He Zhenggang,68.0,1900,Manufacturing,China,M,0
+1579,Roberto Hernandez Ramirez,80.0,1900,Finance & Investments,Mexico,M,0
+1579,Hoi Kin Hong,69.0,1900,Real Estate,China,M,0
+1579,Huang Qiaoling,63.0,1900,Media & Entertainment,China,M,0
+1579,Willis Johnson,74.0,1900,Automotive,United States,M,0
+1579,Keeree Kanjanapas,71.0,1900,Real Estate,Thailand,M,0
+1579,Kim Dae-il,42.0,1900,Technology,South Korea,M,0
+1579,Kim Hyoung-nyon,46.0,1900,Finance & Investments,South Korea,M,0
+1579,Andrei Kozitsyn,61.0,1900,Metals & Mining,Russia,M,0
+1579,Thomas Kwok,70.0,1900,Real Estate,Hong Kong,M,0
+1579,Lei Jufang,69.0,1900,Healthcare,China,F,0
+1579,David Lichtenstein,60.0,1900,Real Estate,United States,M,0
+1579,Lin Dingqiang & family,55.0,1900,Real Estate,China,M,0
+1579,Mikhail Lomtadze,46.0,1900,Finance & Investments,Kazakhstan,M,0
+1579,Yusaku Maezawa,46.0,1900,Technology,Japan,M,0
+1579,Katarina Martinson,40.0,1900,Diversified,Sweden,F,0
+1579,Shouliang Miao,67.0,1900,Real Estate,China,M,0
+1579,Romano Minozzi,87.0,1900,Diversified,Italy,M,0
+1579,Pedro Moreira Salles,62.0,1900,Diversified,Brazil,M,0
+1579,Alexander Nesis,59.0,1900,Finance & Investments,Russia,M,0
+1579,Nguyen Dang Quang,58.0,1900,Food & Beverage,Vietnam,M,0
+1579,Oei Hong Leong,74.0,1900,Finance & Investments,Singapore,M,0
+1579,Nihat Ozdemir,72.0,1900,Diversified,Turkey,M,0
+1579,Gretel Packer,56.0,1900,Media & Entertainment,Australia,F,0
+1579,Benjamin Zhengmin Pan & family,52.0,1900,Technology,China,M,0
+1579,Victor Pinchuk,61.0,1900,Metals & Mining,Ukraine,M,0
+1579,Alexander Ponomarenko,57.0,1900,Logistics,Russia,M,0
+1579,Qi Jinxing,60.0,1900,Real Estate,China,M,0
+1579,Larry Robbins,52.0,1900,Finance & Investments,United States,M,0
+1579,Dwight Schar,80.0,1900,Construction & Engineering,United States,M,0
+1579,Shi Yifeng,48.0,1900,Healthcare,China,M,0
+1579,Sun Hongjun,48.0,1900,Technology,China,M,0
+1579,Anand Surana,51.0,1900,Healthcare,India,M,0
+1579,Dilip Surana,56.0,1900,Healthcare,India,M,0
+1579,Djoko Susanto,72.0,1900,Fashion & Retail,Indonesia,M,0
+1579,Sze Man Bok,72.0,1900,Manufacturing,China,M,0
+1579,Alain Taravella,74.0,1900,Real Estate,France,M,0
+1579,Martin Viessmann,68.0,1900,Manufacturing,Germany,M,0
+1579,Georg von Opel,55.0,1900,Finance & Investments,United Kingdom,M,0
+1579,Changtian Wang,56.0,1900,Media & Entertainment,China,M,0
+1579,Wang Chaobin,66.0,1900,Real Estate,China,M,0
+1579,Wang Chou-hsiong,81.0,1900,Manufacturing,Taiwan,M,0
+1579,Wang Xiaoshen,53.0,1900,Manufacturing,China,M,0
+1579,Wei Yin-Heng,63.0,1900,Food & Beverage,China,M,0
+1579,Xue Xiangdong & family,63.0,1900,Technology,China,M,0
+1579,Yuan Fugen & family,71.0,1900,Manufacturing,China,M,0
+1579,David Zalik,48.0,1900,Technology,United States,M,0
+1645,Leslie Alexander,78.0,1800,Sports,United States,M,0
+1645,Igor Altushkin,51.0,1800,Metals & Mining,Russia,M,0
+1645,Roberto Angelini Rossi,73.0,1800,Diversified,Chile,M,0
+1645,Nigel Austin,51.0,1800,Fashion & Retail,Australia,M,0
+1645,Bang Jun-hyuk,53.0,1800,Media & Entertainment,South Korea,M,0
+1645,O. Francis Biondi,57.0,1800,Finance & Investments,United States,M,0
+1645,Chang Byung-gyu,48.0,1800,Technology,South Korea,M,0
+1645,Chen Gang,54.0,1800,Energy,China,M,0
+1645,Liying Chen,46.0,1800,Logistics,China,F,0
+1645,Chen Xueli,70.0,1800,Healthcare,China,M,0
+1645,Chi Yufeng,51.0,1800,Technology,China,M,0
+1645,Mark Coombs,61.0,1800,Finance & Investments,United Kingdom,M,0
+1645,Tench Coxe,64.0,1800,Finance & Investments,United States,M,0
+1645,John de Mol,67.0,1800,Media & Entertainment,Netherlands,M,0
+1645,Alfredo Egydio Arruda Villela Filho,52.0,1800,Finance & Investments,Brazil,M,0
+1645,Ibrahim Erdemoglu,59.0,1800,Manufacturing,Turkey,M,0
+1645,Paul Foster,64.0,1800,Energy,United States,M,0
+1645,James France,77.0,1800,Sports,United States,M,0
+1645,Yasuhiro Fukushima,74.0,1800,Media & Entertainment,Japan,M,0
+1645,Zhongru Gan,73.0,1800,Healthcare,China,M,0
+1645,Rahul Gautam,69.0,1800,Fashion & Retail,India,M,0
+1645,Ali Ghodsi,43.0,1800,Technology,United States,M,0
+1645,Giammaria Giuliani,44.0,1800,Healthcare,Switzerland,M,0
+1645,Christopher Goldsbury,79.0,1800,Food & Beverage,United States,M,0
+1645,Alexandre Grendene Bartelle,72.0,1800,Fashion & Retail,Brazil,M,0
+1645,Surjit Kumar Gupta,80.0,1800,Manufacturing,India,M,0
+1645,Brian Higgins,57.0,1800,Finance & Investments,United States,M,0
+1645,David Hindawi,77.0,1800,Technology,United States,M,0
+1645,Chengzhong Hu,61.0,1800,Manufacturing,China,M,0
+1645,Huang Min,48.0,1800,Manufacturing,China,M,0
+1645,Stanley Hubbard,88.0,1800,Media & Entertainment,United States,M,0
+1645,Hui Lin Chit,68.0,1800,Manufacturing,China,M,0
+1645,Hal Jackman,89.0,1800,Finance & Investments,Canada,M,0
+1645,Stephen Jarislowsky,96.0,1800,Finance & Investments,Canada,M,0
+1645,George Joseph,100.0,1800,Finance & Investments,United States,M,0
+1645,Kim Kardashian,41.0,1800,Fashion & Retail,United States,F,0
+1645,Dominika Kulczyk,44.0,1800,Finance & Investments,Poland,F,0
+1645,Edward Lampert,59.0,1800,Finance & Investments,United States,M,0
+1645,Marc Lasry,61.0,1800,Finance & Investments,United States,M,0
+1645,Michiel Le Roux,72.0,1800,Finance & Investments,South Africa,M,0
+1645,Peter Leibinger,55.0,1800,Manufacturing,Germany,M,0
+1645,Regine Leibinger,59.0,1800,Manufacturing,Germany,F,0
+1645,Nicola Leibinger-Kammueller,62.0,1800,Manufacturing,Germany,F,0
+1645,Wolfgang Leitner,69.0,1800,Construction & Engineering,Austria,M,0
+1645,Liu Zhongtian & family,58.0,1800,Manufacturing,China,M,0
+1645,Bill Malhotra,72.0,1800,Real Estate,Canada,M,0
+1645,George Marcus,80.0,1800,Real Estate,United States,M,0
+1645,Yves-Loic Martin,56.0,1800,Healthcare,France,M,0
+1645,Gary Michelson,73.0,1800,Healthcare,United States,M,0
+1645,Robert G. Miller,76.0,1800,Technology,Canada,M,0
+1645,Fernando Roberto Moreira Salles,75.0,1800,Diversified,Brazil,M,0
+1645,Joao Moreira Salles,60.0,1800,Diversified,Brazil,M,0
+1645,Walther Moreira Salles Junior,65.0,1800,Finance & Investments,Brazil,M,0
+1645,Zugen Ni,65.0,1800,Manufacturing,China,M,0
+1645,Liora Ofer,68.0,1800,Finance & Investments,Israel,F,0
+1645,Mrudula Parekh,74.0,1800,Manufacturing,India,F,0
+1645,David Paul,55.0,1800,Healthcare,United States,M,0
+1645,Pierre Karl Péladeau,60.0,1800,Media & Entertainment,Canada,M,0
+1645,Miranda Qu,37.0,1800,Fashion & Retail,China,F,0
+1645,Phillip T. (Terry) Ragon,72.0,1800,Technology,United States,M,0
+1645,G. Rajendran,79.0,1800,Fashion & Retail,India,M,0
+1645,Krit Ratanarak,75.0,1800,Media & Entertainment,Thailand,M,0
+1645,Jerry Reinsdorf,86.0,1800,Sports,United States,M,0
+1645,Mochtar Riady & family,92.0,1800,Diversified,Indonesia,M,0
+1645,Rajju Shroff,88.0,1800,Manufacturing,India,M,0
+1645,Frank Slootman,63.0,1800,Technology,United States,M,0
+1645,Henry Swieca,64.0,1800,Finance & Investments,United States,M,0
+1645,Yuequn Tao,62.0,1800,Fashion & Retail,China,M,0
+1645,Robert Toennies,43.0,1800,Food & Beverage,Germany,M,0
+1645,Torbjorn Tornqvist,68.0,1800,Energy,Switzerland,M,0
+1645,Zhenghua Wang,77.0,1800,Service,China,M,0
+1645,Charlotte Colket Weber,79.0,1800,Food & Beverage,United States,F,0
+1645,Wu Lanlan & family,48.0,1800,Manufacturing,China,F,0
+1645,Wu Yulan,52.0,1800,Healthcare,China,F,0
+1645,Elaine Wynn,79.0,1800,Gambling & Casinos,United States,F,0
+1645,Xu Shijun & family,59.0,1800,Manufacturing,China,M,0
+1645,Xu Xudong & family,52.0,1800,Automotive,China,M,0
+1645,Yang Xuegang,57.0,1800,Manufacturing,China,M,0
+1645,Zhang Chuanwei & family,59.0,1800,Manufacturing,China,M,0
+1645,Xuexin Zhang & family,74.0,1800,Metals & Mining,China,M,0
+1729,Noubar Afeyan,59.0,1700,Healthcare,United States,M,0
+1729,Farkhad Akhmedov,66.0,1700,Energy,Russia,M,0
+1729,Marc Andreessen,50.0,1700,Finance & Investments,United States,M,0
+1729,John Bicket,42.0,1700,Technology,United States,M,0
+1729,Zadik Bino & family,78.0,1700,Diversified,Israel,M,0
+1729,Alex Birkenstock,53.0,1700,Fashion & Retail,Germany,M,0
+1729,Christian Birkenstock,49.0,1700,Fashion & Retail,Austria,M,0
+1729,Sanjit Biswas,40.0,1700,Technology,United States,M,0
+1729,David Booth,76.0,1700,Finance & Investments,United States,M,0
+1729,Josef Boquoi & family,88.0,1700,Food & Beverage,Germany,M,0
+1729,Saket Burman,45.0,1700,Food & Beverage,United Arab Emirates,M,0
+1729,Mingtong Cai,70.0,1700,Technology,China,M,0
+1729,Chen Yung-tai,86.0,1700,Real Estate,Taiwan,M,0
+1729,Phongthep Chiaravanont,70.0,1700,Diversified,Thailand,M,0
+1729,Ivan Chrenko,54.0,1700,Real Estate,Slovakia,M,0
+1729,Sol Daurella,56.0,1700,Food & Beverage,Spain,F,0
+1729,Dulce Pugliese de Godoy Bueno,74.0,1700,Healthcare,Brazil,F,0
+1729,Norbert Dentressangle,67.0,1700,Logistics,France,M,0
+1729,Oleg Deripaska,54.0,1700,Metals & Mining,Russia,M,0
+1729,Dong Jinggui,52.0,1700,Automotive,China,M,0
+1729,Keith Dunleavy & family,52.0,1700,Healthcare,United States,M,0
+1729,Donald Foss,77.0,1700,Automotive,United States,M,0
+1729,Rolf Gerling,67.0,1700,Finance & Investments,Switzerland,M,0
+1729,G. Gnanalingam,77.0,1700,Logistics,Malaysia,M,0
+1729,He Zhaoxi,48.0,1700,Technology,China,M,0
+1729,William Heinecke,72.0,1700,Real Estate,Thailand,M,0
+1729,Huh Jae-myung,50.0,1700,Manufacturing,South Korea,M,0
+1729,Tianjiang Jia & family,59.0,1700,Metals & Mining,China,M,0
+1729,Michael Jordan,59.0,1700,Sports,United States,M,0
+1729,Dmitry Kamenshchik,53.0,1700,Service,Russia,M,0
+1729,Kim Taek-jin,55.0,1700,Media & Entertainment,South Korea,M,0
+1729,Koo Kwang-mo,44.0,1700,Diversified,South Korea,M,0
+1729,Anthony Langley,67.0,1700,Diversified,United Kingdom,M,0
+1729,Lee Joong-keun,81.0,1700,Construction & Engineering,South Korea,M,0
+1729,James Leininger,77.0,1700,Healthcare,United States,M,0
+1729,Li Jianli,49.0,1700,Manufacturing,China,M,0
+1729,Weiwei Li,45.0,1700,Technology,China,M,0
+1729,Li Zhigang,45.0,1700,Manufacturing,China,M,0
+1729,Jimmy John Liautaud,58.0,1700,Food & Beverage,United States,M,0
+1729,Louise Lindh,42.0,1700,Diversified,Sweden,F,0
+1729,Anand Mahindra,66.0,1700,Diversified,India,M,0
+1729,Bruce Mathieson,78.0,1700,Food & Beverage,Australia,M,0
+1729,Billy Joe (Red) McCombs,94.0,1700,Diversified,United States,M,0
+1729,Deepak Mehta,65.0,1700,Manufacturing,India,M,0
+1729,Mario Moretti Polegato & family,69.0,1700,Fashion & Retail,Italy,M,0
+1729,Alberto Palatchi,72.0,1700,Fashion & Retail,Spain,M,0
+1729,Nelson Peltz,79.0,1700,Finance & Investments,United States,M,0
+1729,Jorge Perez,72.0,1700,Real Estate,United States,M,0
+1729,Alberto Prada,68.0,1700,Fashion & Retail,Italy,M,0
+1729,Marina Prada,76.0,1700,Fashion & Retail,Italy,F,0
+1729,M.Satyanarayana Reddy,64.0,1700,Healthcare,India,M,0
+1729,Rihanna,34.0,1700,Fashion & Retail,United States,F,0
+1729,Arkady Rotenberg,70.0,1700,Construction & Engineering,Russia,M,0
+1729,Dieter Schnabel,76.0,1700,Manufacturing,Germany,M,0
+1729,Shang Xiaobo & family,48.0,1700,Manufacturing,China,M,0
+1729,Shao Qinxiang,67.0,1700,Manufacturing,China,M,0
+1729,Basudeo Singh,81.0,1700,Healthcare,India,M,0
+1729,Edward Stack,67.0,1700,Fashion & Retail,United States,M,0
+1729,Weijie Sun,58.0,1700,Manufacturing,China,M,0
+1729,Vonnarat Tangkaravakoon,50.0,1700,Manufacturing,Thailand,M,0
+1729,Byron Trott,63.0,1700,Finance & Investments,United States,M,0
+1729,Jan Van Geet,50.0,1700,Real Estate,Czechia,M,0
+1729,Radha Vembu,49.0,1700,Technology,India,F,0
+1729,Patrizio Vinciarelli,75.0,1700,Technology,United States,M,0
+1729,Mingwang Wang,54.0,1700,Manufacturing,China,M,0
+1729,Wang Yanqing & family,75.0,1700,Manufacturing,China,F,0
+1729,Lars Wingefors,45.0,1700,Media & Entertainment,Sweden,M,0
+1729,Stephen Winn,75.0,1700,Real Estate,United States,M,0
+1729,Ian Wood & family,79.0,1700,Energy,United Kingdom,M,0
+1729,Gordon Wu,86.0,1700,Real Estate,Hong Kong,M,0
+1729,Wu Xiangdong,53.0,1700,Food & Beverage,China,M,0
+1729,Yao Kuizhang,57.0,1700,Food & Beverage,China,M,0
+1729,Vladimir Yevtushenkov,73.0,1700,Telecom,Russia,M,0
+1729,Dasheng Yi,61.0,1700,Diversified,China,M,0
+1729,Yu Lili,54.0,1700,Manufacturing,China,F,0
+1729,Alan Zekelman,59.0,1700,Manufacturing,United States,M,0
+1729,Kaitian Zeng,47.0,1700,Technology,China,M,0
+1729,Zhang Jingzhang & family,86.0,1700,Manufacturing,China,M,0
+1729,Zhang Yubai,57.0,1700,Food & Beverage,China,M,0
+1729,Zheng Hong & family,71.0,1700,Technology,China,M,0
+1729,Zhong Peifeng,59.0,1700,Telecom,China,M,0
+1729,Zhou Zongwen & family,65.0,1700,Fashion & Retail,China,M,0
+1729,Zhu Yiming,49.0,1700,Technology,China,M,0
+1729,Zhaojiang Zhu,48.0,1700,Manufacturing,China,M,0
+1729,Anita Zucker,70.0,1700,Manufacturing,United States,F,0
+1818,"Herbert Allen, Jr. & family",82.0,1600,Finance & Investments,United States,M,0
+1818,Vasily Anisimov,70.0,1600,Metals & Mining,Russia,M,0
+1818,Mori Arkin,69.0,1600,Healthcare,Israel,M,0
+1818,Semahat Sevim Arsel,93.0,1600,Diversified,Turkey,F,0
+1818,Clifford Asness,55.0,1600,Finance & Investments,United States,M,0
+1818,Louis Bacon,65.0,1600,Finance & Investments,United States,M,0
+1818,Hari Bhartia,65.0,1600,Diversified,India,M,0
+1818,Shyam Bhartia,69.0,1600,Healthcare,India,M,0
+1818,Amit Burman,52.0,1600,Food & Beverage,India,M,0
+1818,Chen Shibin,55.0,1600,Manufacturing,China,M,0
+1818,Chen Tianshi,37.0,1600,Technology,China,M,0
+1818,Robert Clark,63.0,1600,Construction & Engineering,United States,M,0
+1818,Ana Lucia de Mattos Barretto Villela,48.0,1600,Finance & Investments,Brazil,F,0
+1818,Diao Zhizhong,58.0,1600,Technology,China,M,0
+1818,Jamie Dimon,66.0,1600,Finance & Investments,United States,M,0
+1818,Gary Fegel,48.0,1600,Metals & Mining,Switzerland,M,0
+1818,Gao Yunfeng,55.0,1600,Manufacturing,China,M,0
+1818,Philippe Ginestet & family,68.0,1600,Fashion & Retail,France,M,0
+1818,Sam Goi,75.0,1600,Food & Beverage,Singapore,M,0
+1818,Lance Gokongwei,54.0,1600,Diversified,Philippines,M,0
+1818,Sergei Gordeev,49.0,1600,Real Estate,Russia,M,0
+1818,Bill Gross,77.0,1600,Finance & Investments,United States,M,0
+1818,Sue Gross,72.0,1600,Finance & Investments,United States,F,0
+1818,Patrick Hanrahan,66.0,1600,Technology,United States,M,0
+1818,Lutz Mario Helmig,75.0,1600,Healthcare,Germany,M,0
+1818,Ilkka Herlin,63.0,1600,Manufacturing,Finland,M,0
+1818,Asok Kumar Hiranandani,67.0,1600,Real Estate,Singapore,M,0
+1818,Hu Kunhui,31.0,1600,Healthcare,China,M,0
+1818,Archie Hwang,69.0,1600,Technology,Taiwan,M,0
+1818,Jared Isaacman,39.0,1600,Technology,United States,M,0
+1818,Anurang Jain,60.0,1600,Manufacturing,India,M,0
+1818,Jin Lei & family,67.0,1600,Healthcare,China,M,0
+1818,Sunjay Kapur,50.0,1600,Automotive,India,M,0
+1818,Richard Kayne,76.0,1600,Finance & Investments,United States,M,0
+1818,Randal J. Kirk,68.0,1600,Healthcare,United States,M,0
+1818,Jim Koch,72.0,1600,Food & Beverage,United States,M,0
+1818,William Koch,81.0,1600,Energy,United States,M,0
+1818,Kagemasa Kozuki,81.0,1600,Technology,Japan,M,0
+1818,Arvind Lal,72.0,1600,Healthcare,India,M,0
+1818,Robert Langer,73.0,1600,Healthcare,United States,M,0
+1818,Theodore Leonsis,66.0,1600,Sports,United States,M,0
+1818,David Xueling Li,49.0,1600,Technology,China,M,0
+1818,Li Denghai,72.0,1600,Food & Beverage,China,M,0
+1818,Li Guoqing,52.0,1600,Manufacturing,China,M,0
+1818,Li Jiaquan,58.0,1600,Manufacturing,China,M,0
+1818,Li Rucheng,70.0,1600,Fashion & Retail,China,M,0
+1818,Li Sze Lim,65.0,1600,Real Estate,China,M,0
+1818,Li Yongqing,57.0,1600,Manufacturing,China,M,0
+1818,Lim Wee Chai,64.0,1600,Manufacturing,Malaysia,M,0
+1818,Liu Aisen & family,49.0,1600,Construction & Engineering,China,M,0
+1818,Liu Ming Chung,59.0,1600,Manufacturing,Hong Kong,M,0
+1818,Vincent Lo,73.0,1600,Real Estate,Hong Kong,M,0
+1818,Brandt Louie,78.0,1600,Food & Beverage,Canada,M,0
+1818,Catherine Lozick,76.0,1600,Manufacturing,United States,F,0
+1818,Lu Zongjun,58.0,1600,Logistics,China,M,0
+1818,Lv Jianming,57.0,1600,Healthcare,China,M,0
+1818,"Cargill MacMillan, III.",62.0,1600,Food & Beverage,United States,M,0
+1818,Duncan MacMillan,84.0,1600,Finance & Investments,United States,M,0
+1818,John MacMillan,72.0,1600,Food & Beverage,United States,M,0
+1818,Martha MacMillan,70.0,1600,Food & Beverage,United States,F,0
+1818,William MacMillan,67.0,1600,Food & Beverage,United States,M,0
+1818,Terence (Terry) Matthews,79.0,1600,Telecom,Canada,M,0
+1818,Kazuo Okada,79.0,1600,Gambling & Casinos,Japan,M,0
+1818,Tomas Olivo Lopez,48.0,1600,Real Estate,Spain,M,0
+1818,Jorge Pinheiro Koren de Lima,49.0,1600,Healthcare,Brazil,M,0
+1818,Candido Pinheiro Koren de Lima Junior,51.0,1600,Healthcare,Brazil,M,0
+1818,Qian Ying,56.0,1600,Food & Beverage,China,F,0
+1818,Ren Jinsheng & family,59.0,1600,Healthcare,China,M,0
+1818,Brian Roberts,62.0,1600,Media & Entertainment,United States,M,0
+1818,Austin Russell,27.0,1600,Automotive,United States,M,0
+1818,George Sakellaris,75.0,1600,Energy,United States,M,0
+1818,Sheryl Sandberg,52.0,1600,Technology,United States,F,0
+1818,Andres Santo Domingo,43.0,1600,Food & Beverage,United States,M,0
+1818,Paul Saville,66.0,1600,Real Estate,United States,M,0
+1818,Ivan Savvidis,63.0,1600,Diversified,Russia,M,0
+1818,Michael Saylor,57.0,1600,Technology,United States,M,0
+1818,Gerald Schwartz,80.0,1600,Finance & Investments,Canada,M,0
+1818,Sathien Setthasit,67.0,1600,Food & Beverage,Thailand,M,0
+1818,Niraj Shah,48.0,1600,Technology,United States,M,0
+1818,Keiichi Shibahara,57.0,1600,Healthcare,Japan,M,0
+1818,Evgeny (Eugene) Shvidler,58.0,1600,Energy,United Kingdom,M,0
+1818,Ryan Smith,43.0,1600,Technology,United States,M,0
+1818,Peter Sperling,62.0,1600,Service,United States,M,0
+1818,Ion Stoica,57.0,1600,Technology,United States,M,0
+1818,Bambang Sutantio,63.0,1600,Food & Beverage,Indonesia,M,0
+1818,Tan Yu Yeh,51.0,1600,Fashion & Retail,Malaysia,M,0
+1818,David Teoh,66.0,1600,Telecom,Australia,M,0
+1818,Carl Thoma,73.0,1600,Finance & Investments,United States,M,0
+1818,Ion Tiriac,82.0,1600,Finance & Investments,Romania,M,0
+1818,Clemens Toennies,65.0,1600,Food & Beverage,Germany,M,0
+1818,Tran Ba Duong & family,62.0,1600,Automotive,Vietnam,M,0
+1818,Tung Ching Bor,59.0,1600,Manufacturing,China,M,0
+1818,Tung Ching Sai,57.0,1600,Manufacturing,China,M,0
+1818,Scott Watterson,66.0,1600,Technology,United States,M,0
+1818,Wei Ing-Chou,68.0,1600,Food & Beverage,China,M,0
+1818,Wei Yin-Chun,65.0,1600,Food & Beverage,Taiwan,M,0
+1818,Wei Ying-Chiao,67.0,1600,Food & Beverage,Taiwan,M,0
+1818,Tom Werner,71.0,1600,Sports,United States,M,0
+1818,Kie Chie Wong,74.0,1600,Metals & Mining,Australia,M,0
+1818,Xu Guozhong & family,58.0,1600,Manufacturing,China,M,0
+1818,Xu Yuejuan,60.0,1600,Manufacturing,China,F,0
+1818,Yang Tingdong,61.0,1600,Food & Beverage,China,M,0
+1818,Yu Peidi,62.0,1600,Real Estate,China,M,0
+1818,Matei Zaharia,36.0,1600,Technology,United States,M,0
+1818,Zhang Jian,53.0,1600,Manufacturing,China,M,0
+1818,Keqiang Zhang,61.0,1600,Real Estate,China,M,0
+1818,Zheng Jianjiang & family,61.0,1600,Manufacturing,China,M,0
+1818,Zhong Sheng Jian,64.0,1600,Real Estate,Singapore,M,0
+1929,Antti Aarnio-Wihuri,82.0,1500,Diversified,Finland,M,0
+1929,Hamdi Akin & family,67.0,1500,Diversified,Turkey,M,0
+1929,Chirayu Amin,75.0,1500,Healthcare,India,M,0
+1929,Joachim Ante,39.0,1500,Technology,Denmark,M,0
+1929,Ziv Aviram,63.0,1500,Automotive,Israel,M,0
+1929,Danna Azrieli,54.0,1500,Real Estate,Israel,F,0
+1929,Naomi Azrieli,56.0,1500,Real Estate,Canada,F,0
+1929,Sharon Azrieli,61.0,1500,Real Estate,Canada,F,0
+1929,Lesley Bamberger,56.0,1500,Real Estate,Netherlands,M,0
+1929,Bernhard Braun-Luedicke,45.0,1500,Healthcare,Germany,M,0
+1929,Eva Maria Braun-Luedicke,35.0,1500,Healthcare,Germany,F,0
+1929,Ana Maria Brescia Cafferata,97.0,1500,Diversified,Peru,F,0
+1929,Nikolai Buinov,54.0,1500,Energy,Russia,M,0
+1929,Paolo Bulgari,84.0,1500,Fashion & Retail,Italy,M,0
+1929,Andres Bzurovski Bay,44.0,1500,Finance & Investments,Uruguay,M,0
+1929,Ahmet Calik,64.0,1500,Diversified,Turkey,M,0
+1929,Giuliana Caprotti,81.0,1500,Food & Beverage,Italy,F,0
+1929,Marina Caprotti,44.0,1500,Food & Beverage,Italy,F,0
+1929,Steve Case,63.0,1500,Technology,United States,M,0
+1929,Safra Catz,60.0,1500,Technology,United States,F,0
+1929,Binod Chaudhary,66.0,1500,Diversified,Nepal,M,0
+1929,Chen Baohua,60.0,1500,Healthcare,China,M,0
+1929,Xianbao Chen & family,62.0,1500,Food & Beverage,China,M,0
+1929,Chung Yong-jin,53.0,1500,Fashion & Retail,South Korea,M,0
+1929,Steve Conine,49.0,1500,Technology,United States,M,0
+1929,Eduardo Costantini,75.0,1500,Real Estate,Argentina,M,0
+1929,Wenjun Dai,53.0,1500,Food & Beverage,China,M,0
+1929,Bharat Desai,69.0,1500,Technology,United States,M,0
+1929,Mohammed Dewji,46.0,1500,Diversified,Tanzania,M,0
+1929,Mathias Doepfner,59.0,1500,Media & Entertainment,Germany,M,0
+1929,Domenico Dolce,63.0,1500,Fashion & Retail,Italy,M,0
+1929,Marek Dospiva,52.0,1500,Finance & Investments,Czechia,M,0
+1929,Henrique Dubugras,26.0,1500,Finance & Investments,United States,M,0
+1929,Egon Durban,48.0,1500,Finance & Investments,United States,M,0
+1929,Bulent Eczacibasi,72.0,1500,Diversified,Turkey,M,0
+1929,Faruk Eczacibasi,67.0,1500,Diversified,Turkey,M,0
+1929,Henry Engelhardt,64.0,1500,Finance & Investments,United Kingdom,M,0
+1929,Ali Erdemoglu,62.0,1500,Manufacturing,Turkey,M,0
+1929,Eduardo Eurnekian,89.0,1500,Diversified,Argentina,M,0
+1929,John Farber,96.0,1500,Manufacturing,United States,M,0
+1929,Clement Fayat & family,90.0,1500,Construction & Engineering,France,M,0
+1929,Daniel Feffer,62.0,1500,Manufacturing,Brazil,M,0
+1929,David Feffer,65.0,1500,Manufacturing,Brazil,M,0
+1929,Ruben Feffer,52.0,1500,Manufacturing,Brazil,M,0
+1929,Feng Yuxia,57.0,1500,Healthcare,China,F,0
+1929,Sergio Fogel,58.0,1500,Finance & Investments,Uruguay,M,0
+1929,Pedro Franceschi,25.0,1500,Finance & Investments,United States,M,0
+1929,Stefano Gabbana,59.0,1500,Fashion & Retail,Italy,M,0
+1929,Yi Gao & family,53.0,1500,Healthcare,China,M,0
+1929,Geng Jianming,59.0,1500,Real Estate,China,M,0
+1929,Alan Gerry,93.0,1500,Media & Entertainment,United States,M,0
+1929,Balkrishan Goenka,55.0,1500,Manufacturing,India,M,0
+1929,Esther Grether,86.0,1500,Fashion & Retail,Switzerland,F,0
+1929,Gu Wei,57.0,1500,Manufacturing,China,M,0
+1929,Torstein Hagen,79.0,1500,Service,Switzerland,M,0
+1929,Kenneth Hao,53.0,1500,Finance & Investments,United States,M,0
+1929,He Zhiping,58.0,1500,Finance & Investments,China,M,0
+1929,Timothy Headington,71.0,1500,Energy,United States,M,0
+1929,Ilona Herlin,57.0,1500,Manufacturing,Finland,F,0
+1929,Niranjan Hiranandani,72.0,1500,Real Estate,India,M,0
+1929,Drew Houston,39.0,1500,Technology,United States,M,0
+1929,Huang Rulun,70.0,1500,Real Estate,China,M,0
+1929,Justin Ishbia,44.0,1500,Finance & Investments,United States,M,0
+1929,Peter Jackson,60.0,1500,Media & Entertainment,New Zealand,M,0
+1929,Jin Lei,56.0,1500,Healthcare,China,M,0
+1929,Jin Xin,55.0,1500,Manufacturing,China,M,0
+1929,Conni Jonsson,61.0,1500,Finance & Investments,Sweden,M,0
+1929,Jenny Just,54.0,1500,Finance & Investments,United States,F,0
+1929,Ke Xiping & family,61.0,1500,Diversified,China,M,0
+1929,Ke Zunhong & family,67.0,1500,Healthcare,China,M,0
+1929,Sidney Kimmel,94.0,1500,Fashion & Retail,United States,M,0
+1929,Seth Klarman,64.0,1500,Finance & Investments,United States,M,0
+1929,Mustafa Rahmi Koc,91.0,1500,Diversified,Turkey,M,0
+1929,Pyotr Kondrashev,72.0,1500,Manufacturing,Austria,M,0
+1929,Kong Jian Min,54.0,1500,Real Estate,China,M,0
+1929,Hemendra Kothari,75.0,1500,Finance & Investments,India,M,0
+1929,Eduard Kucera,69.0,1500,Technology,Czechia,M,0
+1929,Christopher Kwok,36.0,1500,Real Estate,Hong Kong,M,0
+1929,Edward Kwok,41.0,1500,Real Estate,Hong Kong,M,0
+1929,Joe Lacob,66.0,1500,Sports,United States,M,0
+1929,Lai Jianfa,52.0,1500,Logistics,China,M,0
+1929,Manuel Lao Hernández,77.0,1500,Gambling & Casinos,Spain,M,0
+1929,Lee Joon-ho,57.0,1500,Technology,South Korea,M,0
+1929,Manfredi Lefebvre d'Ovidio & family,68.0,1500,Service,Monaco,M,0
+1929,Zhen Li & family,58.0,1500,Manufacturing,China,M,0
+1929,Rongfu Lu,51.0,1500,Telecom,China,M,0
+1929,Rafique Malik,71.0,1500,Fashion & Retail,India,M,0
+1929,Youssef Mansour,76.0,1500,Diversified,Egypt,M,0
+1929,Mao Lixiang & family,81.0,1500,Technology,China,M,0
+1929,David McMurtry,81.0,1500,Manufacturing,United Kingdom,M,0
+1929,Meng Qingshan & family,73.0,1500,Manufacturing,China,M,0
+1929,Alan Miller & family,84.0,1500,Healthcare,United States,M,0
+1929,Greg Mondre,47.0,1500,Finance & Investments,United States,M,0
+1929,Massimo Moratti,76.0,1500,Energy,Italy,M,0
+1929,Robert Mouawad,77.0,1500,Service,Bahrain,M,0
+1929,Ezra Nahmad,76.0,1500,Finance & Investments,Monaco,M,0
+1929,Kentaro Ogawa,73.0,1500,Food & Beverage,Japan,M,0
+1929,Jonathan Oringer,47.0,1500,Technology,United States,M,0
+1929,Niti Osathanugrah,48.0,1500,Finance & Investments,Thailand,M,0
+1929,Dragos Paval,55.0,1500,Fashion & Retail,Romania,M,0
+1929,Zach Perret,34.0,1500,Finance & Investments,United States,M,0
+1929,Karl-Johan Persson,47.0,1500,Fashion & Retail,Sweden,M,0
+1929,Markus Persson,42.0,1500,Media & Entertainment,Sweden,M,0
+1929,Tom Persson,37.0,1500,Fashion & Retail,Sweden,M,0
+1929,Kevin Plank,49.0,1500,Fashion & Retail,United States,M,0
+1929,Andreas Pohl,57.0,1500,Finance & Investments,Germany,M,0
+1929,"Reinfried Pohl, Jr.",62.0,1500,Finance & Investments,Germany,M,0
+1929,Michael Polsky,73.0,1500,Energy,United States,M,0
+1929,Qin Long,56.0,1500,Manufacturing,China,M,0
+1929,G. M. Rao,71.0,1500,Logistics,India,M,0
+1929,Mike Repole,54.0,1500,Food & Beverage,United States,M,0
+1929,Fernando Roig,74.0,1500,Fashion & Retail,Spain,M,0
+1929,Christopher Rokos,51.0,1500,Finance & Investments,United Kingdom,M,0
+1929,Fayez Sarofim,93.0,1500,Finance & Investments,United States,M,0
+1929,Antonio Luiz Seabra,79.0,1500,Fashion & Retail,United Kingdom,M,0
+1929,Amnon Shashua,61.0,1500,Automotive,Israel,M,0
+1929,Yuri Shefler,54.0,1500,Food & Beverage,Switzerland,M,0
+1929,Mikhail Shelkov,53.0,1500,Metals & Mining,Russia,M,0
+1929,Charlotte Soderstrom,45.0,1500,Fashion & Retail,Sweden,F,0
+1929,Edwin Soeryadjaya,72.0,1500,Energy,Indonesia,M,0
+1929,Thomas Steyer,64.0,1500,Finance & Investments,United States,M,0
+1929,Kevin Systrom,38.0,1500,Technology,United States,M,0
+1929,Tang Binsen,39.0,1500,Food & Beverage,China,M,0
+1929,Hary Tanoesoedibjo,56.0,1500,Media & Entertainment,Indonesia,M,0
+1929,Jonathan Tisch,68.0,1500,Diversified,United States,M,0
+1929,Wilma Tisch,94.0,1500,Finance & Investments,United States,F,0
+1929,Kenny Troutt,74.0,1500,Telecom,United States,M,0
+1929,Thomas von Koch,56.0,1500,Finance & Investments,Hong Kong,M,0
+1929,Junjin Wang,53.0,1500,Service,China,M,0
+1929,Wang Zelong,25.0,1500,Metals & Mining,China,M,0
+1929,Myron Wentz,82.0,1500,Fashion & Retail,Cayman Islands,M,0
+1929,Kaiting Wu,52.0,1500,Telecom,China,M,0
+1929,Xiong Wu,46.0,1500,Technology,China,M,0
+1929,Xu Wanmao,77.0,1500,Service,China,M,0
+1929,Xue Jiping,71.0,1500,Telecom,China,M,0
+1929,Yang Jian,50.0,1500,Real Estate,China,M,0
+1929,Xinghai Zhang & family,59.0,1500,Manufacturing,China,M,0
+1929,Xuansong Zhang,50.0,1500,Fashion & Retail,China,M,0
+1929,Zhang Yin,65.0,1500,Manufacturing,China,F,0
+1929,Chengjian Zhou,56.0,1500,Fashion & Retail,China,M,0
+2076,Radhe Shyam Agarwal,77.0,1400,Fashion & Retail,India,M,0
+2076,Syed Mokhtar AlBukhary,70.0,1400,Construction & Engineering,Malaysia,M,0
+2076,Nerio Alessandri,60.0,1400,Manufacturing,Italy,M,0
+2076,Patricia Angelini Rossi,68.0,1400,Diversified,Chile,F,0
+2076,Tope Awotona,40.0,1400,Technology,United States,M,0
+2076,Elena Baturina,59.0,1400,Construction & Engineering,United Kingdom,F,0
+2076,Sabrina Benetton,48.0,1400,Fashion & Retail,Italy,F,0
+2076,Thomas Bruch,71.0,1400,Fashion & Retail,Germany,M,0
+2076,Marina Budiman,60.0,1400,Technology,Indonesia,F,0
+2076,Stewart Butterfield,49.0,1400,Technology,United States,M,0
+2076,Richard Chang,75.0,1400,Real Estate,Taiwan,M,0
+2076,Chen Tianqiao,48.0,1400,Technology,United States,M,0
+2076,Chen Wenyuan & family,54.0,1400,Technology,China,M,0
+2076,Cheng Antares,64.0,1400,Food & Beverage,Hong Kong,M,0
+2076,Chin Jong Hwa,63.0,1400,Automotive,Taiwan,M,0
+2076,Jim Crane,68.0,1400,Sports,United States,M,0
+2076,Thierry Cruanes,54.0,1400,Technology,United States,M,0
+2076,Benoit Dageville,55.0,1400,Technology,United States,M,0
+2076,Weili Dai,60.0,1400,Technology,United States,F,0
+2076,Darwin Deason,81.0,1400,Service,United States,M,0
+2076,Diego Della Valle,68.0,1400,Fashion & Retail,Italy,M,0
+2076,Deng Yingzhong,71.0,1400,Manufacturing,China,M,0
+2076,Ding Shui Po,51.0,1400,Fashion & Retail,China,M,0
+2076,Mark Dixon,62.0,1400,Real Estate,Monaco,M,0
+2076,Du Shuanghua,57.0,1400,Manufacturing,China,M,0
+2076,Mukand Lal Dua,73.0,1400,Fashion & Retail,India,M,0
+2076,Ramesh Kumar Dua,68.0,1400,Fashion & Retail,India,M,0
+2076,Fan Minhua,60.0,1400,Healthcare,China,F,0
+2076,Hongbo Fang,55.0,1400,Manufacturing,China,M,0
+2076,"William Foley, II.",77.0,1400,Finance & Investments,United States,M,0
+2076,Jayme Garfinkel & family,76.0,1400,Finance & Investments,Brazil,M,0
+2076,Radhe Shyam Goenka,76.0,1400,Fashion & Retail,India,M,0
+2076,Maggie Hardy Knox,56.0,1400,Service,United States,F,0
+2076,Ayman Hariri,43.0,1400,Construction & Engineering,France,M,0
+2076,Christoph Henkel,64.0,1400,Fashion & Retail,United Kingdom,M,0
+2076,Daniel Hirschfeld,80.0,1400,Fashion & Retail,United States,M,0
+2076,William Hockey,32.0,1400,Finance & Investments,United States,M,0
+2076,Huang Guanlin,57.0,1400,Fashion & Retail,China,M,0
+2076,Huang Xiaofen & family,60.0,1400,Technology,China,F,0
+2076,Jay-Z,52.0,1400,Media & Entertainment,United States,M,0
+2076,Yintai Jiang & family,71.0,1400,Automotive,China,M,0
+2076,Johan Johannson,55.0,1400,Fashion & Retail,Norway,M,0
+2076,Ramesh Juneja,66.0,1400,Healthcare,India,M,0
+2076,Scott Kapnick,63.0,1400,Finance & Investments,United States,M,0
+2076,Viktor Kharitonin,49.0,1400,Healthcare,Russia,M,0
+2076,Kim Jun-ki,77.0,1400,Diversified,South Korea,M,0
+2076,Kim Sang-yeol,61.0,1400,Construction & Engineering,South Korea,M,0
+2076,Yogesh Kothari,73.0,1400,Manufacturing,India,M,0
+2076,Kurt Krieger,74.0,1400,Fashion & Retail,Germany,M,0
+2076,Mustafa Kucuk,58.0,1400,Fashion & Retail,Turkey,M,0
+2076,Sebastian Kulczyk,41.0,1400,Finance & Investments,Switzerland,M,0
+2076,Gary Lauder,59.0,1400,Fashion & Retail,United States,M,0
+2076,Art Levinson,72.0,1400,Diversified,United States,M,0
+2076,Li Li,58.0,1400,Healthcare,China,M,0
+2076,Guangwei Liang,58.0,1400,Manufacturing,China,M,0
+2076,Scott Lin,89.0,1400,Technology,Taiwan,M,0
+2076,Jenny Lindén Urnes,51.0,1400,Manufacturing,Sweden,F,0
+2076,Anatoly Lomakin,69.0,1400,Metals & Mining,Russia,M,0
+2076,Jeffrey Lorberbaum,67.0,1400,Manufacturing,United States,M,0
+2076,Gary Magness,68.0,1400,Media & Entertainment,United States,M,0
+2076,Zhongwu Mao,59.0,1400,Manufacturing,China,M,0
+2076,Ilson Mateus & family,59.0,1400,Fashion & Retail,Brazil,M,0
+2076,Vadim Moshkovich,54.0,1400,Food & Beverage,Russia,M,0
+2076,Jerry Moyes & family,78.0,1400,Logistics,United States,M,0
+2076,George Alexander Muthoot,66.0,1400,Finance & Investments,India,M,0
+2076,George Jacob Muthoot,69.0,1400,Finance & Investments,India,M,0
+2076,George Thomas Muthoot,71.0,1400,Finance & Investments,India,M,0
+2076,Sara George Muthoot,61.0,1400,Finance & Investments,India,F,0
+2076,Marius Nacht,56.0,1400,Technology,Israel,M,0
+2076,Adam Neumann,43.0,1400,Real Estate,United States,M,0
+2076,Simon Nixon,54.0,1400,Technology,United Kingdom,M,0
+2076,Stefan Olsson,73.0,1400,Diversified,United Kingdom,M,0
+2076,Ranjan Pai,49.0,1400,Service,India,M,0
+2076,Antonio Percassi,68.0,1400,Diversified,Italy,M,0
+2076,Mark Pincus,56.0,1400,Technology,United States,M,0
+2076,Alexey Repik,42.0,1400,Healthcare,Russia,M,0
+2076,Matthew Roszak,49.0,1400,Finance & Investments,United States,M,0
+2076,Subhash Runwal,78.0,1400,Real Estate,India,M,0
+2076,Carlos Sanchez,60.0,1400,Healthcare,Brazil,M,0
+2076,Martin Selig,84.0,1400,Real Estate,United States,M,0
+2076,Bhadresh Shah,70.0,1400,Manufacturing,India,M,0
+2076,Shu Ping,52.0,1400,Food & Beverage,Singapore,F,0
+2076,Ben Silbermann,39.0,1400,Media & Entertainment,United States,M,0
+2076,Jared Smith,47.0,1400,Technology,United States,M,0
+2076,Sun Qinghuan,48.0,1400,Technology,China,M,0
+2076,Denis Sverdlov,43.0,1400,Automotive,United Kingdom,M,0
+2076,Prachak Tangkaravakoon,78.0,1400,Manufacturing,Thailand,M,0
+2076,Lina Tombolato,74.0,1400,Finance & Investments,Italy,F,0
+2076,Tong Jinquan,67.0,1400,Real Estate,China,M,0
+2076,Luiza Helena Trajano,70.0,1400,Fashion & Retail,Brazil,F,0
+2076,John Van Lieshout,76.0,1400,Real Estate,Australia,M,0
+2076,Vardis Vardinoyannis & family,89.0,1400,Energy,Greece,M,0
+2076,Jens von Bahr,51.0,1400,Gambling & Casinos,Sweden,M,0
+2076,Wang Jian,68.0,1400,Technology,China,M,0
+2076,Werner O. Weber,83.0,1400,Manufacturing,Switzerland,M,0
+2076,Wei Lidong & family,46.0,1400,Technology,China,M,0
+2076,Drorit Wertheim,66.0,1400,Food & Beverage,Israel,F,0
+2076,Bo Wu,67.0,1400,Manufacturing,China,M,0
+2076,Eugene Wu,76.0,1400,Finance & Investments,Taiwan,M,0
+2076,Wu Xushun & family,73.0,1400,Diversified,China,M,0
+2076,Wenbo Xiang,59.0,1400,Manufacturing,China,M,0
+2076,Swift Xie,42.0,1400,Technology,China,M,0
+2076,Xu Bingzhong,48.0,1400,Food & Beverage,China,M,0
+2076,Xu Shaochun,59.0,1400,Technology,China,M,0
+2076,Yan Junxu,52.0,1400,Manufacturing,China,M,0
+2076,George Yancopoulos,62.0,1400,Healthcare,United States,M,0
+2076,Gavril Yushvaev,64.0,1400,Finance & Investments,Russia,M,0
+2076,Zhuo Jun,56.0,1400,Manufacturing,Hong Kong,F,0
+2076,Fredrik Österberg,51.0,1400,Gambling & Casinos,Sweden,M,0
+2190,Alberto Alcocer,79.0,1300,Finance & Investments,Spain,M,0
+2190,Alexandra Andresen,25.0,1300,Diversified,Norway,F,0
+2190,Katharina Andresen,26.0,1300,Diversified,Norway,F,0
+2190,Rutger Arnhult,54.0,1300,Real Estate,Sweden,M,0
+2190,Anant Asavabhokin,71.0,1300,Real Estate,Thailand,M,0
+2190,Mehmet Aydinlar,65.0,1300,Healthcare,Turkey,M,0
+2190,Binny Bansal,39.0,1300,Technology,Singapore,M,0
+2190,Sachin Bansal,40.0,1300,Fashion & Retail,India,M,0
+2190,Barbara Benetton,52.0,1300,Fashion & Retail,Italy,F,0
+2190,Othman Benjelloun & family,89.0,1300,Finance & Investments,Morocco,M,0
+2190,Angela Bennett,78.0,1300,Metals & Mining,Australia,F,0
+2190,Oleg Boyko,57.0,1300,Diversified,Switzerland,M,0
+2190,Anna Maria Braun,43.0,1300,Healthcare,Germany,F,0
+2190,Edouard Carmignac,74.0,1300,Finance & Investments,France,M,0
+2190,Anthony Casalena,39.0,1300,Technology,United States,M,0
+2190,Chang Jing,39.0,1300,Technology,China,M,0
+2190,Jeffrey Cheah,77.0,1300,Real Estate,Malaysia,M,0
+2190,Chen Shiliang,58.0,1300,Manufacturing,China,M,0
+2190,Yuantai Chen,54.0,1300,Energy,China,M,0
+2190,Cheng Xianfeng,53.0,1300,Healthcare,China,M,0
+2190,Chu Jian,59.0,1300,Manufacturing,China,M,0
+2190,Chua Thian Poh,73.0,1300,Real Estate,Singapore,M,0
+2190,Alberto Cortina,76.0,1300,Finance & Investments,Spain,M,0
+2190,Sandor Csanyi,69.0,1300,Diversified,Hungary,M,0
+2190,Sasson Dayan & family,82.0,1300,Finance & Investments,Brazil,M,0
+2190,Anand Deshpande,59.0,1300,Technology,India,M,0
+2190,Richard Desmond,70.0,1300,Media & Entertainment,United Kingdom,M,0
+2190,Shlomo Eliahu,86.0,1300,Finance & Investments,Israel,M,0
+2190,Jose Roberto Ermirio de Moraes,64.0,1300,Diversified,Brazil,M,0
+2190,Jose Ermirio de Moraes Neto,69.0,1300,Diversified,Brazil,M,0
+2190,David Fattal & family,64.0,1300,Service,Israel,M,0
+2190,Marvy Finger,86.0,1300,Real Estate,United States,M,0
+2190,Adam Foroughi,41.0,1300,Media & Entertainment,United States,M,0
+2190,Richard Fortin,73.0,1300,Fashion & Retail,Canada,M,0
+2190,Luiz Frias,58.0,1300,Technology,Brazil,M,0
+2190,Susumu Fujita,48.0,1300,Media & Entertainment,Japan,M,0
+2190,Simona Giorgetta,44.0,1300,Construction & Engineering,Italy,F,0
+2190,Premchand Godha,75.0,1300,Healthcare,India,M,0
+2190,Mikhail Gutseriev & brother,64.0,1300,Energy,Russia,M,0
+2190,Hang Hong,54.0,1300,Manufacturing,China,F,0
+2190,Alfredo Harp Helu & family,78.0,1300,Finance & Investments,Mexico,M,0
+2190,Jaroslav Hascak & family,52.0,1300,Finance & Investments,Slovakia,M,0
+2190,He Zuxun,56.0,1300,Food & Beverage,China,M,0
+2190,David Hoffman,69.0,1300,Diversified,United States,M,0
+2190,Francis Holder,81.0,1300,Food & Beverage,France,M,0
+2190,Hu Rongda & family,63.0,1300,Manufacturing,China,M,0
+2190,Wei Huang,62.0,1300,Real Estate,China,M,0
+2190,Zarakh Iliev,55.0,1300,Real Estate,Russia,M,0
+2190,Mitchell Jacobson,71.0,1300,Service,United States,M,0
+2190,Jiang Guiting & family,63.0,1300,Manufacturing,China,M,0
+2190,Rajeev Juneja,56.0,1300,Healthcare,India,M,0
+2190,Peter Kelly,64.0,1300,Technology,United Kingdom,M,0
+2190,Kim Nam-jung,49.0,1300,Food & Beverage,South Korea,M,0
+2190,Koon Poh Ming,65.0,1300,Metals & Mining,Malaysia,M,0
+2190,Yuri Kovalchuk,70.0,1300,Finance & Investments,Russia,M,0
+2190,Michael Krasny,68.0,1300,Technology,United States,M,0
+2190,Raymond Kwok,68.0,1300,Real Estate,Hong Kong,M,0
+2190,Heikki Kyostila,76.0,1300,Healthcare,Finland,M,0
+2190,Lee Ho-jin,59.0,1300,Diversified,South Korea,M,0
+2190,Bernard Lewis & family,96.0,1300,Fashion & Retail,United Kingdom,M,0
+2190,Fengluan Li,60.0,1300,Diversified,China,F,0
+2190,Hua Li,44.0,1300,Finance & Investments,China,M,0
+2190,Li Ruiqiang,42.0,1300,Healthcare,China,M,0
+2190,Lin Zhijun,46.0,1300,Healthcare,China,M,0
+2190,Lin Zhixiong & family,48.0,1300,Healthcare,China,M,0
+2190,Liu Ming Hui,59.0,1300,Energy,Hong Kong,M,0
+2190,Xuejing Liu & family,71.0,1300,Diversified,China,M,0
+2190,Lu Yonghua & family,58.0,1300,Technology,China,M,0
+2190,Zhaoxi Lu,53.0,1300,Technology,China,M,0
+2190,Frederic Luddy,67.0,1300,Technology,United States,M,0
+2190,Miao Yongjun,54.0,1300,Healthcare,China,M,0
+2190,Martin Moller Nielsen,57.0,1300,Logistics,United Kingdom,M,0
+2190,Neide Helena de Moraes,67.0,1300,Diversified,Brazil,F,0
+2190,Yoshiko Mori,81.0,1300,Real Estate,Japan,F,0
+2190,Mofatraj Munot,77.0,1300,Real Estate,India,M,0
+2190,Randal Nardone,66.0,1300,Finance & Investments,United States,M,0
+2190,God Nisanov,49.0,1300,Real Estate,Russia,M,0
+2190,Vadim Novinsky,58.0,1300,Metals & Mining,Ukraine,M,0
+2190,Satyanarayan Nuwal,69.0,1300,Manufacturing,India,M,0
+2190,John Ocampo,63.0,1300,Technology,United States,M,0
+2190,Pan Gang,51.0,1300,Food & Beverage,China,M,0
+2190,Forrest Preston,89.0,1300,Healthcare,United States,M,0
+2190,Riju Raveendran,39.0,1300,Technology,India,M,0
+2190,P.P. Reddy,64.0,1300,Construction & Engineering,India,M,0
+2190,P.V.Krishna Reddy,52.0,1300,Construction & Engineering,India,M,0
+2190,Satish Reddy,54.0,1300,Healthcare,India,M,0
+2190,Lily Safra,84.0,1300,Finance & Investments,Switzerland,F,0
+2190,Richard Saghian,40.0,1300,Fashion & Retail,United States,M,0
+2190,Deniz Sahenk,76.0,1300,Diversified,Turkey,F,0
+2190,Thomas Sandell,61.0,1300,Finance & Investments,United Kingdom,M,0
+2190,Hajime Satomi,80.0,1300,Gambling & Casinos,Japan,M,0
+2190,James Scapa,65.0,1300,Technology,United States,M,0
+2190,Paul Sciarra,41.0,1300,Media & Entertainment,United States,M,0
+2190,Albert Shigaboutdinov,69.0,1300,Diversified,Russia,M,0
+2190,Nobutoshi Shimamura,96.0,1300,Fashion & Retail,Japan,M,0
+2190,Ron Sim,63.0,1300,Fashion & Retail,Singapore,M,0
+2190,Alexander Sixt,42.0,1300,Automotive,Germany,M,0
+2190,Konstantin Sixt,39.0,1300,Automotive,Germany,M,0
+2190,Terry Snow,78.0,1300,Real Estate,Australia,M,0
+2190,Marco Squinzi,50.0,1300,Construction & Engineering,Italy,M,0
+2190,Veronica Squinzi,50.0,1300,Construction & Engineering,Italy,F,0
+2190,Manny Stul,72.0,1300,Manufacturing,Australia,M,0
+2190,Rustem Sulteev,68.0,1300,Energy,Russia,M,0
+2190,Sehat Sutardja,60.0,1300,Technology,United States,M,0
+2190,Tony Tan Caktiong,69.0,1300,Food & Beverage,Philippines,M,0
+2190,Jim Thompson,82.0,1300,Logistics,Hong Kong,M,0
+2190,Carmen Thyssen,78.0,1300,Manufacturing,Andorra,F,0
+2190,August Troendle,66.0,1300,Healthcare,United States,M,0
+2190,Joop van den Ende,80.0,1300,Media & Entertainment,Netherlands,M,0
+2190,Sekar Vembu,50.0,1300,Technology,India,M,0
+2190,Sandro Veronesi & family,62.0,1300,Fashion & Retail,Italy,M,0
+2190,Wan Long,81.0,1300,Food & Beverage,China,M,0
+2190,Han Wang,34.0,1300,Diversified,China,M,0
+2190,Wang Jianyi,59.0,1300,Technology,China,M,0
+2190,Wang Qinghua,56.0,1300,Manufacturing,China,M,0
+2190,Pengcheng Wen & family,59.0,1300,Food & Beverage,China,M,0
+2190,"Alfred West, Jr.",79.0,1300,Finance & Investments,United States,M,0
+2190,Dan Wilks,65.0,1300,Energy,United States,M,0
+2190,Farris Wilks,70.0,1300,Energy,United States,M,0
+2190,Gang Xu,58.0,1300,Manufacturing,China,M,0
+2190,Xu Jin,57.0,1300,Food & Beverage,China,M,0
+2190,Tony Xu,37.0,1300,Technology,United States,M,0
+2190,Ye Yanqiao,52.0,1300,Food & Beverage,China,M,0
+2190,Patrick Zalupski,41.0,1300,Real Estate,United States,M,0
+2190,Shengda Zan,59.0,1300,Diversified,China,M,0
+2190,Zeng Chaoyi,53.0,1300,Manufacturing,China,M,0
+2190,Zhang Guiping & family,70.0,1300,Real Estate,China,M,0
+2190,Peng Zhao,51.0,1300,Service,China,M,0
+2190,Zheng Zhiguo,50.0,1300,Healthcare,China,M,0
+2190,Kostyantin Zhevago,48.0,1300,Metals & Mining,Ukraine,M,0
+2190,Zhou Mingjie,64.0,1300,Technology,China,M,0
+2190,Zhu Xingliang,62.0,1300,Construction & Engineering,China,M,0
+2324,Sanjay Agarwal,51.0,1200,Finance & Investments,India,M,0
+2324,Hamad bin Jassim bin Jaber Al Thani,62.0,1200,Finance & Investments,Qatar,M,0
+2324,Betty Ang,67.0,1200,Food & Beverage,Philippines,F,0
+2324,Christian Angermayer,43.0,1200,Finance & Investments,United Kingdom,M,0
+2324,Mika Anttonen,55.0,1200,Energy,Finland,M,0
+2324,Jose Maria Aristrain,59.0,1200,Metals & Mining,Switzerland,M,0
+2324,Emilio Azcarraga Jean,54.0,1200,Media & Entertainment,Mexico,M,0
+2324,Thomas Bailey,85.0,1200,Finance & Investments,United States,M,0
+2324,Andrei Bokarev,55.0,1200,Manufacturing,Russia,M,0
+2324,Stephane Bonvin,55.0,1200,Real Estate,Switzerland,M,0
+2324,Ashok Boob,70.0,1200,Manufacturing,India,M,0
+2324,Ludwig Theodor Braun,32.0,1200,Healthcare,Germany,M,0
+2324,Friederike Braun-Luedicke,38.0,1200,Healthcare,Germany,F,0
+2324,Pradip Burman,79.0,1200,Food & Beverage,India,M,0
+2324,Jiancheng Chen,63.0,1200,Manufacturing,China,M,0
+2324,Chen Xueling,54.0,1200,Manufacturing,China,F,0
+2324,Cheng Lili,57.0,1200,Food & Beverage,China,M,0
+2324,Yvon Chouinard,83.0,1200,Fashion & Retail,United States,M,0
+2324,Luigi Cremonini & family,82.0,1200,Food & Beverage,Italy,M,0
+2324,Tim Draper,63.0,1200,Finance & Investments,United States,M,0
+2324,Fan Zhaoxia & family,54.0,1200,Energy,China,F,0
+2324,Gleb Fetisov,55.0,1200,Telecom,Russia,M,0
+2324,Robert Fisher,68.0,1200,Fashion & Retail,United States,M,0
+2324,William Fisher,65.0,1200,Fashion & Retail,United States,M,0
+2324,J. Christopher Flowers,64.0,1200,Finance & Investments,United States,M,0
+2324,Bernd Freier,65.0,1200,Fashion & Retail,Germany,M,0
+2324,Geng Diangen,65.0,1200,Technology,China,M,0
+2324,Dan Gertler,48.0,1200,Metals & Mining,Israel,M,0
+2324,David Girouard,56.0,1200,Finance & Investments,United States,M,0
+2324,John Goff,67.0,1200,Real Estate,United States,M,0
+2324,Lawrence Golub,62.0,1200,Finance & Investments,United States,M,0
+2324,Sven Hagströmer,78.0,1200,Finance & Investments,Sweden,M,0
+2324,Fahed Hariri,41.0,1200,Construction & Engineering,United Kingdom,M,0
+2324,Richard Hayne,74.0,1200,Fashion & Retail,United States,M,0
+2324,He Yamin & family,65.0,1200,Manufacturing,China,M,0
+2324,Michael Heine,72.0,1200,Finance & Investments,Australia,M,0
+2324,Heikki Herlin,35.0,1200,Manufacturing,Finland,M,0
+2324,Hong Feng,45.0,1200,Technology,China,M,0
+2324,Hu Kun,52.0,1200,Healthcare,China,M,0
+2324,Huang Hongyun & family,55.0,1200,Real Estate,China,M,0
+2324,Shanbing Huang & family,65.0,1200,Technology,China,M,0
+2324,Huang Shih Tsai,70.0,1200,Real Estate,China,M,0
+2324,Huang Wenbiao,54.0,1200,Food & Beverage,China,M,0
+2324,Mohammed Ibrahim,75.0,1200,Telecom,United Kingdom,M,0
+2324,Hedda im Brahm-Droege,67.0,1200,Finance & Investments,Germany,F,0
+2324,Rameshchandra Jain,73.0,1200,Manufacturing,India,M,0
+2324,Laurent Junique,56.0,1200,Technology,Singapore,M,0
+2324,Zbigniew Juroszek & family,59.0,1200,Diversified,Poland,M,0
+2324,Chatchai Kaewbootta,70.0,1200,Finance & Investments,Thailand,M,0
+2324,Shirley Kao,65.0,1200,Food & Beverage,Taiwan,F,0
+2324,Ipek Kirac,37.0,1200,Diversified,Turkey,F,0
+2324,Carsten Koerl,57.0,1200,Sports,Switzerland,M,0
+2324,Andrei Kosogov,61.0,1200,Energy,Russia,M,0
+2324,John Krystynak,53.0,1200,Media & Entertainment,United States,M,0
+2324,John Kusuma,55.0,1200,Finance & Investments,Indonesia,M,0
+2324,Hartono Kweefanus,72.0,1200,Food & Beverage,Indonesia,M,0
+2324,Kwek Leng Peck,66.0,1200,Diversified,Singapore,M,0
+2324,Kristo Käärmann,41.0,1200,Finance & Investments,United Kingdom,M,0
+2324,Guy Laliberté,62.0,1200,Media & Entertainment,Canada,M,0
+2324,Lee Sang-ryul,60.0,1200,Manufacturing,South Korea,M,0
+2324,Lee Seung-gun,40.0,1200,Technology,South Korea,M,0
+2324,Hongjing Li,54.0,1200,Automotive,China,M,0
+2324,Li Wanqiang,44.0,1200,Technology,China,M,0
+2324,Lu Hongyan,44.0,1200,Media & Entertainment,China,M,0
+2324,Dalong Lv,60.0,1200,Telecom,China,M,0
+2324,Carsten Maschmeyer,62.0,1200,Finance & Investments,Germany,M,0
+2324,Todd McKinnon,50.0,1200,Technology,United States,M,0
+2324,Rubens Menin Teixeira de Souza,66.0,1200,Diversified,Brazil,M,0
+2324,Lorinc Meszaros,56.0,1200,Diversified,Hungary,M,0
+2324,Ulrich Mommert & family,81.0,1200,Automotive,Austria,M,0
+2324,Park Kwan-ho,50.0,1200,Media & Entertainment,South Korea,M,0
+2324,George Pedersen,86.0,1200,Manufacturing,United States,M,0
+2324,David Penaloza Alanis,48.0,1200,Construction & Engineering,Mexico,M,0
+2324,Stefan Pierer,65.0,1200,Automotive,Austria,M,0
+2324,Murdaya Poo,81.0,1200,Diversified,Indonesia,M,0
+2324,Michael Price,69.0,1200,Finance & Investments,United States,M,0
+2324,Leonid Radvinsky,40.0,1200,Technology,United States,M,0
+2324,Megdet Rahimkulov & family,76.0,1200,Finance & Investments,Russia,M,0
+2324,Andrei Rappoport,58.0,1200,Finance & Investments,Russia,M,0
+2324,Dasari Uday Kumar Reddy,54.0,1200,Technology,India,M,0
+2324,Helena Revoredo,75.0,1200,Service,Spain,F,0
+2324,Duke Reyes,65.0,1200,Food & Beverage,United States,M,0
+2324,Nobutada Saji,76.0,1200,Food & Beverage,Japan,M,0
+2324,Leonard Schleifer,69.0,1200,Healthcare,United States,M,0
+2324,Airat Shaimiev,60.0,1200,Energy,Russia,M,0
+2324,Radik Shaimiev,57.0,1200,Energy,Russia,M,0
+2324,Vijay Shekhar Sharma,43.0,1200,Service,India,M,0
+2324,Devi Shetty,69.0,1200,Healthcare,India,M,0
+2324,Shum Chiu Hung & family,52.0,1200,Real Estate,China,M,0
+2324,Michael Steinhardt,81.0,1200,Finance & Investments,United States,M,0
+2324,Petter Stordalen & family,59.0,1200,Service,Norway,M,0
+2324,Winarko Sulistyo,76.0,1200,Manufacturing,Indonesia,M,0
+2324,Sun Huaiqing & family,52.0,1200,Fashion & Retail,China,M,0
+2324,Luc Tack,60.0,1200,Manufacturing,Belgium,M,0
+2324,Lucio Tan,87.0,1200,Diversified,Philippines,M,0
+2324,Yoshikazu Tanaka,45.0,1200,Technology,Japan,M,0
+2324,Stanley Tang,29.0,1200,Technology,United States,M,0
+2324,Sam Tarascio,77.0,1200,Real Estate,Australia,M,0
+2324,Alexander Tedja,76.0,1200,Real Estate,Indonesia,M,0
+2324,Laurie Tisch,71.0,1200,Diversified,United States,F,0
+2324,Steven Tisch,73.0,1200,Diversified,United States,M,0
+2324,Stefania Triva,57.0,1200,Healthcare,Italy,F,0
+2324,Maria Grace Uy,53.0,1200,Telecom,Philippines,F,0
+2324,Wim van der Leegte,74.0,1200,Manufacturing,Netherlands,M,0
+2324,Thongma Vijitpongpun,64.0,1200,Real Estate,Thailand,M,0
+2324,Jianfeng Wang & family,52.0,1200,Automotive,China,M,0
+2324,Wang Jilei,57.0,1200,Logistics,China,M,0
+2324,Wang Junmin,53.0,1200,Healthcare,China,M,0
+2324,Wang Kunxiao,52.0,1200,Manufacturing,China,M,0
+2324,Wang Zhentao & family,56.0,1200,Healthcare,China,M,0
+2324,J. Wayne Weaver,86.0,1200,Diversified,United States,M,0
+2324,Weng Xianding,60.0,1200,Healthcare,China,M,0
+2324,Horst Wortmann,80.0,1200,Fashion & Retail,Germany,M,0
+2324,Wu Chung-yi,66.0,1200,Manufacturing,Taiwan,M,0
+2324,Wu Li-gann,81.0,1200,Manufacturing,Taiwan,M,0
+2324,Wu Peifu & family,60.0,1200,Manufacturing,China,M,0
+2324,Xiu Laigui,67.0,1200,Healthcare,China,M,0
+2324,Yeh Kuo-I,80.0,1200,Manufacturing,Taiwan,M,0
+2324,Faxiang Yu,50.0,1200,Media & Entertainment,China,M,0
+2324,Zeng Chaolin,39.0,1200,Metals & Mining,China,M,0
+2324,Zhang Tianyu,54.0,1200,Telecom,China,M,0
+2324,Shusheng Zheng,56.0,1200,Telecom,China,M,0
+2448,A. Jayson Adair,52.0,1100,Automotive,United States,M,0
+2448,Joao Alves de Queiroz Filho,69.0,1100,Diversified,Brazil,M,0
+2448,Ryuji Arai,75.0,1100,Fashion & Retail,Japan,M,0
+2448,Sara Blakely,51.0,1100,Fashion & Retail,United States,F,0
+2448,Lloyd Blankfein,67.0,1100,Finance & Investments,United States,M,0
+2448,Henadiy Boholyubov,60.0,1100,Diversified,Ukraine,M,0
+2448,Casper Callerström,48.0,1100,Finance & Investments,Sweden,M,0
+2448,Kejian Cao,59.0,1100,Manufacturing,China,M,0
+2448,Turgay Ciner,66.0,1100,Diversified,Turkey,M,0
+2448,Dai Lizhong,53.0,1100,Healthcare,China,M,0
+2448,Pedro de Godoy Bueno,31.0,1100,Healthcare,Brazil,M,0
+2448,Aydin Dogan,85.0,1100,Media & Entertainment,Turkey,M,0
+2448,Wolfgang Egger,56.0,1100,Real Estate,Germany,M,0
+2448,Gabriel Escarrer,87.0,1100,Service,Spain,M,0
+2448,Richard Fairbank,71.0,1100,Finance & Investments,United States,M,0
+2448,Andy Fang,29.0,1100,Technology,United States,M,0
+2448,Paul Fireman,78.0,1100,Fashion & Retail,United States,M,0
+2448,Donald Friese,81.0,1100,Manufacturing,United States,M,0
+2448,Soichiro Fukutake,76.0,1100,Service,New Zealand,M,0
+2448,Antonio Gallardo Ballart,86.0,1100,Healthcare,Spain,M,0
+2448,David Golub,59.0,1100,Finance & Investments,United States,M,0
+2448,Guan Yihong,52.0,1100,Food & Beverage,China,M,0
+2448,Stelios Haji-Ioannou,55.0,1100,Service,Monaco,M,0
+2448,Mustafa Hamied,81.0,1100,Healthcare,India,M,0
+2448,Ronnen Harary,50.0,1100,Manufacturing,Canada,M,0
+2448,David Helgason,44.0,1100,Technology,Denmark,M,0
+2448,Eduardo Hochschild,58.0,1100,Metals & Mining,Peru,M,0
+2448,Hong Seok-joh,69.0,1100,Fashion & Retail,South Korea,M,0
+2448,Huang Xu,54.0,1100,Technology,China,M,0
+2448,Subba Rao Jasti,95.0,1100,Healthcare,India,M,0
+2448,Long Jiang,48.0,1100,Technology,China,M,0
+2448,Jiang Xuefei & family,52.0,1100,Technology,China,M,0
+2448,Jonas Kamprad,56.0,1100,Finance & Investments,United Kingdom,M,0
+2448,Mathias Kamprad,52.0,1100,Finance & Investments,United Kingdom,M,0
+2448,Peter Kamprad,58.0,1100,Finance & Investments,Belgium,M,0
+2448,Andrew Karam,40.0,1100,Media & Entertainment,United States,M,0
+2448,Samvel Karapetyan,56.0,1100,Construction & Engineering,Russia,M,0
+2448,Alexander Karp,54.0,1100,Technology,United States,M,0
+2448,Ke Guihua,56.0,1100,Manufacturing,China,M,0
+2448,Kim Jung-woong,47.0,1100,Fashion & Retail,South Korea,M,0
+2448,Harry Klagsbrun,67.0,1100,Finance & Investments,Sweden,M,0
+2448,Alexander Knauf,47.0,1100,Manufacturing,Germany,M,0
+2448,Koh Wee Meng,58.0,1100,Real Estate,Singapore,M,0
+2448,Sergei Kolesnikov,50.0,1100,Manufacturing,Russia,M,0
+2448,Andrei Komarov,55.0,1100,Manufacturing,Russia,M,0
+2448,Koo Bon-neung,73.0,1100,Manufacturing,South Korea,M,0
+2448,Koo Bon-sik,63.0,1100,Technology,South Korea,M,0
+2448,Suresh Krishna,85.0,1100,Automotive,India,M,0
+2448,Nancy Lerner,61.0,1100,Finance & Investments,United States,F,0
+2448,Norma Lerner,86.0,1100,Finance & Investments,United States,F,0
+2448,Randolph Lerner,60.0,1100,Finance & Investments,United States,M,0
+2448,Li Shui-po,65.0,1100,Manufacturing,China,M,0
+2448,Li Tan,57.0,1100,Healthcare,China,F,0
+2448,Li Wenmei & family,59.0,1100,Healthcare,China,M,0
+2448,Lim Hariyanto Wijaya Sarwono,93.0,1100,Energy,Indonesia,M,0
+2448,Lin Jie & family,53.0,1100,Healthcare,China,F,0
+2448,Liu Chengyu & family,59.0,1100,Manufacturing,China,M,0
+2448,Lou Boliang,58.0,1100,Healthcare,China,M,0
+2448,Lun Ruixiang & family,54.0,1100,Real Estate,Hong Kong,M,0
+2448,Lv Yongxiang,72.0,1100,Manufacturing,China,M,0
+2448,Ma Xiuhui,51.0,1100,Manufacturing,China,F,0
+2448,Yasseen Mansour,60.0,1100,Diversified,Egypt,M,0
+2448,Jorge Mas,59.0,1100,Construction & Engineering,United States,M,0
+2448,Ulrike Meister,55.0,1100,Manufacturing,Germany,F,0
+2448,Jeffrey Michael & family,65.0,1100,Technology,United States,M,0
+2448,Soichiro Minami,45.0,1100,Technology,Japan,M,0
+2448,Bob Muglia,62.0,1100,Technology,United States,M,0
+2448,Erik Must,79.0,1100,Finance & Investments,Norway,M,0
+2448,Kerr Neilson,72.0,1100,Finance & Investments,Australia,M,0
+2448,John Oyler,54.0,1100,Healthcare,China,M,0
+2448,Park Hyeon-joo,63.0,1100,Finance & Investments,South Korea,M,0
+2448,Jose Isaac Peres & family,81.0,1100,Real Estate,Brazil,M,0
+2448,John Phillips,71.0,1100,Finance & Investments,Canada,M,0
+2448,Pu Zhongjie & family,59.0,1100,Healthcare,China,M,0
+2448,Qian Xiaojun,47.0,1100,Technology,China,M,0
+2448,Anton Rabie,50.0,1100,Manufacturing,Canada,M,0
+2448,Igor Rybakov,49.0,1100,Manufacturing,Russia,M,0
+2448,K. Rai Sahi,75.0,1100,Real Estate,Canada,M,0
+2448,"Karl Scheufele, III. & family",83.0,1100,Fashion & Retail,Switzerland,M,0
+2448,Steven Schuurman,46.0,1100,Technology,Netherlands,M,0
+2448,Analjit Singh,68.0,1100,Diversified,India,M,0
+2448,Kavita Singhania,60.0,1100,Manufacturing,India,F,0
+2448,Michael S. Smith,66.0,1100,Energy,United States,M,0
+2448,Scott Smith,72.0,1100,Technology,United States,M,0
+2448,Ashok Soota,79.0,1100,Technology,India,M,0
+2448,Michael Spencer,66.0,1100,Finance & Investments,United Kingdom,M,0
+2448,Venu Srinivasan,69.0,1100,Automotive,India,M,0
+2448,Dirk Stroeer,53.0,1100,Media & Entertainment,Germany,M,0
+2448,Susanto Suwarto,66.0,1100,Media & Entertainment,Indonesia,M,0
+2448,Xiuguo Tang,58.0,1100,Manufacturing,China,M,0
+2448,Mehmet Sinan Tara,63.0,1100,Construction & Engineering,Turkey,M,0
+2448,Robert Toll,81.0,1100,Real Estate,United States,M,0
+2448,Surin Upatkoon,72.0,1100,Diversified,Malaysia,M,0
+2448,Sunil Vachani,53.0,1100,Manufacturing,India,M,0
+2448,Murat Vargi,74.0,1100,Telecom,Turkey,M,0
+2448,Pongsak Viddayakorn,88.0,1100,Healthcare,Thailand,M,0
+2448,Wang Shumin,65.0,1100,Manufacturing,China,F,0
+2448,Anne Werninghaus,36.0,1100,Manufacturing,Brazil,F,0
+2448,Allan Wong,72.0,1100,Manufacturing,Hong Kong,M,0
+2448,Chaoqun Wu,52.0,1100,Manufacturing,China,M,0
+2448,Wu Yonghua,51.0,1100,Fashion & Retail,China,M,0
+2448,Wu Zhenxing,52.0,1100,Food & Beverage,China,M,0
+2448,Franziska Wuerbser,34.0,1100,Manufacturing,Germany,F,0
+2448,Xia Xinde,57.0,1100,Manufacturing,China,M,0
+2448,Xiong Jun & family,48.0,1100,Healthcare,China,M,0
+2448,Jane Yan & family,52.0,1100,Technology,China,F,0
+2448,Yang Erzhu,71.0,1100,Real Estate,China,M,0
+2448,Vlad Yatsenko,38.0,1100,Finance & Investments,United Kingdom,M,0
+2448,Yi Xianzhong & family,62.0,1100,Healthcare,China,M,0
+2448,Yoshiaki Yoshida,81.0,1100,Fashion & Retail,Japan,M,0
+2448,Yu Rong,50.0,1100,Healthcare,China,M,0
+2448,Igor Yusufov,65.0,1100,Energy,Russia,M,0
+2448,Zhang Cheng Fei,54.0,1100,Manufacturing,China,M,0
+2448,Zhang Fangliang,57.0,1100,Healthcare,China,M,0
+2448,Baoshen Zhong,54.0,1100,Energy,China,M,0
+2448,Zhou Minghua,58.0,1100,Healthcare,China,M,0
+2578,Krishna Kumar Bangur,61.0,1000,Manufacturing,India,M,0
+2578,"Wilbur  'Ed' Bosarge, Jr.",82.0,1000,Finance & Investments,United States,M,0
+2578,Johanna Braun,42.0,1000,Healthcare,Germany,F,0
+2578,Karl Friedrich Braun,39.0,1000,Healthcare,Germany,M,0
+2578,Jean-Pierre Cayard,79.0,1000,Food & Beverage,France,M,0
+2578,Tony Chen,72.0,1000,Technology,Taiwan,M,0
+2578,Vivien Chen,63.0,1000,Real Estate,Hong Kong,F,0
+2578,Chey Ki-won,57.0,1000,Technology,South Korea,F,0
+2578,Pollyanna Chu,64.0,1000,Finance & Investments,Hong Kong,F,0
+2578,Roy Chi Ping Chung,69.0,1000,Manufacturing,Hong Kong,M,0
+2578,Doug Clarke,41.0,1000,Technology,Australia,M,0
+2578,Ronald Clarke,66.0,1000,Technology,United States,M,0
+2578,Jean-Paul Clozel,67.0,1000,Healthcare,Switzerland,M,0
+2578,Carl DeSantis,82.0,1000,Food & Beverage,United States,M,0
+2578,Sefik Yilmaz Dizdar,84.0,1000,Fashion & Retail,Turkey,M,0
+2578,Charles Dunstone,58.0,1000,Telecom,United Kingdom,M,0
+2578,Larry Fink,69.0,1000,Finance & Investments,United States,M,0
+2578,Fu Gang,51.0,1000,Healthcare,China,M,0
+2578,Jorge Gallardo Ballart,80.0,1000,Healthcare,Spain,M,0
+2578,Nari Genomal,82.0,1000,Fashion & Retail,Philippines,M,0
+2578,Ramesh Genomal,71.0,1000,Fashion & Retail,Philippines,M,0
+2578,Sunder Genomal,68.0,1000,Fashion & Retail,India,M,0
+2578,Horst-Otto Gerberding,69.0,1000,Food & Beverage,Germany,M,0
+2578,Guo Jiangang,55.0,1000,Manufacturing,China,M,0
+2578,Polys Haji-Ioannou,62.0,1000,Service,Monaco,M,0
+2578,Huang Jian,55.0,1000,Manufacturing,China,M,0
+2578,Huang Jinxiang & family,57.0,1000,Manufacturing,China,M,0
+2578,Huang Weibin,54.0,1000,Manufacturing,China,M,0
+2578,Hiroshi Ishibashi,75.0,1000,Automotive,Japan,M,0
+2578,Bent Jensen,70.0,1000,Manufacturing,Denmark,M,0
+2578,Boris Jordan,55.0,1000,Manufacturing,United States,M,0
+2578,Morris Kahn,92.0,1000,Technology,Israel,M,0
+2578,Marcelo Kalim,52.0,1000,Finance & Investments,Brazil,M,0
+2578,Eugene Kaspersky,56.0,1000,Technology,Russia,M,0
+2578,Kangbao Ke & family,59.0,1000,Healthcare,China,M,0
+2578,Yunfeng Ke & family,55.0,1000,Healthcare,China,M,0
+2578,Ken Kendrick,78.0,1000,Sports,United States,M,0
+2578,Ihor Kolomoyskyy,59.0,1000,Diversified,Ukraine,M,0
+2578,Jeff Lawson,44.0,1000,Technology,United States,M,0
+2578,Liang Jiankun & family,60.0,1000,Metals & Mining,China,M,0
+2578,Liu Baolin,68.0,1000,Fashion & Retail,China,M,0
+2578,Liu Quan,45.0,1000,Technology,China,M,0
+2578,Udo Mueller,60.0,1000,Media & Entertainment,Germany,M,0
+2578,Bruce Nordstrom,88.0,1000,Fashion & Retail,United States,M,0
+2578,Scott Nuttall,49.0,1000,Finance & Investments,United States,M,0
+2578,Roberto Ongpin,85.0,1000,Diversified,Philippines,M,0
+2578,Adrian Paval,53.0,1000,Fashion & Retail,Romania,M,0
+2578,Tyler Perry,52.0,1000,Media & Entertainment,United States,M,0
+2578,Grant Petty,53.0,1000,Technology,Australia,M,0
+2578,G.V. Prasad,61.0,1000,Healthcare,India,M,0
+2578,Qiu Zixin,58.0,1000,Healthcare,China,M,0
+2578,Jupally Rameshwar Rao,66.0,1000,Real Estate,India,M,0
+2578,Vera Rechulski Santo Domingo,73.0,1000,Food & Beverage,Bermuda,F,0
+2578,Michael Rees,47.0,1000,Finance & Investments,United States,M,0
+2578,Mark Rein,58.0,1000,Media & Entertainment,United States,M,0
+2578,Ren Zhengfei,78.0,1000,Telecom,China,M,0
+2578,Francisco Jose Riberas Mera,57.0,1000,Manufacturing,Spain,M,0
+2578,Boris Rotenberg,65.0,1000,Construction & Engineering,Russia,M,0
+2578,Chanchai Ruayrungruang,68.0,1000,Real Estate,China,M,0
+2578,Alan Rydge,69.0,1000,Media & Entertainment,Australia,M,0
+2578,Oliver Samwer,48.0,1000,Technology,Germany,M,0
+2578,Glenn Sanford,55.0,1000,Real Estate,United States,M,0
+2578,Dhruv Sawhney,77.0,1000,Construction & Engineering,India,M,0
+2578,Neerja Sethi,67.0,1000,Technology,United States,F,0
+2578,Ramesh Chandra Sharma,77.0,1000,Finance & Investments,India,M,0
+2578,Dean Solon,57.0,1000,Energy,United States,M,0
+2578,Mike Speiser,51.0,1000,Technology,United States,M,0
+2578,Jeff Sprecher,67.0,1000,Finance & Investments,United States,M,0
+2578,Axel Stawski,71.0,1000,Real Estate,United States,M,0
+2578,Joseph Steinberg,78.0,1000,Finance & Investments,United States,M,0
+2578,Bhawari Bai Surana,76.0,1000,Healthcare,India,F,0
+2578,Ruiqing Tan,55.0,1000,Manufacturing,China,M,0
+2578,Masaru Tange,47.0,1000,Technology,Japan,M,0
+2578,Dennis Anthony Uy,55.0,1000,Telecom,Philippines,M,0
+2578,Peter-Alexander Wacker,70.0,1000,Manufacturing,Germany,M,0
+2578,Shigefumi Wada & family,69.0,1000,Technology,Japan,M,0
+2578,Wang Qiangxiang,50.0,1000,Service,China,M,0
+2578,Xiong Shaoming,51.0,1000,Manufacturing,China,M,0
+2578,Shintaro Yamada,44.0,1000,Technology,Japan,M,0
+2578,Mark Haoyong Yang,47.0,1000,Technology,China,M,0
+2578,Yao Hsiao Tung,82.0,1000,Manufacturing,Singapore,M,0
+2578,Yao Liangbo,53.0,1000,Fashion & Retail,China,M,0
+2578,Ye Qiongjiu,67.0,1000,Technology,China,F,0
+2578,"Richard Yuengling, Jr.",79.0,1000,Food & Beverage,United States,M,0
+2578,Zhang Kapeng,57.0,1000,Construction & Engineering,China,M,0
+2578,Zhang Yuqiang,66.0,1000,Manufacturing,China,M,0
+2578,Zhou Ruxin,59.0,1000,Technology,China,M,0
+2578,Wen Zhou & family,57.0,1000,Manufacturing,China,M,0
+2578,Zhou Yifeng & family,43.0,1000,Energy,China,F,0
+2578,Zhuang Kuilong & family,59.0,1000,Manufacturing,China,M,0
