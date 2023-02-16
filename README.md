@@ -10,7 +10,7 @@
 
 **Technologies Used:**
 
-- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, confusion_matrix, accuracy_score, classification_report), Numpy
+- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, LogisticRegression, RandomForestClassifier, confusion_matrix, accuracy_score, classification_report), Numpy, and SQLAlchemy
 - SQL: Database host
 - Tableau: Visualization creation
 - HTML: Dashboard creation using Javascript/ CSS for customization
