@@ -80,20 +80,12 @@ Forbes is an American based business magazine and media company that produces ar
 
 We are interested in discovering who 2022 billionaires are. Since there was such a large shift in the total wealth owned by billionaires (loss of $400 billion compared to 2021 billionaires), there are several insights that can be uncovered when examining trends in billionaire demographics. 
 
-We will examine the following questions for the 2022 data...
+We will examine the following questions:
 
-- Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
-- Do the average ages of billionaires vary across different countries?
-- Which industries produced billionaires in specific age groups and demographics?
-- Which countries are home to billionaires? Also, how many billionaires live in each country?
-
-When comparing 2018 to 2022 data...
-
-- How has the distribution of industries that billionaires operate in changed from 2018 to 2022?
-- What has been the shift in the distribution of billionaires' net worths from 2018 to 2022?
-- What has been the change in the number of billionaires per country from 2018 to 2022?
-- What is the comparison of male to female billionaires from 2018 to 2022?
-- What has been the shift in the age groups of billionaires from 2018 to 2022?
+- Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values? Will it be able to predict more accurately if 2018 list is included?
+- Do the average ages of billionaires vary across different countries? Do ages vary from the 2018 to 2022 lists?
+- Which industries produced billionaires in specific age groups and demographics? Do these industries vary from the 2018 to 2022 lists?
+- Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?
 
 ---
 
@@ -195,6 +187,10 @@ The confusion matrix presents the prediction values.
 
 <sub> * A note about features: "The feature importance scores returned by a random forest classifier are typically normalized so that they add up to 1.0, with higher scores indicating more important features. The values are not necessarily proportional to the percentage of the overall prediction that each feature contributes, and they are not bounded by 0 and 100.
 In general, it’s more important to focus on the relative importance of each feature, rather than the absolute magnitude of the scores. For example, if a feature has an importance score of 0.2 and another feature has a score of 0.1, it means that the first feature is twice as important as the second feature in the prediction task." </sub>
+
+---
+
+## Answering Our Questions:
 
 ---
 
