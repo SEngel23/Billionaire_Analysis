@@ -10,7 +10,7 @@
 
 **Technologies Used:**
 
-- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, confusion_matrix, accuracy_score, classification_report), Numpy
+- Python: Coding language. Packages include: Pathlib, Pandas, Matplotlib (including PyPlot), Plotly, Scikitlearn (including LabelEncoder, StandardScaler, train_test_split, LogisticRegression, RandomForestClassifier, confusion_matrix, accuracy_score, classification_report), Numpy, and SQLAlchemy
 - SQL: Database host
 - Tableau: Visualization creation
 - HTML: Dashboard creation using Javascript/ CSS for customization
@@ -35,6 +35,10 @@ Our team will be interested to compare the number of billionaires in each indust
 
 The purpose of this analysis was to clean the raw csv file containing information on Forbes Billionaires of 2022. The future use case of the cleaned billionaire csv file will be used for machine learning to better understand the relationships between key features and billionaires around the globe.
 
+## Selected Topic: "The Forbes World’s Billionaires list"
+
+Forbes is an American based business magazine and media company that produces articles that shed light on finance, industry, investing, and marketing related topics. The Forbes website reaches more than 27 million unique visitors each month. One of the main attractions to the website is the Forbes World’s Billionaires list.  The Forbes Billionaire list is an actively managed snapshot of individual and family wealth in today's global economy. Currently, there are, “2,668 billionaires on Forbes’ 36th-annual ranking of the planet’s richest people—87 fewer than a year ago. They’re worth a collective $12.7 trillion—$400 billion less than in 2021.” One of the primary methods that Forbes uses to track net worth is through stock prices and exchange rates. Due to the volatility of the market billionaires can be made or lost through day to day trading and general market price fluctuations. Some billionaires on the list do provide their private financial statements to Forbes, but in general Forbes has to predict and discount the variety of assets that are private companies, real estate, and art.
+
 ## Data Insights:
 
 - This project includes two separate sets of data: one captures data on billionaires in 2018, and the second dataset is of billionaires from 2022.
@@ -54,6 +58,23 @@ The purpose of this analysis was to clean the raw csv file containing informatio
 - Machine learning algorithms typically only work with numerical data; therefore, things like the billionaire's country, the sector they made their wealth, and their gender were encoded to numerical values.
 
 - Overall the data was cleaned and prepared in a way so the machine learning model could produce an outcome that can accuratley predict if an net worth is greater than a specified value.
+
+## Data Columns Explained:
+
+<img width="494" alt="data columns " src="https://user-images.githubusercontent.com/112028534/218921791-344dd98a-6fb7-45ae-8f4c-3583992e5a8f.png">
+
+- The first column is the person’s name which acts as the unique identifier and primary key. 
+
+- The age column represents how old each billionaire is.
+
+- The net worth of each billionaire is found in the billionaire final worth column.
+
+- The industry that the billionaire derives the majority of their wealth from is captured in the category column.
+
+- The country column illustrates each billionaire’s current citizenship.
+
+- The gender columns split the billionaires into male or female categories.
+
 
 ## Questions To Answer:
 
@@ -107,13 +128,41 @@ When comparing 2018 to 2022 data...
 
 #### Machine Learning Model
 
-**Section 1:** The cleaned data was read into a dataframe for the 2022 Forbes List. A column was added to the dataframe that captured billionaires with final worth > 4799. If their final worth was greater than 4799, a 1 is generated into the column and a 0 if their final worth is less than 4799.
+Applying a supervised machine learning model to the dataset can reveal if hidden trends in the data can lead to accurate predictions. In this model, we will predict whether or not a billionaire has a final worth greater than the 2022 mean final worth value of $4.799 billion.
+
+- Machine learning model: [machine_learning_model.ipynb](/machine_learning_model.ipynb)
+
+<sub>Note: In this file the code is read in through the associated csv files. Code to connect to a SQL database is provided in the second cell.</sub>
+
+We completed 6 model instances with the following parameters:
+
+#### Section 1: 
+The cleaned data was read into a dataframe for the 2022 Forbes List. A column was added to the dataframe that captured billionaires with final worth > $4.799 billion. If their final worth was greater than $4.799 billion, a 1 is generated into the column and a 0 if their final worth is less than $4.799 billion.
 Target features are "rank", "age", "category", "country", "gender_F", and "gender_M" with the target column "finalWorth>4799".
-Training and testing the model under logistic regression, the model was able to produce results of 99% accuracy.
+Training and testing the model under logistic regression, the model was able to produce results of 99.22% accuracy.
 
-**Section 2:** This model takes the cleaned merge data from 2018 and 2022 and ran through another logistical regression model. Using the same framework as section 1, a new column was generated to identify billionaires with a networth over 4799. While this model generated a slightly low accuracy, the model is still very accurate with a result of 96.7%.
+#### Section 2:
+This model takes the cleaned merge data from 2018 and 2022 and ran through another logistical regression model. Using the same framework as section 1, a new column was generated to identify billionaires with a networth over $4.799 billion.
+While this model generated a slightly low accuracy, the model is still very accurate with a result of 96.18%.
 
-**Section 3:** After further analysis of section 1 and 2 models, we wanted to see how much weight the "rank" column had on the machine learning model. The "rank" column was removed and the 2022 model from section 1 was ran through the logistical regression model to see how the results differ from the section 1 results. The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 75.4% versus with the "rank" column 99%.
+#### Section 3: 
+After further analysis of section 1 and 2 models, we wanted to see how much weight the "rank" column had on the machine learning model. The "rank" column was removed and the 2022 data from section 1 was ran through the logistical regression model to see how the results differ from the section 1 results. 
+The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 77.52% versus with the "rank" column 99.22%.
+
+#### Section 4:
+We then tested the 2018 and 2022 merged data with the revised feature list to see if the accuracy remains level with the model in section 3. 
+After running through the logistical regression model, the accuracy score came to be slightly less at 76.78% 
+
+#### Section 5:
+After viewing the success of the LogisticRegression model, we decided to use the RandomForestClassifier ensemble model to rank the importance of the features. This will give us a full list of the features as well as scores to measure how critical they are in calculating whether a billionaire's final worth is greater than $4.799 billion. 
+After applying this model to the 2022 dataset, the accuracy score came to be slightly less at 73.45%. The feature importances were ranked in this order: "age" (0.5129), "country" (0.2561), "category" (0.2145), "gender_F" (0.0084), "gender_M" (0.0079). This suggests age is significantly more important to predicting final worth than the other features.* 
+
+#### Section 6:
+We applied the RandomForestClassifier ensemble model to the 2018 and 2022 merged data to see if the feature importance rankings would hold steady with additional data. 
+The accuracy of this model came to be slightly higher than the model in section 5, but still below the accuracy score of section 4: 74.44%. The feature importances were ranked in this order: "age" (0.4468), "country" (0.3025), "category" (0.2390), "gender_M" (0.0061), "gender_F" (0.0055). This suggests age is significantly more important to predicting final worth than the other features. Also to note, the "gender_M" and "gender_F" features were flipped in this model. This can be supported by the fact that there were more females on the 2022 Forbes Billionaires List than on the 2018 list. We can also observe that "country" and "category" have more distance between them in the 2018 and 2022 merged data, suggesting "country" may have experienced some changes that occurred between the 2018 and 2022 lists.* 
+
+<sub> * A note about features: "The feature importance scores returned by a random forest classifier are typically normalized so that they add up to 1.0, with higher scores indicating more important features. The values are not necessarily proportional to the percentage of the overall prediction that each feature contributes, and they are not bounded by 0 and 100.
+In general, it’s more important to focus on the relative importance of each feature, rather than the absolute magnitude of the scores. For example, if a feature has an importance score of 0.2 and another feature has a score of 0.1, it means that the first feature is twice as important as the second feature in the prediction task." </sub>
 
 ---
 

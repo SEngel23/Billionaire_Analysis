@@ -20,3 +20,9 @@ https://www.kaggle.com/code/jillanisofttech/billionaire-anaylsis-data-anaylsis-p
 
 Git tutorial:
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging 
+
+Javascript/ HTML template:
+https://startbootstrap.com/template/scrolling-nav 
+
+CSS Reference: 
+https://www.w3schools.com/cssref/index.php 
