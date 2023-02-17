@@ -1,0 +1,112 @@
+
+/* Set overall style for the page */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Set style for the header section */
+header {
+  height: 50vh; /* height of the section. vh stands for "viewport height" - height of the browser */    
+  display: flex; /* activates the flexbox tools to manipulate the sections easily */
+  flex-direction: column; /* makes the elements in the section go in a vertical/ column direction instead of horizontal */
+  justify-content: center; /* aligns across the horizontal axis */
+  align-items: center; /* aligns across the vertical axis */
+  background-color: lightgray;
+}
+
+/* Set styles for the headers */
+header h1 {
+  font-size: 4em;
+}
+
+section h2 {
+  font-size: 3em;
+}
+
+/* Set style for the body sections */
+.about-body {
+    width: 85%; /* width of the section. extra wide for text blocks, tableau dashboard */
+    height: 50vh; 
+    margin: 0 auto; /* makes the margin center horizontally */
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+  }
+
+.findings-body {
+    width: 85%;
+    height: 50vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.learning-model-body {
+    width: 85%;
+    height: 50vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.tableau-body {
+    width: 85%;
+    height: 100%; /* made this 100% for the tableau dashboard to fit based on the tableau java code */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.viz-body {
+    width: 85%;
+    height: 50vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+/* Set style for the navigation bar */
+nav {
+    padding: 0 2em;
+    position: fixed; /* freezes the bar at the top of the page */
+    z-index: 999; /* makes it so the navigation bar is always on top of the other elements on the page */
+    background-color: darkgray;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+/* first-child and last-child are CSS specific attributes to call the nav list items */
+  nav ul li:first-child {
+    margin-right: auto;
+  }
+  
+  nav ul li:not(:first-child) {
+    margin-left: 1em;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
