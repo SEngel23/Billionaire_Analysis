@@ -78,13 +78,14 @@ Forbes is an American based business magazine and media company that produces ar
 
 ## Questions To Answer:
 
+We are interested in discovering who 2022 billionaires are. Since there was such a large shift in the total wealth owned by billionaires (loss of $400 billion compared to 2021 billionaires), there are several insights that can be uncovered when examining trends in billionaire demographics. 
+
+We will examine the following questions for the 2022 data...
+
 - Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values?
-- What industries are 2022 billionaires in?
 - Do the average ages of billionaires vary across different countries?
 - Which industries produced billionaires in specific age groups and demographics?
-- What is the percentage of male to female billionaires?
 - Which countries are home to billionaires? Also, how many billionaires live in each country?
-- Are a majority of billionaires male and over 50 years old?
 
 When comparing 2018 to 2022 data...
 
@@ -126,6 +127,8 @@ When comparing 2018 to 2022 data...
 
 ![2022_Category_vs_Billionaires](Images/2022_Category_vs_Billionaires.png)
 
+---
+
 #### Machine Learning Model
 
 Applying a supervised machine learning model to the dataset can reveal if hidden trends in the data can lead to accurate predictions. In this model, we will predict whether or not a billionaire has a final worth greater than the 2022 mean final worth value of $4.799 billion.
@@ -138,28 +141,57 @@ We completed 6 model instances with the following parameters:
 
 #### Section 1: 
 The cleaned data was read into a dataframe for the 2022 Forbes List. A column was added to the dataframe that captured billionaires with final worth > $4.799 billion. If their final worth was greater than $4.799 billion, a 1 is generated into the column and a 0 if their final worth is less than $4.799 billion.
+
 Target features are "rank", "age", "category", "country", "gender_F", and "gender_M" with the target column "finalWorth>4799".
 Training and testing the model under logistic regression, the model was able to produce results of 99.22% accuracy.
 
+The confusion matrix presents the prediction values.
+
+![Section 1 confusion matrix](Images/section1_cm.png)
+
 #### Section 2:
 This model takes the cleaned merge data from 2018 and 2022 and ran through another logistical regression model. Using the same framework as section 1, a new column was generated to identify billionaires with a networth over $4.799 billion.
-While this model generated a slightly low accuracy, the model is still very accurate with a result of 96.18%.
+
+While this model generated a slightly lower accuracy, the model is still very accurate with a result of 96.61%.
+
+The confusion matrix presents the prediction values.
+
+![Section 2 confusion matrix](Images/section2_cm.png)
 
 #### Section 3: 
 After further analysis of section 1 and 2 models, we wanted to see how much weight the "rank" column had on the machine learning model. The "rank" column was removed and the 2022 data from section 1 was ran through the logistical regression model to see how the results differ from the section 1 results. 
-The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 77.52% versus with the "rank" column 99.22%.
+
+The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 76.94% versus with the "rank" column 99.22%.
+
+The confusion matrix presents the prediction values. Note that there are 0 values in the true positive and false positive cells. This means no values were predicted to have final worth > $4.799 and turned out to actually have final worth < $4.799, and no values were predicted final worth < $4.799 and turned out to have final worth > $4.799. This could suggest over fitting, or the model aligning too closely with the limited data to be able to predict values outside of these datasets. If we were able to access more data, the overfitting problem could be corrected through extra training.
+
+![Section 3 confusion matrix](Images/section3_cm.png)
 
 #### Section 4:
 We then tested the 2018 and 2022 merged data with the revised feature list to see if the accuracy remains level with the model in section 3. 
-After running through the logistical regression model, the accuracy score came to be slightly less at 76.78% 
+
+After running through the logistical regression model, the accuracy score came to be slightly more at 80.49% 
+
+The confusion matrix presents the prediction values. Note that there are 0 values in the true positive and false positive cells. This means no values were predicted to have final worth > $4.799 and turned out to actually have final worth < $4.799, and no values were predicted final worth < $4.799 and turned out to have final worth > $4.799. This could suggest over fitting, or the model aligning too closely with the limited data to be able to predict values outside of these datasets. If we were able to access more data, the overfitting problem could be corrected through extra training.
+
+![Section 4 confusion matrix](Images/section4_cm.png)
 
 #### Section 5:
 After viewing the success of the LogisticRegression model, we decided to use the RandomForestClassifier ensemble model to rank the importance of the features. This will give us a full list of the features as well as scores to measure how critical they are in calculating whether a billionaire's final worth is greater than $4.799 billion. 
-After applying this model to the 2022 dataset, the accuracy score came to be slightly less at 73.45%. The feature importances were ranked in this order: "age" (0.5129), "country" (0.2561), "category" (0.2145), "gender_F" (0.0084), "gender_M" (0.0079). This suggests age is significantly more important to predicting final worth than the other features.* 
+After applying this model to the 2022 dataset, the accuracy score came to be slightly less at 76.94%. The feature importances were ranked in this order: "age" (0.5129), "country" (0.2561), "category" (0.2145), "gender_F" (0.0084), "gender_M" (0.0079). This suggests age is significantly more important to predicting final worth than the other features.* 
+
+The confusion matrix presents the prediction values.
+
+![Section 5 confusion matrix](Images/section5_cm.png)
 
 #### Section 6:
 We applied the RandomForestClassifier ensemble model to the 2018 and 2022 merged data to see if the feature importance rankings would hold steady with additional data. 
+
 The accuracy of this model came to be slightly higher than the model in section 5, but still below the accuracy score of section 4: 74.44%. The feature importances were ranked in this order: "age" (0.4468), "country" (0.3025), "category" (0.2390), "gender_M" (0.0061), "gender_F" (0.0055). This suggests age is significantly more important to predicting final worth than the other features. Also to note, the "gender_M" and "gender_F" features were flipped in this model. This can be supported by the fact that there were more females on the 2022 Forbes Billionaires List than on the 2018 list. We can also observe that "country" and "category" have more distance between them in the 2018 and 2022 merged data, suggesting "country" may have experienced some changes that occurred between the 2018 and 2022 lists.* 
+
+The confusion matrix presents the prediction values.
+
+![Section 6 confusion matrix](Images/section6_cm.png)
 
 <sub> * A note about features: "The feature importance scores returned by a random forest classifier are typically normalized so that they add up to 1.0, with higher scores indicating more important features. The values are not necessarily proportional to the percentage of the overall prediction that each feature contributes, and they are not bounded by 0 and 100.
 In general, it’s more important to focus on the relative importance of each feature, rather than the absolute magnitude of the scores. For example, if a feature has an importance score of 0.2 and another feature has a score of 0.1, it means that the first feature is twice as important as the second feature in the prediction task." </sub>
