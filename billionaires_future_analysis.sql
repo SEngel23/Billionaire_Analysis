@@ -35,3 +35,4 @@ INTO finalworth_2018v2022_allcolumns
 FROM forbes_2022_billionaires AS tt
     INNER JOIN forbes_2018_billionaires AS et
         ON (et.personname = tt.personname);
+		
