@@ -55,5 +55,7 @@ FROM countries_by_worth
 ORDER BY finalworth2022_sum DESC
 LIMIT 10;
 
+SELECT * FROM top_10_countries_by_2022_worth;
+
 
 		
