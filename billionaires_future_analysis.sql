@@ -46,5 +46,14 @@ GROUP BY country;
 
 SELECT * FROM countries_by_worth;
 
+-- create table with top 10 countries by 2022 networth
+SELECT 	country, 
+		finalworth2018_sum, 
+		finalworth2022_sum
+INTO top_10_countries_by_2022_worth
+FROM countries_by_worth
+ORDER BY finalworth2022_sum DESC
+LIMIT 10;
+
 
 		
