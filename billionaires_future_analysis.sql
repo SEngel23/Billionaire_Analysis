@@ -35,4 +35,12 @@ FROM forbes_2022_billionaires AS tt
         ON (et.personname = tt.personname);
 		
 SELECT * FROM finalworth_2018v2022_allcolumns;
+
+SELECT  country, 
+		SUM(finalworth_2018) finalworth2018_sum, 
+		SUM(finalworth_2022) finalworth2022_sum, 
+FROM    finalworth_2018v2022_allcolumns
+INTO	countries_by_worth
+GROUP BY country;
+
 		
