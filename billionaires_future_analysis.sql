@@ -44,6 +44,7 @@ INTO countries_by_worth
 FROM    finalworth_2018v2022_allcolumns
 GROUP BY country;
 
+SELECT * FROM countries_by_worth;
 
 
 		
