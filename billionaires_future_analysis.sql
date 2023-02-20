@@ -36,11 +36,14 @@ FROM forbes_2022_billionaires AS tt
 		
 SELECT * FROM finalworth_2018v2022_allcolumns;
 
+-- create table with networth sum per country
 SELECT  country, 
 		SUM(finalworth_2018) finalworth2018_sum, 
-		SUM(finalworth_2022) finalworth2022_sum, 
+		SUM(finalworth_2022) finalworth2022_sum
+INTO countries_by_worth
 FROM    finalworth_2018v2022_allcolumns
-INTO	countries_by_worth
 GROUP BY country;
+
+
 
 		
