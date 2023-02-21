@@ -27,7 +27,7 @@ We will be analyzing trends seen in the billionaire community throughout this pr
 
 We chose this topic as all team members had an interest in analyzing data relevant to finance. When compared to other financial topics, such as car price prediction and stock price prediction, the billionaire data sparked more interest as it represents a way to inspect economies over time and over world locations.
 
-Analyzing the demographic information of billionaires can provide insight into which industries are thriving, the accumulation of wealth, and the prevalent traits of billionaires such as age, gender, and location. 
+Analyzing the demographic information of billionaires can provide insight into which industries are thriving, the accumulation of wealth, and the prevalent traits of billionaires such as age, gender, and location.
 
 Our team will be interested to compare the number of billionaires in each industry, examine the gender ratio, and discover other demographic trends that present themselves between the data from 2018 and 2022.
 
@@ -37,7 +37,7 @@ The purpose of this analysis was to clean the raw csv file containing informatio
 
 ## Selected Topic: "The Forbes World’s Billionaires list"
 
-Forbes is an American based business magazine and media company that produces articles that shed light on finance, industry, investing, and marketing related topics. The Forbes website reaches more than 27 million unique visitors each month. One of the main attractions to the website is the Forbes World’s Billionaires list.  The Forbes Billionaire list is an actively managed snapshot of individual and family wealth in today's global economy. Currently, there are, “2,668 billionaires on Forbes’ 36th-annual ranking of the planet’s richest people—87 fewer than a year ago. They’re worth a collective $12.7 trillion—$400 billion less than in 2021.” One of the primary methods that Forbes uses to track net worth is through stock prices and exchange rates. Due to the volatility of the market billionaires can be made or lost through day to day trading and general market price fluctuations. Some billionaires on the list do provide their private financial statements to Forbes, but in general Forbes has to predict and discount the variety of assets that are private companies, real estate, and art.
+Forbes is an American based business magazine and media company that produces articles that shed light on finance, industry, investing, and marketing related topics. The Forbes website reaches more than 27 million unique visitors each month. One of the main attractions to the website is the Forbes World’s Billionaires list. The Forbes Billionaire list is an actively managed snapshot of individual and family wealth in today's global economy. Currently, there are, “2,668 billionaires on Forbes’ 36th-annual ranking of the planet’s richest people—87 fewer than a year ago. They’re worth a collective $12.7 trillion—$400 billion less than in 2021.” One of the primary methods that Forbes uses to track net worth is through stock prices and exchange rates. Due to the volatility of the market billionaires can be made or lost through day to day trading and general market price fluctuations. Some billionaires on the list do provide their private financial statements to Forbes, but in general Forbes has to predict and discount the variety of assets that are private companies, real estate, and art.
 
 ## Data Insights:
 
@@ -63,7 +63,7 @@ Forbes is an American based business magazine and media company that produces ar
 
 <img width="494" alt="data columns " src="https://user-images.githubusercontent.com/112028534/218921791-344dd98a-6fb7-45ae-8f4c-3583992e5a8f.png">
 
-- The first column is the person’s name which acts as the unique identifier and primary key. 
+- The first column is the person’s name which acts as the unique identifier and primary key.
 
 - The age column represents how old each billionaire is.
 
@@ -75,10 +75,9 @@ Forbes is an American based business magazine and media company that produces ar
 
 - The gender columns split the billionaires into male or female categories.
 
-
 ## Questions To Answer:
 
-We are interested in discovering who 2022 billionaires are. Since there was such a large shift in the total wealth owned by billionaires (loss of $400 billion compared to 2021 billionaires), there are several insights that can be uncovered when examining trends in billionaire demographics. 
+We are interested in discovering who 2022 billionaires are. Since there was such a large shift in the total wealth owned by billionaires (loss of $400 billion compared to 2021 billionaires), there are several insights that can be uncovered when examining trends in billionaire demographics.
 
 We will examine the following questions:
 
@@ -131,7 +130,8 @@ Applying a supervised machine learning model to the dataset can reveal if hidden
 
 We completed 6 model instances with the following parameters:
 
-#### Model Run 1: 
+#### Model Run 1:
+
 The cleaned data was read into a dataframe for the 2022 Forbes List. A column was added to the dataframe that captured billionaires with final worth > $4.799 billion. If their final worth was greater than $4.799 billion, a 1 is generated into the column and a 0 if their final worth is less than $4.799 billion.
 
 Target features are "rank", "age", "category", "country", "gender_F", and "gender_M" with the target column "finalWorth>4799".
@@ -142,6 +142,7 @@ The confusion matrix presents the prediction values.
 ![Section 1 confusion matrix](Images/section1_cm.png)
 
 #### Model Run 2:
+
 This model takes the cleaned merge data from 2018 and 2022 and ran through another logistical regression model. Using the same framework as section 1, a new column was generated to identify billionaires with a networth over $4.799 billion.
 
 While this model generated a slightly lower accuracy, the model is still very accurate with a result of 96.61%.
@@ -150,43 +151,46 @@ The confusion matrix presents the prediction values.
 
 ![Section 2 confusion matrix](Images/section2_cm.png)
 
-#### Model Run 3: 
-After further analysis of section 1 and 2 models, we wanted to see how much weight the "rank" column had on the machine learning model. The "rank" column was removed and the 2022 data from section 1 was ran through the logistical regression model to see how the results differ from the section 1 results. 
+#### Model Run 3:
+
+After further analysis of section 1 and 2 models, we wanted to see how much weight the "rank" column had on the machine learning model. The "rank" column was removed and the 2022 data from section 1 was ran through the logistical regression model to see how the results differ from the section 1 results.
 
 The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 76.94% versus with the "rank" column 99.22%.
 
 The confusion matrix presents the prediction values. Note that there are 0 values in the true positive and false positive cells. This means no values were predicted to have final worth > $4.799 and turned out to actually have final worth < $4.799, and no values were predicted final worth < $4.799 and turned out to have final worth > $4.799. This could suggest that the model is guessing conservatively, or the model is generalizing too heavily based on the limited data provided. If we were able to access more data, the generalization problem could be corrected through extra training.
 
-
 ![Section 3 confusion matrix](Images/section3_cm.png)
 
 #### Model Run 4:
-We then tested the 2018 and 2022 merged data with the revised feature list to see if the accuracy remains level with the model in section 3. 
 
-After running through the logistical regression model, the accuracy score came to be slightly more at 80.49% 
+We then tested the 2018 and 2022 merged data with the revised feature list to see if the accuracy remains level with the model in section 3.
+
+After running through the logistical regression model, the accuracy score came to be slightly more at 80.49%
 
 The confusion matrix presents the prediction values. Note that there are 0 values in the true positive and false positive cells. This means no values were predicted to have final worth > $4.799 and turned out to actually have final worth < $4.799, and no values were predicted final worth < $4.799 and turned out to have final worth > $4.799. This could suggest that the model is guessing conservatively, or the model is generalizing too heavily based on the limited data provided. If we were able to access more data, the generalization problem could be corrected through extra training.
 
 ![Section 4 confusion matrix](Images/section4_cm.png)
 
 #### Model Run 5:
-After viewing the success of the LogisticRegression model, we decided to use the RandomForestClassifier ensemble model to rank the importance of the features. This will give us a full list of the features as well as scores to measure how critical they are in calculating whether a billionaire's final worth is greater than $4.799 billion. 
-After applying this model to the 2022 dataset, the accuracy score came to be slightly less at 76.94%. The feature importances were ranked in this order: "age" (0.5129), "country" (0.2561), "category" (0.2145), "gender_F" (0.0084), "gender_M" (0.0079). This suggests age is significantly more important to predicting final worth than the other features.* 
+
+After viewing the success of the LogisticRegression model, we decided to use the RandomForestClassifier ensemble model to rank the importance of the features. This will give us a full list of the features as well as scores to measure how critical they are in calculating whether a billionaire's final worth is greater than $4.799 billion.
+After applying this model to the 2022 dataset, the accuracy score came to be slightly less at 76.94%. The feature importances were ranked in this order: "age" (0.5129), "country" (0.2561), "category" (0.2145), "gender_F" (0.0084), "gender_M" (0.0079). This suggests age is significantly more important to predicting final worth than the other features.\*
 
 The confusion matrix presents the prediction values.
 
 ![Section 5 confusion matrix](Images/section5_cm.png)
 
 #### Model Run 6:
-We applied the RandomForestClassifier ensemble model to the 2018 and 2022 merged data to see if the feature importance rankings would hold steady with additional data. 
 
-The accuracy of this model came to be slightly higher than the model in section 5, but still below the accuracy score of section 4: 74.44%. The feature importances were ranked in this order: "age" (0.4468), "country" (0.3025), "category" (0.2390), "gender_M" (0.0061), "gender_F" (0.0055). This suggests age is significantly more important to predicting final worth than the other features. Also to note, the "gender_M" and "gender_F" features were flipped in this model. This can be supported by the fact that there were more females on the 2022 Forbes Billionaires List than on the 2018 list. We can also observe that "country" and "category" have more distance between them in the 2018 and 2022 merged data, suggesting "country" may have experienced some changes that occurred between the 2018 and 2022 lists.* 
+We applied the RandomForestClassifier ensemble model to the 2018 and 2022 merged data to see if the feature importance rankings would hold steady with additional data.
+
+The accuracy of this model came to be slightly higher than the model in section 5, but still below the accuracy score of section 4: 74.44%. The feature importances were ranked in this order: "age" (0.4468), "country" (0.3025), "category" (0.2390), "gender_M" (0.0061), "gender_F" (0.0055). This suggests age is significantly more important to predicting final worth than the other features. Also to note, the "gender_M" and "gender_F" features were flipped in this model. This can be supported by the fact that there were more females on the 2022 Forbes Billionaires List than on the 2018 list. We can also observe that "country" and "category" have more distance between them in the 2018 and 2022 merged data, suggesting "country" may have experienced some changes that occurred between the 2018 and 2022 lists.\*
 
 The confusion matrix presents the prediction values.
 
 ![Section 6 confusion matrix](Images/section6_cm.png)
 
-<sub> * A note about features: "The feature importance scores returned by a random forest classifier are typically normalized so that they add up to 1.0, with higher scores indicating more important features. The values are not necessarily proportional to the percentage of the overall prediction that each feature contributes, and they are not bounded by 0 and 100.
+<sub> \* A note about features: "The feature importance scores returned by a random forest classifier are typically normalized so that they add up to 1.0, with higher scores indicating more important features. The values are not necessarily proportional to the percentage of the overall prediction that each feature contributes, and they are not bounded by 0 and 100.
 In general, it’s more important to focus on the relative importance of each feature, rather than the absolute magnitude of the scores. For example, if a feature has an importance score of 0.2 and another feature has a score of 0.1, it means that the first feature is twice as important as the second feature in the prediction task." </sub>
 
 ---
@@ -201,6 +205,9 @@ A logistic regression model can predict if a billionaire's final worth is greate
 The results were similar for the lone 2022 data and the 2018/ 2022 merged data. The merged 2018/ 2022 data was slightly less accurate than the lone 2022 data.
 
 - Do the average ages of billionaires vary across different countries? Do ages vary from the 2018 to 2022 lists?
+
+Yes, there are differences in the average age of billionaires across countries. However, the bulk of the average age range across countries falls between 55 and 75 with a few outliers below 55 and above 75. There doesn't seem to be any significant difference between the 2018 and 2022 datasets.
+
 - Which industries produced billionaires in specific age groups and demographics? Do these industries vary from the 2018 to 2022 lists?
 - Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?
 
