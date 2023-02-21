@@ -3,7 +3,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family:Georgia, 'Times New Roman', Times, serif
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
 }
 
 /* insert collapsible menu */
@@ -20,29 +21,29 @@ ul{
 list-style:none;  
 margin:0;
 padding:0;
-width:0px;
+width: 0px; 
 box-shadow:0 0 0px black,
            0 0 0 0px black;
 border-radius:0px black;  
-color: black;
+color: black; 
 
 }
 ul li{
 display:block;
 margin:15p;
 height:15px;  
-background:rgb(87, 228, 21, 0.997);
+background:rgba(186, 214, 215, 0.955);
 padding:20px;
 
 }
 ul li:hover{
-background:rgba(87, 228, 21, 0.997);
+background:rgba(150, 210, 213, 0.5);
 }
 ul li:last-child{
 border-bottom-left-radius:4px;
 border-bottom-right-radius:4px;
 color: black
-}
+} 
 label:before{
 height:2px;
 width:20px;
@@ -56,10 +57,11 @@ transition:all .5s;
 position:relative;
 opacity:0.5;
 color: black;
-}
+} 
+
 label{
 display:block;
-background:rgb(87, 228, 21, 0.997);
+background:rgb(186, 214, 215, 0.955);
 padding:10px;
 color:black;  
 cursor:pointer; 
@@ -87,12 +89,15 @@ header {
   height: 90vh; /* height of the section. vh stands for "viewport height" - height of the browser */    
   display: flex; /* activates the flexbox tools to manipulate the sections easily */
   flex-direction: column; /* makes the elements in the section go in a vertical/ column direction instead of horizontal */
+  padding: 0 20px;
+  width: auto;
+  margin:0 auto;
   justify-content: start; /* aligns across the horizontal axis */
   align-items: left; /* aligns across the vertical axis */
   background-color: black;
   color: white;
   font: sans-serif;
-  line-height: 2px;
+  line-height: auto;
   border-radius: 20px;
       padding-left: 20px;
       padding-top: 100px;
@@ -101,7 +106,9 @@ header {
 /* Set styles for the headers */
 header h1 {
   font-size: 4em;
+  white-space: normal;
 }
+
 
 section h2 {
   font-size: 3em;
@@ -112,13 +119,14 @@ section h2 {
     width: 100%; /* width of the section. extra wide for text blocks, tableau dashboard */
     height: 90vh; 
     margin: 0 auto; /* makes the margin center horizontally */
+    padding: 0 20px;
     display: flex; 
     flex-direction: column; 
     justify-content: start; 
     align-items: left;    
     background-color: rgba(14, 20, 14, 0.75);
     color: rgba(224, 248, 224);
-    line-height: 2px;
+    line-height: auto;
     border-radius: 20px;
         padding-left: 20px;
         padding-top: 50px;
@@ -134,7 +142,7 @@ section h2 {
     align-items: left;    
     background-color: rgba(14, 30, 14, 0.6);
     color: rgba(205, 220, 205, 0.832);
-    line-height: 2px;
+    line-height: auto;
     border-radius: 20px;
         padding-left: 20px;
         padding-top: 50px;
@@ -150,7 +158,7 @@ section h2 {
     align-items: left;    
     background-color: rgba(14, 40, 14, 0.45);
     color: rgba(10, 11, 10, 0.6);
-    line-height: 2px;
+    line-height: auto;
     border-radius: 20px;
         padding-left: 20px;
         padding-top: 50px;
@@ -166,7 +174,7 @@ section h2 {
     align-items: left;    
     background-color: rgba(14, 50, 14, 0.2);
     color: rgba(10, 12, 10, 0.75);
-    line-height: 2px;
+    line-height: auto;
     border-radius: 20px;
         padding-left: 20px;
         padding-top: 50px;
@@ -182,11 +190,13 @@ section h2 {
     align-items: left;    
     background-color: white;
     color: black;
-    line-height: 2px;
+    line-height: auto;
     border-radius: 20px;
         padding-left: 20px;
         padding-top: 50px;
   }
+
+
 
 /* Set style for the navigation bar */
 nav {
@@ -196,7 +206,7 @@ nav {
     background-color: black;
     font-size: 12px;
     align-items: center;  
-    white-space: nowrap; 
+    white-space: nowrap;
   }
   
   nav ul {
