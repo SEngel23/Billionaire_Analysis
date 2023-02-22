@@ -6,6 +6,82 @@ body {
   font-family: Arial, sans-serif;
 }
 
+/* insert collapsible menu */
+HTML CSSResult Skip Results Iframe
+EDIT ON
+body{
+font-family:Helvetica,Arial;
+color: black;
+
+
+}
+
+ul{
+list-style:none;  
+margin:0;
+padding: 0;
+width: auto; 
+
+
+}
+ul li2{
+display:block;
+margin:0;
+height:0;  
+width: auto;
+background:rgba(186, 214, 215, 0.955);
+padding:20px;
+
+}
+ul li2:hover{
+background:rgba(113, 158, 160, 0.75);
+}
+ul li2:last-child{
+border-bottom-left-radius:4px;
+border-bottom-right-radius:4px;
+/* color: black */
+} 
+label:before{
+height:2px;
+width:20px;
+background:black;
+display:inline-block;
+content:"";
+box-shadow:0px -5px 0px 0px  black,
+           0px -10px 0px 0px black;
+margin-right:0px;
+transition:all .5s;
+position:relative;
+opacity:0.5;
+/* color: black; */
+} 
+
+label{
+display:block;
+background:rgb(186, 214, 215, 0.955);
+padding:10px;
+color:black;  
+cursor:pointer; 
+
+}
+input[type="checkbox"]{
+visibility:hidden;
+position:absolute;
+}
+#collapse:checked ~ li2{
+display:none;
+margin-top:0; 
+color: black;
+}
+#collapse:checked + label:before{
+position:relative;
+right:calc(0px);
+opacity:1;
+color: black;
+
+}
+
+
 /* Set style for the header section */
 header {
   height: 50vh; /* height of the section. vh stands for "viewport height" - height of the browser */    
@@ -13,100 +89,130 @@ header {
   flex-direction: column; /* makes the elements in the section go in a vertical/ column direction instead of horizontal */
   justify-content: center; /* aligns across the horizontal axis */
   align-items: center; /* aligns across the vertical axis */
-  background-color: lightgray;
+  background-image: url('../images/money_background.png'); 
+  background-repeat: no-repeat;
+  background-size: cover; /* scales the image to cover the entire header */
+  background-position: center center; /* positions the image at the center of the header */
 }
 
 /* Set styles for the headers */
 header h1 {
   font-size: 4em;
+  white-space: normal;
 }
 
 section h2 {
   font-size: 3em;
+  white-space: normal;
+}
+
+section h3 {
+  font-size: 2em;
+  white-space: normal;
 }
 
 /* Set style for the body sections */
 .about-body {
-    width: 85%; /* width of the section. extra wide for text blocks, tableau dashboard */
-    height: 50vh; 
+    width: 100%; /* width of the section. extra wide for text blocks, tableau dashboard */
     margin: 0 auto; /* makes the margin center horizontally */
     display: flex; 
     flex-direction: column; 
     justify-content: center; 
     align-items: center;
+    background-color: rgba(14, 20, 14, 0.75);
+    color: rgba(224, 248, 224);
+    border-radius: 20px;
   }
 
+.text {
+  padding: 5%;
+}
+
 .findings-body {
-    width: 85%;
-    height: 50vh;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgba(14, 30, 14, 0.6);
+    color: rgba(205, 220, 205, 0.832);
+    border-radius: 20px;
   }
 
 .learning-model-body {
-    width: 85%;
-    height: 50vh;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgba(14, 40, 14, 0.45);
+    color: rgba(10, 11, 10, 0.6);
+    border-radius: 20px;
   }
 
 .tableau-body {
-    width: 85%;
+    width: 100%;
     height: 100%; /* made this 100% for the tableau dashboard to fit based on the tableau java code */
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgba(14, 50, 14, 0.2);
+    color: rgba(10, 12, 10, 0.75);
+    border-radius: 20px;
   }
 
-.viz-body {
-    width: 85%;
-    height: 50vh;
+.results-body {
+    width: auto;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgba(14, 50, 14, 0.1);
+    color: black;
+    border-radius: 20px;
+    line-height: auto;
   }
+
 
 /* Set style for the navigation bar */
 nav {
-    padding: 0 2em;
-    position: fixed; /* freezes the bar at the top of the page */
-    z-index: 999; /* makes it so the navigation bar is always on top of the other elements on the page */
-    background-color: darkgray;
-  }
-  
-  nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
+  padding: 0;
+  position: fixed; /* freezes the bar at the top of the page */
+  z-index: 999; /* makes it so the navigation bar is always on top of the other elements on the page */
+  font-size: 12px;
+  align-items: center;  
+  white-space: nowrap;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
 /* first-child and last-child are CSS specific attributes to call the nav list items */
-  nav ul li:first-child {
-    margin-right: auto;
-  }
-  
-  nav ul li:not(:first-child) {
-    margin-left: 1em;
-  }
-  
-  nav ul li:last-child {
-    margin-right: 0;
-  }
+nav ul div:first-child {
+  margin-right: auto;
+}
 
-  nav a {
-    color: white;
-    text-decoration: none;
-  }
+nav ul div:not(:first-child) {
+  margin-left: 1em;
+}
+
+nav ul div:last-child {
+  margin-right: 0;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+}
+
