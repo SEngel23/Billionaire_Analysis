@@ -43,10 +43,10 @@
         <h3>Questions to Answer</h3>
         <p>We are interested in discovering who 2022 billionaires are. Since there was such a large shift in the total wealth owned by billionaires (loss of $400 billion compared to 2021 billionaires), there are several insights that can be uncovered when examining trends in billionaire demographics.</p>
 
-          <ul><li>Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values? Will it be able to predict more accurately if 2018 list is included?</li>
-          <li>Do the average ages of billionaires vary across different countries? Do ages vary from the 2018 to 2022 lists?</li>
-          <li>Which industries produced billionaires in specific age groups and demographics? Do these industries vary from the 2018 to 2022 lists?</li>
-          <li>Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?</li></ul>
+          <ol><li>Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values? Will it be able to predict more accurately if 2018 list is included?</li><br>
+          <li>Do the average ages of billionaires vary across different countries? Do ages vary from the 2018 to 2022 lists?</li><br>
+          <li>Which industries produced billionaires in specific age groups and demographics? Do these industries vary from the 2018 to 2022 lists?</li><br>
+          <li>Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?</li></ol>
         </div>
         </div>
   </section>
@@ -57,10 +57,10 @@
         <p>In our data exploration phase of the project, we determined that we would use 7 of the original 23 data columns provided by the Forbes List. Net worth (also referred to as final worth), age, category (also referred to as industry), country, gender, and rank (also referred to as the Forbes List ranking) were kept to be used in the supervised learning model. </p>
         <p>Categorical variables were encoded to be numerical values using Python. This allowed us to use the country, category, and gender values in the machine learning prediction. We opted to drop null values from the data, and ensured duplicate values were not counted within the lone 2022 dataset.</p>
         <p><h3>Observations made: </h3>
-          <ul><li>Males make up 88.8% of total billionaires, while females make up only 11.2%. 
-            <li>There is not a steady correlation between age and net worth, suggesting several factors may be needed when considering a regression model to use.</li>
+          <ol><li>Males make up 88.8% of total billionaires, while females make up only 11.2%. </li><br>
+            <li>There is not a steady correlation between age and net worth, suggesting several factors may be needed when considering a regression model to use.</li><br>
             <li>Finance and Investments, Technology, and Manufacturing are the top industries for global billionaires in 2022.</li>
-          </ul>
+          </ol>
         </p>
         </div>
       </div>
@@ -71,27 +71,17 @@
       <div class="text">
       <p>Applying a supervised machine learning model to the dataset can reveal if hidden trends in the data can lead to accurate predictions. In this model, we will predict whether or not a billionaire has a final worth greater than the 2022 mean final worth value of $4.799 billion.</p>
       <p>In the first two runs of the Logistic Regression model, a binary column was added to the dataframe that captured billionaires with final worth greater than (>) $4.799 billion. The features used were columns "rank", "age", "category", "country", "gender_F", and "gender_M" with the target column "finalWorth>4799". Training and testing the model under logistic regression, the model was able to produce results of 99.22% accuracy due to the "rank" column being included.</p>
-      <p>In the next two runs of the model, the column "rank" was removed to see if the model could find trends in the remaining features without the orientation of "rank" involved. The model was less accurate with an accuracy score of 76.94% for the lone 2022 data and 80.49% for the 2018 and 2022 merged data run. It is of note that in the confusion matrix of these runs of the model, the true positive and false positive cells have values of 0. This could suggest that the model is guessing conservatively, or the model is generalizing too heavily based on the limited data provided.</p>
+      <p>In the next two runs of the model, the column "rank" was removed to see if the model could find trends in the remaining features without the orientation of "rank" involved. The model was less accurate with an accuracy score of 77.32% for the lone 2022 data and 77.94% for the 2018 and 2022 merged data run. It is of note that in the confusion matrix of these runs of the model, the true positive and false positive cells have values of 0. This could suggest that the model is guessing conservatively, or the model is generalizing too heavily based on the limited data provided.</p>
       <p>In the final two runs, a Random Forest Classifier was used to rank the importance of the features. This ensemble model gave us scores to measure how critical a feature was in calculating whether a billionaire's final worth is greater than $4.799 billion. </p>
-      <p>The accuracy scores of these models turned to be slightly less than the Logistic Regression model runs, with accuracy scores of 76.94% for the lone 2022 data and 74.44% for the 2018 and 2022 merged data.</p>
-      <p>Confusion matrix for the lone 2022 data after using the Random Forest Classifier model:</p>
+      <p>The accuracy scores of these models turned to be slightly less than the Logistic Regression model runs, with accuracy scores of 71.70% for the lone 2022 data and 74.87% for the 2018 and 2022 merged data.</p>
+      <p>Confusion matrix for the lone 2022 data after using the Random Forest Classifier model: <br></p>
       <img src = "../images/section5_cm.png" alt = "section 5 confusion matrix">
-      <p>Confusion matrix for the 2018 and 2022 merged data after using the Random Forest Classifier model:</p>
+      <p>Confusion matrix for the 2018 and 2022 merged data after using the Random Forest Classifier model: <br></p>
       <img src = "../images/section6_cm.png" alt = "section 6 confusion matrix">
-      <p>Features ranked by importance for lone 2022 data:
-        <ul><li>Age (0.5129)</li>
-        <li>Country (0.2561)</li>
-        <li>Category (0.2145)</li>
-        <li>Gender: Female (0.0084)</li>
-        <li>Gender: Male (0.0079)</li></ul>
-      </p>
-      <p>Features ranked by importance for 2018 and 2022 merged data:
-        <ul><li>Age (0.4468)</li>
-        <li>Country (0.3025)</li>
-        <li>Category (0.2390)</li>
-        <li>Gender: Male (0.0061)</li>
-        <li>Gender: Female (0.0055)</li></ul>
-      </p>
+      <p>Features ranked by importance for lone 2022 data: <br></p>
+      <img src = "../images/section5_fi.png" alt = "section 5 feature importance ranking list">
+      <p>Features ranked by importance for 2018 and 2022 merged data: <br></p>
+      <img src = "../images/section6_fi.png" alt = "section 6 feature importance ranking list">
       <p>This suggests Age is an important factor in both runs of this model. It also displays that the factor Country may have been a more important decider in past years, suggesting that new billionaires are originating from a variance of countries.</p>
     </div>
     </div>
@@ -100,52 +90,64 @@
     <div class="tableau-body">
       <h2>Tableau Dashboard</h2>
 
-      <!--Tableau Public Dashboard code-->
-      <div class='tableauPlaceholder' id='viz1676577644200' style='position: relative'>
-        <noscript><a href='#'><img alt='Billionaire Review - Story ' src='<div class='tableauPlaceholder' id='viz1677039718802' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;billionairedata&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='billionairedata&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;billionairedata&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1677039718802');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1816px';vizElement.style.height='1291px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script> />
-        </a></noscript>
+      <!--Tableau Dashboard Code-->
+      <div class='tableauPlaceholder' id='viz1677098266648' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;billionairedata&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript>
         <object class='tableauViz'  style='display:none;'>
           <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
           <param name='embed_code_version' value='3' /> 
           <param name='site_root' value='' />
-          <param name='name' value='CitibikeChallenge_16714130885560&#47;CitibikeReview-Story' />
+          <param name='name' value='billionairedata&#47;Story1' />
           <param name='tabs' value='no' /><param name='toolbar' value='yes' />
-          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;CitibikeChallenge_16714130885560&#47;CitibikeReview-Story&#47;1.png' /> 
+          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;billionairedata&#47;Story1&#47;1.png' /> 
           <param name='animate_transition' value='yes' />
           <param name='display_static_image' value='yes' />
           <param name='display_spinner' value='yes' />
           <param name='display_overlay' value='yes' />
           <param name='display_count' value='yes' />
           <param name='language' value='en-US' />
+          <param name='filter' value='publish=yes' />
         </object>
       </div>                
-      <script type='text/javascript'>
-          var divElement = document.getElementById('viz1676577644200');                    
-          var vizElement = divElement.getElementsByTagName('object')[0];                    
-          vizElement.style.width='1016px';vizElement.style.height='991px';                    
-          var scriptElement = document.createElement('script');                    
-          scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-          vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-        </script>
-
-    </div>
+      <script type='text/javascript'>                    
+      var divElement = document.getElementById('viz1677098266648');                    
+      var vizElement = divElement.getElementsByTagName('object')[0];                    
+      vizElement.style.width='100%';
+      vizElement.style.height='100%';                    
+      var scriptElement = document.createElement('script');                    
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+      </script>
   </section>
   <section class="results" id="results">
     <div class="results-body">
       <h2>Results</h2>
       <div class="text">
       <p>We examined who billionaires are throughout the data exploration, analysis, machine learning model prediction, and visualization process. After consideration of our data, we are able to answer our original questions with evidence from the 2018 and 2022 Forbes Billionaires Lists. </p>
+      <h3>Answering Our Questions: </h3>
       <p>
-        <ul><li>Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values? Will it be able to predict more accurately if 2018 list is included?
-              <ul>
-                <li>A logistic regression model can predict if a billionaire's final worth is greater than $4.799 billion with moderate accuracy. </li>
-                <li>The results were similar for the lone 2022 data and the 2018/ 2022 merged data. The merged 2018/ 2022 data was slightly less accurate than the lone 2022 data.</li>
-              </ul>
+        <ol><li>Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion based off feature input values? Will it be able to predict more accurately if 2018 list is included? 
+              <ol type="a">
+                <br><li>A logistic regression model can predict if a billionaire's final worth is greater than $4.799 billion with moderate accuracy. </li><br>
+                <li>The results were similar for the lone 2022 data and the 2018/ 2022 merged data. The merged 2018/ 2022 data was slightly less accurate than the lone 2022 data.</li><br>
+              </ol>
             </li>
-            <li>Do the average ages of billionaires vary across different countries? Do ages vary from the 2018 to 2022 lists?</li>
+            <li>Do the average ages of billionaires vary across different countries? Do ages vary from the 2018 to 2022 lists?
+              <ol type="a">
+                <br><li>Yes, there are differences in the average age of billionaires across countries. However, the bulk of the average age range across countries falls between 55 and 75 with a few outliers below 55 and above 75.</li><br> 
+                    <li>There doesn't seem to be any significant difference between the 2018 and 2022 datasets.</li>
+              </ol>
+            </li><br>
             <li>Which industries produced billionaires in specific age groups and demographics? Do these industries vary from the 2018 to 2022 lists?</li>
+              <ol type="a">
+                <br><li>In 2022, Technology produced almost half of the wealth seen in billionaires for those 49 and under. We see a major shift with the 50 to 59 demographic, where Technology continued to produce the most wealth for billionaires, but the percentage shrinks to about 25%. The 60 to 69 demographic sees the majority of billionaire wealth produced by the Finance & Investments industry. The Fashion & Retail industry produced the majority of billionaire wealth for the 70 to 79 and 80 to 89 demographics. Lastly, the Finance & Investments industry produced the majority of billionaire wealth for ages 90 and up.</li><br>
+                    <li>There are two major differences seen in 2018. The industry that produced most billionaires for groups 59 and under, as well as the 80 to 89 group, and 90 and up group follow similar trends as seen in 2022. However, we see some shifts in the 60 to 69 age demographic, with this demographic seeing the most wealth being created by the Fashion & Retail Industry. For the 70 to 79 demographic, there is a tie between Fashion & Retail and Finance & Investments creating the most wealth.</li>
+              </ol>
+            </li><br>
             <li>Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?</li>
-        </ul>
+            <ol type="a">
+              <br><li>enter answer here</li><br>
+                  <li>and here</li>
+        </ol>
       </p>
       </div>
     </div>
