@@ -1,0 +1,1375 @@
+personname,finalworth_2022,finalworth_2018,selfmade,age,category,country,gender
+Elon Musk,219000,19000,True,50,Automotive,United States,M
+Jeff Bezos,171000,112000,True,58,Technology,United States,M
+Bill Gates,129000,90000,True,66,Technology,United States,M
+Warren Buffett,118000,84000,True,91,Finance & Investments,United States,M
+Larry Page,111000,48000,True,49,Technology,United States,M
+Sergey Brin,107000,47000,True,48,Technology,United States,M
+Larry Ellison,106000,58000,True,77,Technology,United States,M
+Steve Ballmer,91400,38000,True,66,Technology,United States,M
+Mukesh Ambani,90700,40000,False,64,Diversified,India,M
+Michael Bloomberg,82000,50000,True,80,Media & Entertainment,United States,M
+Mark Zuckerberg,67300,71000,True,37,Technology,United States,M
+Jim Walton,66200,46000,False,73,Fashion & Retail,United States,M
+Alice Walton,65300,46000,False,72,Fashion & Retail,United States,F
+Charles Koch,60000,60000,False,86,Diversified,United States,M
+Amancio Ortega,59600,70000,True,86,Fashion & Retail,Spain,M
+Michael Dell,55100,22000,True,57,Technology,United States,M
+Zhang Yiming,50000,4000,True,38,Media & Entertainment,China,M
+Dieter Schwarz,47100,20000,False,82,Fashion & Retail,Germany,M
+Robin Zeng,44800,1000,True,53,Automotive,China,M
+Klaus-Michael Kuehne,37300,15000,False,84,Logistics,Switzerland,M
+Ma Huateng,37200,45000,True,50,Technology,China,M
+Giovanni Ferrero,36200,23000,False,57,Food & Beverage,Belgium,M
+Li Ka-shing,34800,34000,True,93,Diversified,Hong Kong,M
+Stephen Schwarzman,34800,12000,True,75,Finance & Investments,United States,M
+Lee Shau Kee,32600,30000,True,94,Real Estate,Hong Kong,M
+Len Blavatnik,32500,20000,True,64,Diversified,United Kingdom,M
+Jacqueline Mars,31700,23000,False,82,Food & Beverage,United States,F
+John Mars,31700,23000,False,86,Food & Beverage,United States,M
+Alain Wertheimer,31200,13000,False,73,Fashion & Retail,United States,M
+Gerard Wertheimer,31200,13000,False,71,Fashion & Retail,United States,M
+Gina Rinehart,30200,17000,False,68,Metals & Mining,Australia,F
+Shiv Nadar,28700,14000,True,76,Technology,India,M
+He Xiangjian,28300,20000,True,79,Manufacturing,China,M
+Dietrich Mateschitz,27400,23000,True,77,Food & Beverage,Austria,M
+Ken Griffin,27200,9000,True,53,Finance & Investments,United States,M
+Susanne Klatten,24300,25000,False,59,Automotive,Germany,F
+Cyrus Poonawalla,24300,9000,False,80,Healthcare,India,M
+Wang Wei,24300,18000,True,51,Service,China,M
+Qin Yinglin,24100,3000,True,56,Food & Beverage,China,M
+Takemitsu Takizaki,23900,17000,True,76,Manufacturing,Japan,M
+Li Shufu,23700,15000,True,58,Automotive,China,M
+Emmanuel Besnier,23500,14000,False,51,Food & Beverage,France,M
+R. Budi Hartono,23200,17000,False,81,Finance & Investments,Indonesia,M
+Leonard Lauder,23100,12000,False,89,Fashion & Retail,United States,M
+Jack Ma,22800,39000,True,57,Technology,China,M
+Michael Hartono,22300,16000,False,82,Manufacturing,Indonesia,M
+Eric Schmidt,22100,13000,True,66,Technology,United States,M
+Ray Dalio,22000,17000,True,72,Finance & Investments,United States,M
+Daniel Gilbert,22000,6000,True,60,Finance & Investments,United States,M
+Masayoshi Son,21300,22000,True,64,Telecom,Japan,M
+Abigail Johnson,21200,15000,False,60,Finance & Investments,United States,F
+Stefan Quandt,20700,22000,False,55,Automotive,Germany,M
+Huang Shilin,20300,1000,True,55,Automotive,China,M
+Thomas Peterffy,20100,20000,True,77,Finance & Investments,United States,M
+Radhakishan Damani,20000,10000,True,67,Fashion & Retail,India,M
+Pang Kang,19600,6000,True,66,Food & Beverage,China,M
+Wang Chuanfu,19500,5000,True,56,Automotive,China,M
+Vladimir Lisin,18400,19000,True,65,Metals & Mining,Russia,M
+Lakshmi Mittal,17900,18000,False,71,Metals & Mining,United Kingdom,M
+Andrew Forrest,17800,4000,True,60,Metals & Mining,Australia,M
+Wang Wenyin,17700,11000,True,54,Metals & Mining,China,M
+Li Xiting,17600,2000,True,71,Healthcare,China,M
+Stefan Persson,17600,16000,False,74,Fashion & Retail,Sweden,M
+Steve Cohen,17400,14000,True,65,Finance & Investments,United States,M
+Vladimir Potanin,17300,15000,True,61,Metals & Mining,Russia,M
+Sun Piaoyang,17100,7000,True,63,Healthcare,China,M
+Peter Woo,17000,12000,False,75,Real Estate,Hong Kong,M
+David Tepper,16700,11000,True,64,Finance & Investments,United States,M
+"John Menard, Jr.",16600,11000,True,82,Fashion & Retail,United States,M
+Kumar Birla,16500,11000,False,54,Diversified,India,M
+Carl Icahn,16500,16000,True,86,Finance & Investments,United States,M
+Lukas Walton,16500,15000,False,35,Fashion & Retail,United States,M
+James Ratcliffe,16300,16000,True,69,Manufacturing,United Kingdom,M
+Donald Bren,16200,16000,True,89,Real Estate,United States,M
+Xu Hang,16100,1000,True,55,Healthcare,China,M
+Lu Xiangyang,15700,3000,True,59,Automotive,China,M
+Dilip Shanghvi,15600,12000,True,66,Healthcare,India,M
+Eyal Ofer,15400,9000,False,71,Diversified,Monaco,M
+Mike Cannon-Brookes,15300,3000,True,42,Technology,Australia,M
+Wu Yajun,15300,7000,True,58,Real Estate,China,F
+Michael Platt,15200,6000,True,54,Finance & Investments,Switzerland,M
+Pavel Durov,15100,1000,True,37,Technology,United Arab Emirates,M
+Scott Farquhar,15100,3000,True,42,Technology,Australia,M
+Pallonji Mistry,15000,17000,False,92,Construction & Engineering,India,M
+Dang Yanbao,14800,1000,True,49,Metals & Mining,China,M
+Robert Pera,14600,4000,True,44,Technology,United States,M
+Donald Newhouse,14400,12000,False,92,Media & Entertainment,United States,M
+Uday Kotak,14300,10000,True,63,Finance & Investments,India,M
+Aliko Dangote,14000,14000,True,64,Manufacturing,Nigeria,M
+Leonid Mikhelson,14000,18000,True,66,Energy,Russia,M
+Liu Hanyuan,13650,1000,True,58,Food & Beverage,China,M
+Joseph Lau,13600,16000,True,70,Real Estate,Hong Kong,M
+Anders Holch Povlsen,13600,7000,False,49,Fashion & Retail,Denmark,M
+Dhanin Chearavanont,13500,14000,False,82,Diversified,Thailand,M
+Liu Yongxing,13200,6000,True,73,Service,China,M
+Alexey Mordashov,13200,18000,True,56,Metals & Mining,Russia,M
+Wang Jianlin,13200,30000,True,67,Real Estate,China,M
+David Duffield,12900,7000,True,81,Technology,United States,M
+Harry Triguboff,12800,9000,True,89,Real Estate,Australia,M
+Zhang Zhidong,12800,15000,True,50,Technology,China,M
+Chen Bang,12700,3000,True,56,Healthcare,China,M
+John Doerr,12700,7000,True,70,Technology,United States,M
+Jim Pattison,12200,6000,True,93,Diversified,Canada,M
+Charles Schwab,12200,9000,True,84,Finance & Investments,United States,M
+Goh Cheng Liang,12100,7000,True,94,Manufacturing,Singapore,M
+Charoen Sirivadhanabhakdi,12000,17000,True,77,Food & Beverage,Thailand,M
+John Fredriksen,11900,7000,True,77,Logistics,United Kingdom,M
+Mikhail Fridman,11800,15000,True,57,Energy,United Kingdom,M
+Sarath Ratanavadi,11800,3000,True,56,Energy,Thailand,M
+Robert Kuok,11700,14000,True,98,Diversified,Hong Kong,M
+Lei Jun,11700,12000,True,52,Technology,China,M
+Lui Che Woo,11600,20000,True,93,Gambling & Casinos,Hong Kong,M
+Brian Chesky,11500,3000,True,40,Technology,United States,M
+Israel Englander,11500,5000,True,73,Finance & Investments,United States,M
+Dustin Moskovitz,11500,14000,True,37,Technology,United States,M
+Alisher Usmanov,11500,12000,True,68,Metals & Mining,Russia,M
+Anthony Pratt,11400,5000,False,61,Manufacturing,Australia,M
+Pierre Omidyar,11300,10000,True,54,Technology,United States,M
+Gennady Timchenko,11300,16000,True,69,Energy,Russia,M
+Carl Cook,11100,8000,False,59,Healthcare,United States,M
+Andrey Melnichenko,11100,15000,True,50,Metals & Mining,Russia,M
+Philip Anschutz,10900,13000,False,82,Finance & Investments,United States,M
+David Cheriton,10900,6000,True,71,Technology,United States,M
+Alexander Otto,10900,11000,False,54,Real Estate,Germany,M
+Diane Hendricks,10700,5000,True,75,Construction & Engineering,United States,F
+Stanley Kroenke,10700,8000,True,74,Sports,United States,M
+Jerry Jones,10600,5000,True,79,Sports,United States,M
+Quek Leng Chan,10600,7000,False,80,Diversified,Malaysia,M
+Eduardo Saverin,10600,10000,True,40,Technology,Singapore,M
+Vagit Alekperov,10500,16000,True,71,Energy,Russia,M
+Idan Ofer,10500,3000,False,66,Diversified,United Kingdom,M
+"Chase Coleman, III.",10300,2000,True,46,Finance & Investments,United States,M
+Stefano Pessina,10300,11000,False,80,Fashion & Retail,Monaco,M
+Mikhail Prokhorov,10300,9000,True,56,Finance & Investments,Russia,M
+Marcel Herrmann Telles,10300,14000,True,72,Food & Beverage,Brazil,M
+Leon Black,10000,6000,True,70,Finance & Investments,United States,M
+Joe Gebbia,10000,3000,True,40,Technology,United States,M
+David Geffen,10000,8000,True,79,Media & Entertainment,United States,M
+Andrew Beal,9900,11000,True,69,Finance & Investments,United States,M
+George Kaiser,9900,7000,False,79,Energy,United States,M
+Luis Carlos Sarmiento,9900,12000,True,89,Finance & Investments,Colombia,M
+Jan Koum,9800,9000,True,46,Technology,United States,M
+Azim Premji,9800,18000,False,76,Technology,India,M
+Finn Rausing,9800,6000,False,67,Food & Beverage,United Kingdom,M
+Jorn Rausing,9800,7000,False,62,Food & Beverage,United Kingdom,M
+Kirsten Rausing,9800,6000,False,69,Food & Beverage,United Kingdom,F
+Wang Laisheng,9800,2000,True,57,Technology,China,M
+John Collison,9500,1000,True,31,Technology,United States,M
+Patrick Collison,9500,1000,True,33,Technology,United States,M
+Gordon Moore,9500,8000,True,93,Technology,United States,M
+Wang Laichun,9500,2000,True,54,Technology,China,F
+Graeme Hart,9400,10000,True,66,Finance & Investments,New Zealand,M
+Nathan Blecharczyk,9200,3000,True,38,Technology,United States,M
+James Dyson,9200,5000,True,74,Manufacturing,United Kingdom,M
+Ivan Glasenberg,9100,6000,True,65,Metals & Mining,Switzerland,M
+Jay Y. Lee,9100,7000,False,53,Diversified,South Korea,M
+Ann Walton Kroenke,9000,6000,False,73,Fashion & Retail,United States,F
+Friedhelm Loh,8900,3000,False,75,Manufacturing,Germany,M
+Xavier Niel,8900,8000,True,54,Telecom,France,M
+Michael Otto,8900,11000,False,78,Fashion & Retail,Germany,M
+Hui Ka Yan,8800,30000,True,63,Real Estate,China,M
+Pauline MacMillan Keinath,8800,7000,False,88,Food & Beverage,United States,F
+Li Ge,8800,2000,True,55,Healthcare,China,M
+Kushal Pal Singh,8800,6000,False,90,Real Estate,India,M
+Zong Qinghou,8800,9000,True,76,Food & Beverage,China,M
+Cai Kui,8700,4000,True,59,Real Estate,China,M
+Charles Ergen,8700,13000,True,69,Media & Entertainment,United States,M
+Bernard Marcus,8700,5000,True,92,Fashion & Retail,United States,M
+"Ernest Garcia, II.",8600,2000,True,64,Automotive,United States,M
+George Soros,8600,8000,True,91,Finance & Investments,United States,M
+Ernesto Bertarelli,8500,8000,False,56,Healthcare,Switzerland,M
+Tamara Gustavson,8500,4000,False,60,Service,United States,F
+Steven Rales,8400,5000,True,71,Manufacturing,United States,M
+Joseph Tsai,8400,9000,True,58,Technology,Hong Kong,M
+Carl Bennet,8300,4000,True,70,Finance & Investments,Sweden,M
+Robert Kraft,8300,6000,True,80,Sports,United States,M
+Chairul Tanjung,8300,3000,True,59,Diversified,Indonesia,M
+Manuel Villar,8300,3000,True,72,Real Estate,Philippines,M
+Jean-Michel Besnier,8200,5000,False,54,Food & Beverage,France,M
+Marie Besnier Beauvalot,8200,5000,False,41,Food & Beverage,France,F
+Gustaf Douglas,8200,3000,True,84,Diversified,Sweden,M
+Kjeld Kirk Kristiansen,8200,5000,False,74,Manufacturing,Denmark,M
+Sofie Kirk Kristiansen,8200,5000,False,46,Manufacturing,Denmark,F
+Stephen Ross,8200,7000,True,81,Real Estate,United States,M
+Marc Benioff,8100,4000,True,57,Technology,United States,M
+Francis Choi,8100,6000,True,74,Real Estate,Hong Kong,M
+Nancy Walton Laurie,8100,5000,False,70,Fashion & Retail,United States,F
+Georg Schaeffler,8100,25000,False,57,Automotive,Germany,M
+Yao Liangsong,8100,5000,True,57,Manufacturing,China,M
+George Roberts,8000,5000,True,78,Finance & Investments,United States,M
+Michael Rubin,8000,3000,True,49,Fashion & Retail,United States,M
+Patrick Ryan,8000,2000,True,84,Finance & Investments,United States,M
+Christopher Hohn,7900,3000,True,55,Finance & Investments,United Kingdom,M
+Marijke Mars,7900,5000,False,57,Food & Beverage,United States,F
+Pamela Mars,7900,5000,False,61,Food & Beverage,United States,F
+Valerie Mars,7900,5000,False,63,Food & Beverage,United States,F
+Victoria Mars,7900,5000,False,65,Food & Beverage,United States,F
+Georg Stumpf,7900,2000,True,49,Diversified,Austria,M
+Christy Walton,7900,7000,False,73,Fashion & Retail,United States,F
+Giorgio Armani,7800,8000,True,87,Fashion & Retail,Italy,M
+Jim Kennedy,7800,13000,False,74,Media & Entertainment,United States,M
+German Khan,7800,9000,True,60,Energy,United Kingdom,M
+Liang Wengen,7800,4000,True,65,Manufacturing,China,M
+Blair Parry-Okeden,7800,13000,False,71,Media & Entertainment,Australia,F
+Ding Shijia,7700,2000,True,58,Fashion & Retail,China,M
+Karel Komarek,7700,3000,True,53,Gambling & Casinos,Switzerland,M
+Henry Kravis,7700,5000,True,78,Finance & Investments,United States,M
+Frederik Paulsen,7700,7000,False,71,Healthcare,Switzerland,M
+Nassef Sawiris,7700,6000,False,61,Construction & Engineering,Egypt,M
+Xu Shihui,7700,11000,True,64,Food & Beverage,China,M
+Rahel Blocher,7600,5000,False,46,Manufacturing,Switzerland,F
+Shahid Khan,7600,7000,True,71,Automotive,United States,M
+Magdalena Martullo-Blocher,7600,5000,False,53,Manufacturing,Switzerland,F
+Jeffery Hildebrand,7500,3000,True,63,Energy,United States,M
+Michael Kim,7500,1000,True,58,Finance & Investments,South Korea,M
+Richard Kinder,7500,6000,True,77,Energy,United States,M
+David Shaw,7500,6000,True,71,Finance & Investments,United States,M
+John Malone,7400,8000,True,81,Media & Entertainment,United States,M
+Mike Adenuga,7300,5000,True,68,Diversified,Nigeria,M
+"Paul Tudor Jones, II.",7300,4000,True,67,Finance & Investments,United States,M
+Yuri Milner,7300,3000,True,60,Finance & Investments,United States,M
+Henry Samueli,7300,3000,True,67,Technology,United States,M
+Patrick Soon-Shiong,7300,7000,True,69,Healthcare,United States,M
+Michael Kadoorie,7200,7000,False,80,Energy,Hong Kong,M
+Niels Peter Louis-Hansen,7200,4000,False,74,Healthcare,Denmark,M
+Reinhold Schmieding,7200,4000,True,67,Healthcare,United States,M
+Wee Cho Yaw,7200,6000,False,93,Finance & Investments,Singapore,M
+Arthur Blank,7100,4000,True,79,Sports,United States,M
+J. Christopher Reyes,7100,4000,True,68,Food & Beverage,United States,M
+Jude Reyes,7100,4000,True,66,Food & Beverage,United States,M
+Judy Faulkner,7000,3000,True,78,Technology,United States,F
+Robin Li,7000,12000,True,53,Technology,China,M
+Roman Abramovich,6900,10000,True,55,Diversified,Russia,M
+Micky Arison,6900,9000,False,72,Service,United States,M
+Terry Gou,6900,8000,True,71,Technology,Taiwan,M
+Jiang Bin,6900,3000,True,55,Technology,China,M
+Vinod Khosla,6900,2000,True,67,Technology,United States,M
+Ralph Lauren,6900,6000,True,82,Fashion & Retail,United States,M
+Douglas Leone,6900,3000,True,64,Finance & Investments,United States,M
+Horst Julius Pudwill,6900,2000,True,77,Manufacturing,Hong Kong,M
+Harry Stine,6900,3000,True,80,Food & Beverage,United States,M
+Dennis Washington,6900,5000,True,87,Logistics,United States,M
+Stanley Druckenmiller,6800,4000,True,68,Finance & Investments,United States,M
+Jonathan Gray,6800,2000,True,52,Finance & Investments,United States,M
+Frank Lowy,6800,5000,True,91,Real Estate,Israel,M
+Ronda Stryker,6800,5000,False,67,Healthcare,United States,F
+Benu Gopal Bangur,6700,6000,False,90,Manufacturing,India,M
+James Goodnight,6700,9000,True,79,Technology,United States,M
+Dannine Avara,6600,5000,False,58,Energy,United States,F
+Patrick Drahi,6600,7000,True,58,Telecom,Switzerland,M
+Scott Duncan,6600,5000,False,39,Energy,United States,M
+Milane Frantz,6600,5000,False,52,Energy,United States,F
+Andreas Halvorsen,6600,3000,True,60,Finance & Investments,United States,M
+Law Kar Po,6600,5000,False,73,Real Estate,Hong Kong,M
+Nicolas Puech,6600,2000,False,79,Fashion & Retail,Switzerland,M
+Viktor Rashnikov,6600,9000,True,73,Manufacturing,Russia,M
+Dmitry Rybolovlev,6600,6000,True,55,Manufacturing,Monaco,M
+Chen Jianhua,6500,1000,True,51,Manufacturing,China,M
+John Grayken,6500,6000,True,65,Finance & Investments,United Kingdom,M
+Ray Lee Hunt,6500,4000,False,78,Energy,United States,M
+"Henry Nicholas, III.",6500,3000,True,62,Technology,United States,M
+John Overdeck,6500,4000,True,52,Finance & Investments,United States,M
+David Siegel,6500,4000,True,60,Finance & Investments,United States,M
+Juergen Blickle,6400,4000,False,75,Manufacturing,Germany,M
+Cheng Xue,6400,2000,True,52,Food & Beverage,China,F
+"Edward Johnson, IV.",6300,3000,False,57,Finance & Investments,United States,M
+Sri Prakash Lohia,6300,7000,False,69,Manufacturing,United Kingdom,M
+Bobby Murphy,6300,4000,True,33,Technology,United States,M
+Wu Jianshu,6300,1000,True,58,Automotive,China,M
+Bruce Kovner,6200,5000,True,77,Finance & Investments,United States,M
+Pham Nhat Vuong,6200,4000,True,53,Diversified,Vietnam,M
+Michal Solowow,6200,3000,True,59,Finance & Investments,Poland,M
+Leonard Stern,6200,4000,False,84,Real Estate,United States,M
+Rocco Commisso,6100,4000,True,72,Telecom,United States,M
+Jack Dorsey,6100,3000,True,45,Technology,United States,M
+Lin Li,6100,2000,True,58,Finance & Investments,China,M
+George Lucas,6100,5000,True,77,Media & Entertainment,United States,M
+Evan Spiegel,6100,4000,True,31,Technology,United States,M
+Zhao Yan,6100,1000,True,55,Diversified,China,F
+Tom Gores,6000,3000,True,57,Finance & Investments,United States,M
+Alexei Kuzmichev,6000,7000,True,59,Energy,Russia,M
+Fredrik Lundberg,6000,4000,False,70,Real Estate,Sweden,M
+John Morris,6000,4000,True,74,Fashion & Retail,United States,M
+Stephen Bisciotti,5900,4000,True,61,Sports,United States,M
+Barry Lam,5900,3000,True,72,Technology,Taiwan,M
+Michael Moritz,5900,4000,True,67,Technology,United States,M
+Teh Hong Piow,5900,6000,True,92,Finance & Investments,Malaysia,M
+Andre Esteves,5800,2000,True,53,Finance & Investments,Brazil,M
+Joshua Harris,5800,3000,True,57,Finance & Investments,United States,M
+Rakesh Jhunjhunwala,5800,3000,True,61,Finance & Investments,India,M
+Ludwig Merckle,5800,6000,False,57,Finance & Investments,Germany,M
+Sandra Ortega Mera,5800,6000,False,53,Fashion & Retail,Spain,F
+Terrence Pegula,5800,4000,True,71,Energy,United States,M
+Karen Pritzker,5800,5000,False,64,Finance & Investments,United States,F
+Mitchell Rales,5800,3000,True,65,Manufacturing,United States,M
+Wolfgang Reimann,5800,4000,False,69,Fashion & Retail,Germany,M
+Matthias Reimann-Andersen,5800,4000,False,57,Fashion & Retail,Germany,M
+Stefan Reimann-Andersen,5800,4000,False,58,Fashion & Retail,Austria,M
+Renate Reimann-Haas,5800,4000,False,70,Fashion & Retail,Austria,F
+Charles Simonyi,5800,2000,True,73,Technology,United States,M
+Radovan Vitek,5800,2000,True,50,Real Estate,Switzerland,M
+Aloys Wobben,5800,6000,True,70,Energy,Germany,M
+Sam Zell,5800,4000,True,80,Real Estate,United States,M
+Rainer Blickle,5700,4000,False,74,Manufacturing,Germany,M
+Clive Calder,5700,4000,True,75,Media & Entertainment,Cayman Islands,M
+Frits Goldschmeding,5700,5000,True,88,Service,Netherlands,M
+Ananda Krishnan,5700,7000,True,84,Telecom,Malaysia,M
+Joe Mansueto,5700,2000,True,65,Finance & Investments,United States,M
+Antony Ressler,5700,2000,True,60,Finance & Investments,United States,M
+Tse Ping,5700,3000,True,70,Healthcare,Hong Kong,M
+Tilman Fertitta,5600,4000,True,64,Food & Beverage,United States,M
+Prajogo Pangestu,5600,2000,False,77,Diversified,Indonesia,M
+"Edward Roski, Jr.",5600,5000,False,83,Real Estate,United States,M
+Teddy Sagi,5600,3000,True,50,Gambling & Casinos,Israel,M
+Thomas Straumann,5600,2000,False,58,Healthcare,Switzerland,M
+David Sun,5600,5000,True,70,Technology,United States,M
+John Tu,5600,5000,True,80,Technology,United States,M
+Alexander Abramov,5500,5000,True,63,Metals & Mining,Russia,M
+Neil Bluhm,5500,3000,True,84,Real Estate,United States,M
+Don Hankey,5500,2000,True,78,Finance & Investments,United States,M
+Jane Lauder,5500,2000,False,49,Fashion & Retail,United States,F
+Gwendolyn Sontheim Meyer,5500,4000,False,60,Food & Beverage,United States,F
+John Reece,5500,5000,True,65,Manufacturing,United Kingdom,M
+Eric Smidt,5500,2000,True,62,Fashion & Retail,United States,M
+Viktor Vekselberg,5500,14000,True,64,Energy,Russia,M
+Ronald Wanek,5500,2000,True,80,Manufacturing,United States,M
+John Brown,5400,3000,True,87,Healthcare,United States,M
+Andrew Currie,5400,5000,True,66,Manufacturing,United Kingdom,M
+Tom Golisano,5400,3000,True,80,Service,United States,M
+Hui Wing Mau,5400,8000,True,71,Real Estate,Hong Kong,M
+Daniel Kretinsky,5400,2000,True,46,Energy,Czechia,M
+Joe Lewis,5400,5000,True,85,Finance & Investments,Bahamas,M
+Shigenobu Nagamori,5400,5000,True,77,Manufacturing,Japan,M
+Kjell Inge Rokke,5400,3000,True,63,Logistics,Norway,M
+Wang Wenjing,5400,2000,True,57,Technology,China,M
+Samuel Yin,5400,3000,False,71,Diversified,Taiwan,M
+M.A. Yusuff Ali,5400,5000,True,66,Fashion & Retail,United Arab Emirates,M
+Denise Coates,5300,5000,True,54,Gambling & Casinos,United Kingdom,F
+Ken Fisher,5300,3000,True,71,Finance & Investments,United States,M
+Sumet Jiaravanon,5300,4000,False,87,Diversified,Thailand,M
+Nathan Kirsh,5300,4000,True,90,Fashion & Retail,Eswatini (Swaziland),M
+Rudolf Maag,5300,3000,True,76,Healthcare,Switzerland,M
+Gary Rollins,5300,4000,False,77,Service,United States,M
+Mark Scheinberg,5300,4000,True,48,Gambling & Casinos,United Kingdom,M
+Shen Guojun,5300,2000,True,59,Fashion & Retail,China,M
+Chip Wilson,5300,2000,True,65,Fashion & Retail,Canada,M
+James Chambers,5200,8000,False,64,Media & Entertainment,United States,M
+Chen Fashu,5200,2000,True,61,Finance & Investments,China,M
+Jaran Chiaravanont,5200,4000,False,92,Diversified,Thailand,M
+Ravi Jaipuria,5200,2000,False,67,Food & Beverage,India,M
+Koon Poh Keong,5200,2000,True,60,Manufacturing,Malaysia,M
+Li Liangbin,5200,1000,True,54,Manufacturing,China,M
+Liang Feng,5200,1000,True,53,Manufacturing,China,M
+Katharine Rayner,5200,8000,False,77,Media & Entertainment,United States,F
+Carlos Rodriguez-Pastor,5200,3000,False,62,Finance & Investments,Peru,M
+Margaretta Taylor,5200,8000,False,79,Media & Entertainment,United States,F
+You Xiaoping,5200,1000,True,64,Manufacturing,China,M
+Robert Bass,5100,4000,False,74,Energy,United States,M
+Jeff Greene,5100,3000,True,67,Real Estate,United States,M
+Montri Jiaravanont,5100,4000,False,91,Diversified,Thailand,M
+Elizabeth Johnson,5100,3000,False,58,Finance & Investments,United States,F
+Hiroshi Mikitani,5100,5000,True,57,Fashion & Retail,Japan,M
+Isaac Perlmutter,5100,4000,True,79,Media & Entertainment,United States,M
+Michael Pieper,5100,4000,True,76,Manufacturing,Switzerland,M
+Tsai Hong-tu,5100,2000,False,69,Finance & Investments,Taiwan,M
+Richard Tsai,5100,3000,False,64,Finance & Investments,Taiwan,M
+Shari Arison,5000,5000,False,64,Service,Israel,F
+Alain Bouchard,5000,3000,True,73,Fashion & Retail,Canada,M
+"Austen Cargill, II.",5000,4000,False,71,Food & Beverage,United States,M
+"James Cargill, II.",5000,4000,False,72,Food & Beverage,United States,M
+Leonid Fedun,5000,6000,True,66,Energy,Russia,M
+Johann Graf,5000,8000,True,75,Gambling & Casinos,Austria,M
+Huang Chulong,5000,1000,True,63,Real Estate,China,M
+Huang Yi,5000,2000,True,60,Automotive,China,M
+Vladimir Kim,5000,3000,True,61,Metals & Mining,Kazakhstan,M
+Ronald Lauder,5000,4000,False,78,Fashion & Retail,United States,M
+Marianne Liebmann,5000,4000,False,68,Food & Beverage,United States,F
+Tobi Lutke,5000,1000,True,41,Technology,Canada,M
+Thomas Pritzker,5000,4000,False,71,Finance & Investments,United States,M
+Peter Thiel,5000,2000,True,54,Finance & Investments,United States,M
+Hansjoerg Wyss,5000,5000,True,87,Healthcare,United States,M
+Zhang Tao,5000,1000,True,49,Fashion & Retail,China,M
+Daniel Ziff,5000,4000,False,50,Finance & Investments,United States,M
+Dirk Ziff,5000,4000,False,58,Finance & Investments,United States,M
+Robert Ziff,5000,4000,False,55,Finance & Investments,United States,M
+"Robert Rich, Jr.",4900,5000,False,81,Food & Beverage,United States,M
+Thomas Schmidheiny,4900,5000,False,76,Construction & Engineering,Switzerland,M
+Erik Selin,4900,1000,True,54,Real Estate,Sweden,M
+Daniel Tsai,4900,3000,False,65,Finance & Investments,Taiwan,M
+Dona Bertarelli,4800,4000,False,54,Healthcare,Switzerland,F
+Hu Baifan,4800,2000,True,59,Healthcare,China,M
+Bidzina Ivanishvili,4800,4000,True,66,Finance & Investments,Georgia,M
+Theo Mueller,4800,4000,False,82,Food & Beverage,Switzerland,M
+"Julian Robertson, Jr.",4800,4000,True,89,Finance & Investments,United States,M
+Marc Rowan,4800,3000,True,59,Finance & Investments,United States,M
+Frank Wang,4800,3000,True,41,Technology,China,M
+Yang Shaopeng,4800,1000,True,64,Logistics,China,M
+Leonid Boguslavsky,4700,1000,True,70,Finance & Investments,Italy,M
+Richard Branson,4700,5000,True,71,Diversified,British Virgin Islands,M
+Pierre Chen,4700,2000,True,65,Technology,Taiwan,M
+Scott Cook,4700,3000,True,69,Technology,United States,M
+Mark Cuban,4700,3000,True,63,Media & Entertainment,United States,M
+Martin Haefner,4700,3000,False,68,Technology,Switzerland,M
+Johnelle Hunt,4700,3000,True,90,Logistics,United States,F
+Lai Meisong,4700,3000,True,51,Logistics,China,M
+Richard Li,4700,4000,False,55,Telecom,Hong Kong,M
+Mangal Prabhat Lodha,4700,3000,True,66,Real Estate,India,M
+Igor Olenicoff,4700,4000,True,79,Real Estate,United States,M
+Mark Shoen,4700,3000,False,71,Automotive,United States,M
+Murat Ulker,4700,4000,False,63,Food & Beverage,Turkey,M
+Yu Yong,4700,4000,True,61,Finance & Investments,China,M
+Bubba Cathy,4600,4000,False,67,Food & Beverage,United States,M
+Dan Cathy,4600,4000,False,69,Food & Beverage,United States,M
+Jason Chang,4600,2000,True,77,Technology,Taiwan,M
+Bruce Flatt,4600,1000,True,56,Finance & Investments,United Kingdom,M
+Masatoshi Ito,4600,3000,True,97,Fashion & Retail,Japan,M
+Viatcheslav Kantor,4600,3000,True,68,Manufacturing,United Kingdom,M
+Richard White,4600,1000,True,67,Technology,Australia,M
+Michael Ashley,4500,3000,True,57,Fashion & Retail,United Kingdom,M
+Ron Baron,4500,2000,True,78,Finance & Investments,United States,M
+Bert Beveridge,4500,2000,True,60,Food & Beverage,United States,M
+David Bonderman,4500,2000,True,79,Finance & Investments,United States,M
+Guo Guangchang,4500,8000,True,55,Diversified,China,M
+Daryl Katz,4500,3000,True,60,Diversified,Canada,M
+Trevor Rees-Jones,4500,4000,True,70,Energy,United States,M
+Robert Rowling,4500,5000,False,68,Service,United States,M
+Mark Stevens,4500,2000,True,62,Finance & Investments,United States,M
+Gustav Magnar Witzoe,4500,1000,False,28,Food & Beverage,Norway,M
+Yeung Kin-man,4500,5000,True,58,Manufacturing,Hong Kong,M
+Andrej Babis,4400,4000,True,67,Food & Beverage,Czechia,M
+Barry Diller,4400,3000,True,80,Media & Entertainment,United States,M
+Marian Ilitch,4400,5000,True,89,Food & Beverage,United States,F
+Edwin Leong,4400,3000,True,70,Real Estate,Hong Kong,M
+N.R. Narayana Murthy,4400,2000,True,75,Technology,India,M
+Pyotr Aven,4300,5000,True,67,Finance & Investments,Russia,M
+Rick Caruso,4300,3000,True,63,Real Estate,United States,M
+Jim Davis,4300,2000,True,62,Service,United States,M
+Walter P.J. Droege,4300,10000,True,69,Finance & Investments,Germany,M
+Dan Friedkin,4300,4000,False,57,Automotive,United States,M
+Antti Herlin,4300,4000,False,65,Manufacturing,Finland,M
+W. Herbert Hunt,4300,2000,False,93,Energy,United States,M
+Jason Jiang,4300,6000,True,49,Media & Entertainment,China,M
+"Rupert Johnson, Jr.",4300,4000,False,81,Finance & Investments,United States,M
+Chris Larsen,4300,4000,True,61,Finance & Investments,United States,M
+Richard Schulze,4300,4000,True,81,Fashion & Retail,United States,M
+Paul Singer,4300,2000,True,77,Finance & Investments,United States,M
+Mark Walter,4300,2000,True,61,Finance & Investments,United States,M
+Ty Warner,4300,2000,True,77,Real Estate,United States,M
+Rinat Akhmetov,4200,5000,True,55,Metals & Mining,Ukraine,M
+Bernard Broermann,4200,4000,True,78,Healthcare,Germany,M
+Daniel D'Aniello,4200,2000,True,75,Finance & Investments,United States,M
+Piero Ferrari,4200,2000,False,76,Automotive,Italy,M
+Carlo Fidani,4200,2000,False,67,Real Estate,Canada,M
+Yakir Gabay,4200,3000,True,55,Real Estate,United Kingdom,M
+Jaime Gilinski Bacal,4200,3000,False,64,Finance & Investments,United Kingdom,M
+Bertil Hult,4200,4000,True,81,Service,Switzerland,M
+Lee Yin Yee,4200,1000,True,70,Manufacturing,Hong Kong,M
+Daniel Loeb,4200,3000,True,60,Finance & Investments,United States,M
+Ajay Piramal,4200,4000,False,66,Healthcare,India,M
+Lynsi Snyder,4200,1000,False,39,Food & Beverage,United States,F
+Peter Spuhler,4200,2000,True,62,Manufacturing,Switzerland,M
+Kerry Stokes,4200,3000,True,81,Diversified,Australia,M
+Jon Stryker,4200,2000,False,63,Healthcare,United States,M
+Vincent Viola,4200,2000,True,66,Finance & Investments,United States,M
+Romesh T. Wadhwani,4200,3000,True,74,Technology,United States,M
+Senapathy Gopalakrishnan,4100,1000,True,67,Technology,India,M
+James Irving,4100,8000,False,94,Diversified,Canada,M
+Samuel Tak Lee,4100,4000,False,82,Real Estate,Hong Kong,M
+Thai Lee,4100,1000,True,63,Technology,United States,F
+Eric Lefkofsky,4100,2000,True,52,Technology,United States,M
+Thomas Secunda,4100,2000,True,67,Media & Entertainment,United States,M
+Shaul Shani,4100,3000,True,67,Telecom,Italy,M
+E. Joe Shoen,4100,2000,False,72,Automotive,United States,M
+Steven Udvar-Hazy,4100,3000,True,76,Service,United States,M
+Russ Weiner,4100,4000,True,51,Food & Beverage,United States,M
+Somphote Ahunai,4000,3000,True,54,Energy,Thailand,M
+Patrizio Bertelli,4000,3000,True,76,Fashion & Retail,Italy,M
+Rakesh Gangwal,4000,3000,True,68,Service,United States,M
+Michael Herz,4000,5000,False,78,Fashion & Retail,Germany,M
+Wolfgang Herz,4000,5000,False,71,Fashion & Retail,Germany,M
+Arthur Irving,4000,3000,False,92,Energy,Canada,M
+Marc Ladreit de Lacharriere,4000,3000,True,81,Finance & Investments,France,M
+Patrick Lee,4000,4000,True,80,Manufacturing,Hong Kong,M
+Gilles Martin,4000,2000,True,58,Healthcare,France,M
+Akio Nitori,4000,4000,True,78,Fashion & Retail,Japan,M
+Daniel Och,4000,3000,True,61,Finance & Investments,United States,M
+Pankaj Patel,4000,5000,False,69,Healthcare,India,M
+John Paulson,4000,6000,True,66,Finance & Investments,United States,M
+Miuccia Prada,4000,3000,False,72,Fashion & Retail,Italy,F
+Jean (Gigi) Pritzker,4000,3000,False,59,Service,United States,F
+Juan Roig,4000,4000,False,72,Fashion & Retail,Spain,M
+David Rubenstein,4000,2000,True,72,Finance & Investments,United States,M
+Howard Schultz,4000,2000,True,68,Food & Beverage,United States,M
+Dan Snyder,4000,2000,True,57,Sports,United States,M
+Jerzy Starak,4000,1000,True,74,Healthcare,Poland,M
+Kelcy Warren,4000,4000,True,66,Energy,United States,M
+Hubert Burda,3900,3000,False,82,Media & Entertainment,Germany,M
+Francesco Gaetano Caltagirone,3900,2000,True,79,Construction & Engineering,Italy,M
+"Stephen Mandel, Jr.",3900,2000,True,66,Finance & Investments,United States,M
+Gabe Newell,3900,5000,True,59,Gambling & Casinos,United States,M
+Maja Oeri,3900,2000,False,67,Healthcare,Switzerland,F
+Neil Shen,3900,1000,True,54,Finance & Investments,China,M
+Helmut Sohmen,3900,1000,False,82,Logistics,Hong Kong,M
+Donald Sterling,3900,3000,True,87,Real Estate,United States,M
+"William Conway, Jr.",3800,2000,True,72,Finance & Investments,United States,M
+Luca Garavoglia,3800,2000,False,53,Food & Beverage,Italy,M
+Jimmy Haslam,3800,3000,False,68,Fashion & Retail,United States,M
+Timur Kulibaev,3800,3000,True,55,Finance & Investments,Kazakhstan,M
+Dinara Kulibaeva,3800,3000,False,54,Finance & Investments,Kazakhstan,F
+Michael Milken,3800,3000,True,75,Finance & Investments,United States,M
+Denis O'Brien,3800,4000,True,63,Telecom,Ireland,M
+James Packer,3800,4000,False,54,Gambling & Casinos,United States,M
+Leena Tewari,3800,2000,False,64,Healthcare,India,F
+Yitzhak Tshuva,3800,3000,True,73,Real Estate,Israel,M
+Zeng Fangqin,3800,3000,True,56,Technology,China,F
+Zhou Bajin,3800,1000,True,86,Manufacturing,China,M
+William Berkley,3700,1000,True,75,Finance & Investments,United States,M
+John Catsimatidis,3700,3000,True,73,Energy,United States,M
+Che Jianxing,3700,4000,True,55,Fashion & Retail,China,M
+Gustavo Denegri,3700,2000,True,85,Healthcare,Italy,M
+Charles Edelstenne,3700,1000,True,84,Manufacturing,France,M
+Reed Hastings,3700,2000,True,61,Media & Entertainment,United States,M
+"Amos Hostetter, Jr.",3700,3000,True,85,Media & Entertainment,United States,M
+Friedrich Knapp,3700,1000,True,70,Fashion & Retail,Germany,M
+William Lauder,3700,1000,False,61,Fashion & Retail,United States,M
+Li Guoqiang,3700,1000,True,58,Automotive,China,M
+Low Tuck Kwong,3700,1000,True,73,Energy,Indonesia,M
+Anthony Pritzker,3700,3000,False,61,Service,United States,M
+Ira Rennert,3700,3000,True,87,Finance & Investments,United States,M
+"Bernard Saul, II.",3700,3000,False,89,Finance & Investments,United States,M
+Steven Spielberg,3700,3000,True,75,Media & Entertainment,United States,M
+Wong Luen Hei,3700,1000,True,60,Manufacturing,Hong Kong,M
+Cho Tak Wong,3600,2000,True,75,Manufacturing,China,M
+Charles Cohen,3600,3000,False,70,Real Estate,United States,M
+Martin Ebner,3600,3000,True,76,Finance & Investments,Switzerland,M
+David Filo,3600,5000,True,55,Technology,United States,M
+Miguel Fluxa Rossello,3600,4000,False,83,Service,Spain,M
+John Henry,3600,2000,True,72,Sports,United States,M
+Hu Kaijun,3600,2000,True,60,Healthcare,China,M
+Peter Kellogg,3600,3000,False,79,Finance & Investments,United States,M
+James Leprino,3600,3000,False,84,Food & Beverage,United States,M
+Iskander Makhmudov,3600,7000,True,58,Metals & Mining,Russia,M
+Daniel Mate,3600,2000,True,58,Metals & Mining,Switzerland,M
+Aristotelis Mistakidis,3600,2000,True,60,Metals & Mining,Switzerland,M
+Arturo Moreno,3600,2000,True,75,Sports,United States,M
+Nan Cunhui,3600,1000,True,58,Manufacturing,China,M
+Julio Ponce Lerou,3600,4000,True,76,Metals & Mining,Chile,M
+Chandru Raheja,3600,2000,False,81,Real Estate,India,M
+Shi Yuzhu,3600,2000,True,59,Diversified,China,M
+Jerry Speyer,3600,3000,True,81,Real Estate,United States,M
+Tung Chee Chen,3600,2000,False,79,Logistics,Hong Kong,M
+Roger Wang,3600,4000,True,73,Fashion & Retail,China,M
+Wu Shaoxun,3600,7000,True,66,Food & Beverage,China,M
+Carl Douglas,3500,1000,False,60,Diversified,Sweden,M
+Eric Douglas,3500,1000,False,53,Diversified,Sweden,M
+Juan Carlos Escotet,3500,4000,True,62,Finance & Investments,Spain,M
+Fiona Geminder,3500,2000,False,57,Manufacturing,Australia,F
+James Irsay,3500,2000,False,62,Sports,United States,M
+Kuok Khoon Hong,3500,2000,False,72,Manufacturing,Singapore,M
+Jeffrey Lurie,3500,2000,False,70,Sports,United States,M
+Mary Alice Dorrance Malone,3500,3000,False,72,Food & Beverage,United States,F
+Ronald McAulay,3500,3000,False,86,Energy,Hong Kong,M
+Arnon Milchan,3500,3000,True,77,Media & Entertainment,Israel,M
+Masahiro Noda,3500,1000,True,83,Technology,Japan,M
+Lynn Schusterman,3500,3000,False,83,Energy,United States,F
+Gil Shwed,3500,2000,True,53,Technology,Israel,M
+Thomas Siebel,3500,2000,True,69,Technology,United States,M
+Friede Springer,3500,5000,False,79,Media & Entertainment,Germany,F
+Wang Zhenhua,3500,3000,True,60,Real Estate,China,M
+Hans Peter Wild,3500,3000,False,80,Food & Beverage,Switzerland,M
+"William Wrigley, Jr.",3500,2000,False,58,Food & Beverage,United States,M
+Xia Zuoquan,3500,1000,True,60,Automotive,China,M
+Xue Hua,3500,1000,True,52,Manufacturing,China,M
+Mohed Altrad,3400,2000,True,74,Construction & Engineering,France,M
+Sid Bass,3400,3000,False,79,Energy,United States,M
+Nick Caporella,3400,3000,True,86,Food & Beverage,United States,M
+David Gottesman,3400,2000,True,95,Finance & Investments,United States,M
+John Middleton,3400,3000,False,67,Food & Beverage,United States,M
+Nandan Nilekani,3400,1000,True,66,Technology,India,M
+Bob Parsons,3400,2000,True,71,Technology,United States,M
+Prasert Prasarttong-Osoth,3400,3000,True,89,Healthcare,Thailand,M
+Richard Sands,3400,3000,False,71,Food & Beverage,United States,M
+Robert Sands,3400,3000,False,63,Food & Beverage,United States,M
+T. Denny Sanford,3400,2000,True,86,Finance & Investments,United States,M
+Naguib Sawiris,3400,4000,False,67,Telecom,Egypt,M
+Pavel Tykac,3400,1000,True,57,Metals & Mining,Czechia,M
+Meg Whitman,3400,3000,True,65,Technology,United States,F
+An Kang,3300,1000,True,73,Healthcare,China,M
+John Arnold,3300,3000,True,48,Finance & Investments,United States,M
+Tomasz Biernacki,3300,1000,True,49,Fashion & Retail,Poland,M
+Ralph Dommermuth,3300,5000,True,58,Technology,Germany,M
+Walter Faria,3300,3000,True,67,Food & Beverage,Brazil,M
+Bob Gaglardi,3300,2000,True,81,Real Estate,Canada,M
+John Gandel,3300,4000,False,87,Real Estate,Australia,M
+Micky Jagtiani,3300,4000,False,70,Fashion & Retail,United Arab Emirates,M
+H. Fisk Johnson,3300,3000,False,63,Manufacturing,United States,M
+S. Curtis Johnson,3300,3000,False,66,Manufacturing,United States,M
+Helen Johnson-Leipold,3300,3000,False,65,Manufacturing,United States,F
+Miguel Krigsner,3300,1000,True,72,Fashion & Retail,Brazil,M
+Lin Ming-hsiung,3300,1000,True,72,Fashion & Retail,Taiwan,M
+Kiran Mazumdar-Shaw,3300,3000,True,69,Healthcare,India,F
+Patrice Motsepe,3300,2000,True,60,Metals & Mining,South Africa,M
+Alfred Oetker,3300,2000,False,55,Fashion & Retail,Germany,M
+Carl Ferdinand Oetker,3300,2000,False,49,Fashion & Retail,Germany,M
+Julia Oetker,3300,2000,False,43,Fashion & Retail,Germany,F
+Or Wai Sheun,3300,2000,True,70,Real Estate,Hong Kong,M
+Jay Paul,3300,2000,True,74,Real Estate,United States,M
+Theodore Rachmat,3300,1000,False,78,Diversified,Indonesia,M
+John Sall,3300,4000,True,74,Technology,United States,M
+Stefan von Holtzbrinck,3300,1000,False,58,Media & Entertainment,Germany,M
+Nusli Wadia,3300,6000,False,78,Food & Beverage,India,M
+Steve Wynn,3300,3000,True,80,Gambling & Casinos,United States,M
+Vanich Chaiyawan,3200,3000,True,90,Finance & Investments,Thailand,M
+James Clark,3200,2000,True,78,Technology,United States,M
+Jack Cowin,3200,1000,True,79,Food & Beverage,Australia,M
+Sergei Galitsky,3200,4000,True,54,Fashion & Retail,Russia,M
+Peter Gilgan,3200,3000,True,71,Construction & Engineering,Canada,M
+Joseph Grendys,3200,2000,True,60,Food & Beverage,United States,M
+Thomas Hagen,3200,2000,False,86,Finance & Investments,United States,M
+Michael Hintze,3200,2000,True,68,Finance & Investments,United Kingdom,M
+Pansy Ho,3200,5000,False,59,Gambling & Casinos,Hong Kong,F
+Alan Howard,3200,1000,True,58,Finance & Investments,Switzerland,M
+Kei Hoi Pang,3200,5000,True,56,Real Estate,Hong Kong,M
+Najib Mikati,3200,2000,True,66,Telecom,Lebanon,M
+Taha Mikati,3200,2000,True,77,Telecom,Lebanon,M
+Gail Miller,3200,1000,True,78,Automotive,United States,F
+Vikas Oberoi,3200,2000,False,51,Real Estate,India,M
+"H. Ross Perot, Jr.",3200,2000,False,63,Real Estate,United States,M
+Penny Pritzker,3200,2000,False,62,Finance & Investments,United States,F
+Yasumitsu Shigeta,3200,4000,True,57,Telecom,Japan,M
+Rita Tong Liu,3200,3000,True,73,Real Estate,Hong Kong,F
+Zhang Daocai,3200,1000,True,72,Diversified,China,M
+John Caudwell,3100,2000,True,69,Telecom,United Kingdom,M
+Philippe Foriel-Destezet,3100,2000,True,86,Service,United Kingdom,M
+Mitchell Goldhar,3100,2000,True,60,Real Estate,Canada,M
+Otto Happel,3100,3000,False,74,Construction & Engineering,Switzerland,M
+Peter Hargreaves,3100,3000,True,75,Finance & Investments,United Kingdom,M
+Lu Weiding,3100,1000,False,51,Diversified,China,M
+Harsh Mariwala,3100,2000,False,70,Food & Beverage,India,M
+Sergei Popov,3100,4000,True,50,Finance & Investments,Switzerland,M
+Haim Saban,3100,3000,True,77,Media & Entertainment,United States,M
+Pat Stryker,3100,3000,False,65,Healthcare,United States,F
+Jeff Sutton,3100,4000,True,62,Real Estate,United States,M
+Jon Yarbrough,3100,2000,True,64,Gambling & Casinos,United States,M
+Yi Zheng,3100,1000,True,51,Technology,China,M
+Zhang Fan,3100,2000,True,56,Technology,China,M
+William Ackman,3000,1000,True,55,Finance & Investments,United States,M
+Markus Blocher,3000,1000,False,51,Manufacturing,Switzerland,M
+Eva Maria Bucher-Haefner,3000,2000,False,65,Technology,Switzerland,F
+Todd Christopher,3000,2000,True,59,Fashion & Retail,United States,M
+Gudrun Heine,3000,1000,False,67,Healthcare,Germany,F
+Heidi Horten,3000,3000,False,81,Fashion & Retail,Austria,F
+Liang Yunchao,3000,2000,True,53,Food & Beverage,China,M
+Strive Masiyiwa,3000,1000,True,61,Telecom,United Kingdom,M
+Masahiro Miki,3000,3000,True,66,Fashion & Retail,Japan,M
+Karsanbhai Patel,3000,3000,True,78,Diversified,India,M
+Arvind Poddar,3000,2000,False,64,Automotive,India,M
+Remo Ruffini,3000,1000,True,60,Fashion & Retail,Italy,M
+Eddy Kusnadi Sariaatmadja,3000,1000,True,68,Media & Entertainment,Indonesia,M
+Sybill Storz,3000,1000,False,84,Healthcare,Germany,F
+Lawrence Stroll,3000,2000,True,62,Fashion & Retail,Switzerland,M
+Donald Trump,3000,3000,False,75,Real Estate,United States,M
+John Tyson,3000,2000,False,68,Food & Beverage,United States,M
+Rufino Vigil Gonzalez,3000,1000,True,73,Metals & Mining,Mexico,M
+Charles Zegar,3000,2000,True,74,Media & Entertainment,United States,M
+Mortimer Zuckerman,3000,2000,True,84,Real Estate,United States,M
+Juan Abello,2900,2000,False,80,Finance & Investments,Spain,M
+Miriam Baumann-Blocher,2900,1000,False,47,Manufacturing,Switzerland,F
+Nicolas Berggruen,2900,1000,False,60,Real Estate,United States,M
+Joseph Edelman,2900,1000,True,66,Finance & Investments,United States,M
+N. Murray Edwards,2900,1000,True,62,Energy,United Kingdom,M
+Jane Goldman,2900,3000,False,66,Real Estate,United States,F
+Hamilton James,2900,1000,True,70,Finance & Investments,United States,M
+Li Zhongchu,2900,2000,True,58,Technology,China,M
+"Drayton McLane, Jr.",2900,2000,False,85,Fashion & Retail,United States,M
+Roger Penske,2900,1000,True,85,Automotive,United States,M
+Jean Salata,2900,1000,True,56,Finance & Investments,Hong Kong,M
+Martua Sitorus,2900,1000,True,62,Manufacturing,Singapore,M
+Zygmunt Solorz-Zak,2900,2000,True,65,Media & Entertainment,Poland,M
+Warren Stephens,2900,2000,False,65,Finance & Investments,United States,M
+Frank VanderSloot,2900,2000,True,73,Fashion & Retail,United States,M
+Zhou Jianping,2900,4000,True,61,Fashion & Retail,China,M
+Brian Acton,2800,6000,True,50,Technology,United States,M
+Bill Alfond,2800,1000,False,73,Fashion & Retail,United States,M
+Susan Alfond,2800,1000,False,76,Fashion & Retail,United States,F
+Ted Alfond,2800,1000,False,77,Fashion & Retail,United States,M
+Maurizio Billi,2800,1000,False,64,Healthcare,Brazil,M
+Otto Philipp Braun,2800,4000,False,44,Healthcare,Germany,M
+Garrett Camp,2800,4000,True,43,Technology,United States,M
+John Paul DeJoria,2800,3000,True,77,Fashion & Retail,United States,M
+Beda Diethelm,2800,1000,True,81,Healthcare,Switzerland,M
+K. Dinesh,2800,1000,True,67,Technology,India,M
+Bennett Dorrance,2800,2000,False,76,Food & Beverage,United States,M
+Marcel Erni,2800,2000,True,57,Finance & Investments,Switzerland,M
+Abhay Firodia,2800,2000,False,77,Automotive,India,M
+Alfred Gantner,2800,2000,True,54,Finance & Investments,Switzerland,M
+Allan Goldman,2800,3000,False,79,Real Estate,United States,M
+Amy Goldman Fowler,2800,3000,False,67,Real Estate,United States,F
+J. Tomilson Hill,2800,1000,True,73,Finance & Investments,United States,M
+James Jannard,2800,4000,True,72,Fashion & Retail,United States,M
+Travis Kalanick,2800,4000,True,45,Technology,United States,M
+Diane Kemper,2800,3000,False,76,Real Estate,United States,F
+Kwek Leng Beng,2800,2000,False,81,Diversified,Singapore,M
+Angela Leong,2800,3000,False,61,Real Estate,Hong Kong,F
+Sergio Mantegazza,2800,2000,True,94,Service,Switzerland,M
+Hans Melchers,2800,2000,True,83,Finance & Investments,Netherlands,M
+Tom Morris,2800,3000,True,67,Fashion & Retail,United Kingdom,M
+Philip Niarchos,2800,2000,False,68,Diversified,France,M
+Sean Parker,2800,2000,True,42,Technology,United States,M
+Richard Peery,2800,2000,True,83,Real Estate,United States,M
+Jeff Rothschild,2800,2000,True,67,Technology,United States,M
+Stephen Smith,2800,1000,True,70,Finance & Investments,Canada,M
+William Stone,2800,1000,True,66,Technology,United States,M
+Sun Hongbin,2800,7000,True,59,Real Estate,China,M
+Sun Shoukuan,2800,1000,True,72,Manufacturing,China,M
+Andrew Tan,2800,2000,True,70,Diversified,Philippines,M
+Kenneth Tuchman,2800,1000,True,62,Service,United States,M
+Tung Chee Hwa,2800,2000,False,84,Logistics,Hong Kong,M
+Bulat Utemuratov,2800,2000,True,64,Metals & Mining,Kazakhstan,M
+Urs Wietlisbach,2800,2000,True,60,Finance & Investments,Switzerland,M
+Wong Man Li,2800,2000,True,57,Manufacturing,Hong Kong,M
+Ben Ashkenazy,2700,4000,True,52,Real Estate,United States,M
+Yvonne Bauer,2700,3000,False,45,Media & Entertainment,Germany,F
+Giuliana Benetton,2700,3000,True,84,Fashion & Retail,Italy,F
+Luciano Benetton,2700,3000,True,86,Fashion & Retail,Italy,M
+Aneel Bhusri,2700,1000,True,56,Technology,United States,M
+George Bishop,2700,2000,True,84,Energy,United States,M
+Vivek Chand Burman,2700,2000,False,84,Food & Beverage,India,M
+Morris Chang,2700,1000,True,90,Technology,Taiwan,M
+Jack Cockwell,2700,1000,True,81,Finance & Investments,Canada,M
+"Edward DeBartolo, Jr.",2700,2000,False,75,Real Estate,United States,M
+Abilio dos Santos Diniz,2700,3000,False,85,Fashion & Retail,Brazil,M
+"John Dorrance, III.",2700,2000,False,78,Food & Beverage,Ireland,M
+Carlos Hank Rhon,2700,2000,False,74,Diversified,Mexico,M
+Brad Kelley,2700,2000,True,65,Real Estate,United States,M
+Alicia Koplowitz,2700,2000,False,68,Finance & Investments,Spain,F
+C. Dean Metropoulos,2700,2000,True,75,Food & Beverage,United States,M
+Dan Olsson,2700,6000,False,75,Diversified,Sweden,M
+Tor Peterson,2700,2000,True,57,Metals & Mining,Switzerland,M
+John Pritzker,2700,2000,False,68,Finance & Investments,United States,M
+Hussain Sajwani,2700,4000,True,69,Real Estate,United Arab Emirates,M
+Jerry Yang,2700,2000,True,53,Technology,United States,M
+Takao Yasuda,2700,2000,True,72,Fashion & Retail,Singapore,M
+Harindarpal Banga,2600,1000,True,71,Finance & Investments,Hong Kong,M
+Anne Beaufour,2600,3000,False,58,Healthcare,United Kingdom,F
+Henri Beaufour,2600,3000,False,56,Healthcare,United Kingdom,M
+Norman Braman,2600,2000,True,89,Automotive,United States,M
+J. Hyatt Brown,2600,1000,False,84,Finance & Investments,United States,M
+Chen Lip Keong,2600,3000,True,74,Gambling & Casinos,Cambodia,M
+Dong Wei,2600,2000,True,51,Healthcare,China,M
+"Frank Fertitta, III.",2600,2000,False,60,Sports,United States,M
+Lorenzo Fertitta,2600,2000,False,53,Sports,United States,M
+Doris Fisher,2600,2000,True,90,Fashion & Retail,United States,F
+Alec Gores,2600,2000,True,69,Finance & Investments,United States,M
+Igor Kesaev,2600,2000,True,55,Fashion & Retail,Russia,M
+Raj Kumar & Kishin RK,2600,2000,False,67,Real Estate,Singapore,M
+Nirmal Minda,2600,1000,False,64,Automotive,India,M
+Farhad Moshiri,2600,1000,True,66,Diversified,Monaco,M
+Hans Georg Naeder,2600,3000,False,60,Manufacturing,Germany,M
+Eren Ozmen,2600,1000,True,63,Manufacturing,United States,F
+Ronald Perelman,2600,9000,True,79,Finance & Investments,United States,M
+Ravi Pillai,2600,3000,True,68,Construction & Engineering,United Arab Emirates,M
+Daniel Pritzker,2600,2000,False,62,Finance & Investments,United States,M
+Matthias Reinhart,2600,1000,True,62,Finance & Investments,Switzerland,M
+Alejandro Santo Domingo,2600,4000,False,45,Food & Beverage,United States,M
+Vivek Chaand Sehgal,2600,6000,True,65,Automotive,India,M
+Kavitark Ram Shriram,2600,2000,True,65,Technology,United States,M
+Oprah Winfrey,2600,2000,True,68,Media & Entertainment,United States,F
+Suhail Bahwan,2500,3000,True,83,Diversified,Oman,M
+Thor Bjorgolfsson,2500,2000,True,55,Diversified,United Kingdom,M
+Charles Bronfman,2500,2000,False,90,Food & Beverage,Canada,M
+Leon G. Cooperman,2500,3000,True,78,Finance & Investments,United States,M
+Smita Crishna-Godrej,2500,2000,False,71,Diversified,India,F
+Jacques D'Amours,2500,1000,True,65,Fashion & Retail,Canada,M
+Gerald Ford,2500,2000,True,77,Finance & Investments,United States,M
+Adi Godrej,2500,2000,False,80,Diversified,India,M
+Jamshyd Godrej,2500,2000,False,73,Diversified,India,M
+Nadir Godrej,2500,2000,False,71,Diversified,India,M
+Sanjiv Goenka,2500,2000,False,61,Diversified,India,M
+Stein Erik Hagen,2500,2000,True,65,Fashion & Retail,Norway,M
+Baba Kalyani,2500,3000,False,73,Construction & Engineering,India,M
+Stephen Lansdown,2500,2000,True,69,Finance & Investments,Guernsey,M
+William Li,2500,1000,True,47,Automotive,China,M
+Aloke Lohia,2500,2000,False,63,Manufacturing,Thailand,M
+Mohamed Mansour,2500,2000,True,74,Diversified,Egypt,M
+Kishore Mariwala,2500,1000,False,87,Food & Beverage,India,M
+Willy Michel,2500,1000,True,75,Healthcare,Switzerland,M
+Lachhman Das Mittal,2500,2000,False,91,Automotive,India,M
+Charles Munger,2500,1000,True,98,Finance & Investments,United States,M
+Rishad Naoroji,2500,2000,False,70,Diversified,India,M
+Fatih Ozmen,2500,1000,True,64,Manufacturing,United States,M
+Stewart Rahr,2500,2000,False,76,Healthcare,United States,M
+Glen Taylor,2500,2000,True,80,Service,United States,M
+Zhao Tao,2500,2000,False,56,Healthcare,China,M
+Edward Bass,2400,2000,False,76,Energy,United States,M
+Chao Teng-hsiung,2400,1000,True,77,Real Estate,Taiwan,M
+Choo Chong Ngen,2400,2000,True,68,Real Estate,Singapore,M
+John Coates,2400,2000,True,52,Gambling & Casinos,United Kingdom,M
+Alexandra Daitch,2400,2000,False,59,Food & Beverage,United States,F
+John Fisher,2400,2000,False,60,Fashion & Retail,United States,M
+Caroline Hagen Kjos,2400,2000,False,38,Diversified,Switzerland,F
+Lam Kong,2400,2000,True,57,Healthcare,Hong Kong,M
+Peter Lim,2400,2000,True,68,Finance & Investments,Singapore,M
+Sarah MacMillan,2400,2000,False,68,Food & Beverage,United States,F
+Kalanithi Maran,2400,5000,True,56,Media & Entertainment,India,M
+Lirio Parisotto,2400,1000,True,68,Finance & Investments,Brazil,M
+Alberto Roemmers,2400,1000,False,95,Healthcare,Argentina,M
+Rodney Sacks,2400,2000,True,72,Food & Beverage,United States,M
+Ferit Faik Sahenk,2400,2000,False,58,Diversified,Turkey,M
+Hilton Schlosberg,2400,2000,True,69,Food & Beverage,United States,M
+Lucy Stitzer,2400,2000,False,62,Food & Beverage,United States,F
+Katsumi Tada,2400,2000,True,76,Real Estate,Japan,M
+Tang Yiu,2400,2000,True,88,Fashion & Retail,Hong Kong,M
+Hamdi Ulukaya,2400,1000,True,49,Food & Beverage,United States,M
+Peter Unger,2400,2000,True,77,Automotive,Germany,M
+Zhang Hongwei,2400,1000,True,67,Diversified,China,M
+Zhang Li,2400,3000,True,69,Real Estate,China,M
+Alex Beard,2300,1000,True,54,Metals & Mining,United Kingdom,M
+Koos Bekker,2300,2000,True,69,Media & Entertainment,South Africa,M
+Timothy Boyle,2300,2000,True,72,Fashion & Retail,United States,M
+Anand Burman,2300,1000,False,69,Food & Beverage,India,M
+Richard Chandler,2300,2000,False,63,Finance & Investments,Singapore,M
+R.G. Chandramogan,2300,1000,True,73,Food & Beverage,India,M
+Chu Lam Yiu,2300,2000,True,52,Manufacturing,Hong Kong,F
+Kommer Damen,2300,1000,False,78,Manufacturing,Netherlands,M
+Henry Davis,2300,1000,False,71,Food & Beverage,United States,M
+Ray Davis,2300,2000,True,80,Energy,United States,M
+Stephen Feinberg,2300,1000,True,62,Finance & Investments,United States,M
+Alexander Frolov,2300,2000,True,57,Metals & Mining,Russia,M
+Serge Godin,2300,1000,True,72,Technology,Canada,M
+Noam Gottesman,2300,2000,True,60,Finance & Investments,United States,M
+Yusuf Hamied,2300,1000,False,85,Healthcare,India,M
+Bill Haslam,2300,2000,False,63,Fashion & Retail,United States,M
+Hans-Werner Hector,2300,2000,True,82,Technology,Germany,M
+Douglas Hsu,2300,1000,False,79,Diversified,Taiwan,M
+Erman Ilicak,2300,4000,True,54,Construction & Engineering,Turkey,M
+Osman Kibar,2300,2000,True,51,Healthcare,United States,M
+Frank Laukien,2300,1000,False,62,Manufacturing,United States,M
+Louis Le Duff,2300,2000,True,75,Food & Beverage,France,M
+Solomon Lew,2300,1000,True,77,Fashion & Retail,Australia,M
+Liang Zhaoxian,2300,1000,False,57,Manufacturing,China,M
+Prayudh Mahagitsiri,2300,1000,False,76,Food & Beverage,Thailand,M
+Clayton Mathile,2300,2000,True,81,Food & Beverage,United States,M
+Erwin Franz Mueller,2300,2000,True,89,Fashion & Retail,Germany,M
+David Murdock,2300,2000,True,98,Food & Beverage,United States,M
+Rubens Ometto Silveira Mello,2300,1000,False,72,Energy,Brazil,M
+Heloise Pratt,2300,2000,False,59,Manufacturing,Australia,F
+Stephan Schmidheiny,2300,2000,False,74,Finance & Investments,Switzerland,M
+Thomas Tull,2300,1000,True,51,Media & Entertainment,United States,M
+Ted Turner,2300,2000,False,83,Media & Entertainment,United States,M
+David Walentas,2300,2000,True,83,Real Estate,United States,M
+Christoph Zeller,2300,3000,False,64,Healthcare,Liechtenstein,M
+Zhang Wanzhen,2300,1000,True,72,Manufacturing,China,M
+Michael Ashcroft,2200,1000,True,76,Finance & Investments,Turks and Caicos Islands,M
+Brett Blundy,2200,1000,True,62,Fashion & Retail,Bahamas,M
+Robert Friedland,2200,1000,True,71,Metals & Mining,Singapore,M
+Phillip Frost,2200,2000,True,85,Healthcare,United States,M
+Jeffrey Gundlach,2200,1000,True,63,Finance & Investments,United States,M
+John Hancock,2200,1000,False,46,Metals & Mining,United Kingdom,M
+Hortensia Herrero,2200,2000,False,71,Fashion & Retail,Spain,F
+"B. Wayne Hughes, Jr.",2200,1000,False,61,Real Estate,United States,M
+Bruce Karsh,2200,2000,True,66,Finance & Investments,United States,M
+Christian Latouche,2200,2000,True,81,Finance & Investments,France,M
+Martin Lau,2200,2000,True,49,Technology,Hong Kong,M
+Li Wa,2200,3000,True,56,Real Estate,China,M
+Liang Xinjun,2200,3000,True,54,Diversified,China,M
+Lin Fanlian,2200,1000,True,60,Energy,China,M
+Howard Marks,2200,2000,True,75,Finance & Investments,United States,M
+Craig McCaw,2200,1000,False,72,Telecom,United States,M
+Vincent McMahon,2200,1000,True,76,Sports,United States,M
+Jonathan Nelson,2200,2000,True,65,Finance & Investments,United States,M
+Bianca Rinehart,2200,1000,False,45,Metals & Mining,Australia,F
+Ginia Rinehart,2200,1000,False,35,Metals & Mining,Australia,F
+Filiz Sahenk,2200,2000,False,55,Diversified,Turkey,F
+S.D. Shibulal,2200,1000,True,67,Technology,India,M
+Alexander Svetakov,2200,3000,True,54,Finance & Investments,Russia,M
+Arvind Tiku,2200,2000,True,52,Energy,Singapore,M
+Torsten Toeller,2200,1000,True,55,Fashion & Retail,Germany,M
+Lang Walker,2200,2000,True,76,Real Estate,Australia,M
+Hope Welker,2200,1000,False,36,Metals & Mining,United States,F
+William Young,2200,2000,True,81,Manufacturing,United States,M
+Mohamed Al Fayed,2100,1000,True,93,Fashion & Retail,United Kingdom,M
+Faisal Bin Qassim Al Thani,2100,1000,True,74,Diversified,Qatar,M
+Lee Bass,2100,2000,False,65,Energy,United States,M
+Jim Breyer,2100,3000,True,60,Technology,United States,M
+Ron Burkle,2100,2000,True,69,Finance & Investments,United Kingdom,M
+Bruce Cheng,2100,1000,True,86,Technology,Taiwan,M
+Dermot Desmond,2100,2000,True,71,Finance & Investments,Ireland,M
+Bob Ell,2100,1000,True,77,Real Estate,Australia,M
+Lindsay Fox,2100,3000,True,84,Logistics,Australia,M
+Gordon Getty,2100,2000,False,88,Energy,United States,M
+Dennis Gillings,2100,1000,True,77,Healthcare,United States,M
+Harsh Goenka,2100,2000,False,64,Diversified,India,M
+David Hains,2100,2000,True,91,Finance & Investments,Australia,M
+Bahaa Hariri,2100,2000,False,55,Real Estate,Switzerland,M
+Shmuel Harlap,2100,1000,False,77,Automotive,Israel,M
+Gerry Harvey,2100,1000,True,82,Fashion & Retail,Australia,M
+Reid Hoffman,2100,3000,True,54,Technology,United States,M
+Thomas James,2100,1000,False,79,Finance & Investments,United States,M
+Eiichi Kuriwada,2100,1000,True,75,Logistics,Japan,M
+Lau Cho Kun,2100,2000,False,86,Diversified,Malaysia,M
+Harald Link,2100,2000,False,67,Diversified,Thailand,M
+Igor Makarov,2100,2000,True,60,Energy,United States,M
+Alexander Mamut,2100,2000,True,62,Finance & Investments,Israel,M
+Alice Schwartz,2100,1000,True,95,Healthcare,United States,F
+Peter Sondakh,2100,1000,True,72,Finance & Investments,Indonesia,M
+Sukanto Tanoto,2100,1000,True,72,Diversified,Singapore,M
+Jayshree Ullal,2100,1000,True,61,Technology,United States,F
+Sunny Varkey,2100,2000,False,64,Service,United Arab Emirates,M
+Jitendra Virwani,2100,2000,False,56,Real Estate,India,M
+Thomas Wu,2100,1000,False,72,Finance & Investments,Taiwan,M
+Amy Wyss,2100,2000,False,51,Healthcare,United States,F
+S. Daniel Abraham,2000,2000,True,97,Food & Beverage,United States,M
+Andrey Andreev,2000,1000,True,48,Technology,United Kingdom,M
+Ramon Ang,2000,2000,True,68,Food & Beverage,Philippines,M
+Julio Bozano,2000,1000,True,86,Finance & Investments,Brazil,M
+Herb Chambers,2000,1000,True,80,Automotive,United States,M
+Glenn Dubin,2000,2000,True,64,Finance & Investments,United States,M
+Robert Duggan,2000,2000,True,77,Healthcare,United States,M
+Maria Franca Fissolo,2000,2000,False,87,Food & Beverage,Monaco,F
+Ji Qi,2000,3000,True,55,Real Estate,China,M
+Henry Laufer,2000,2000,True,76,Finance & Investments,United States,M
+Thomas Lee,2000,2000,True,78,Finance & Investments,United States,M
+Michael Lee-Chin,2000,1000,True,71,Finance & Investments,Canada,M
+Li Xuhui,2000,1000,True,53,Food & Beverage,China,F
+Lim Kok Thay,2000,4000,False,70,Gambling & Casinos,Malaysia,M
+Joao Roberto Marinho,2000,2000,False,68,Media & Entertainment,Brazil,M
+Jose Roberto Marinho,2000,2000,False,66,Media & Entertainment,Brazil,M
+Roberto Irineu Marinho,2000,2000,False,74,Media & Entertainment,Brazil,M
+Robert Miller,2000,4000,True,88,Fashion & Retail,Hong Kong,M
+David Nahmad,2000,1000,True,74,Fashion & Retail,United States,M
+Florentino Perez,2000,2000,True,75,Construction & Engineering,Spain,M
+Jennifer Pritzker,2000,1000,False,71,Finance & Investments,United States,F
+Linda Pritzker,2000,1000,False,68,Service,United States,F
+P.V. Ramprasad Reddy,2000,2000,True,64,Healthcare,India,M
+Maria-Elisabeth Schaeffler-Thumann,2000,6000,False,80,Automotive,Germany,F
+Thaksin Shinawatra,2000,1000,True,72,Finance & Investments,United Arab Emirates,M
+Alexander Skorobogatko,2000,3000,True,54,Logistics,Russia,M
+Sylvia Stroeher,2000,2000,False,66,Fashion & Retail,Germany,F
+Wichai Thongtang,2000,1000,True,75,Finance & Investments,Thailand,M
+Todd Wagner,2000,1000,True,61,Media & Entertainment,United States,M
+Evan Williams,2000,1000,True,50,Technology,United States,M
+Yan Zhi,2000,10000,True,49,Real Estate,China,M
+Michael Ying,2000,2000,True,72,Fashion & Retail,Hong Kong,M
+Anu Aga,1900,1000,False,79,Construction & Engineering,India,F
+Joy Alukkas,1900,1000,False,65,Fashion & Retail,India,M
+Sezai Bacaksiz,1900,1000,True,72,Diversified,Turkey,M
+Acharya Balkrishna,1900,6000,True,49,Food & Beverage,India,M
+John Bloor,1900,1000,True,78,Diversified,United Kingdom,M
+Nicola Bulgari,1900,1000,False,81,Fashion & Retail,Italy,M
+Alejandro Bulgheroni,1900,3000,False,77,Energy,Uruguay,M
+Jose Luis Cutrale,1900,2000,False,75,Food & Beverage,Brazil,M
+James Dinan,1900,1000,True,62,Finance & Investments,United States,M
+Mario Gabelli,1900,1000,True,80,Finance & Investments,United States,M
+Reinold Geiger,1900,1000,True,74,Fashion & Retail,Switzerland,M
+Roberto Hernandez Ramirez,1900,1000,True,80,Finance & Investments,Mexico,M
+Hoi Kin Hong,1900,1000,True,69,Real Estate,China,M
+Huang Qiaoling,1900,1000,True,63,Media & Entertainment,China,M
+Keeree Kanjanapas,1900,1000,True,71,Real Estate,Thailand,M
+Andrei Kozitsyn,1900,4000,True,61,Metals & Mining,Russia,M
+Lei Jufang,1900,1000,True,69,Healthcare,China,F
+David Lichtenstein,1900,1000,True,60,Real Estate,United States,M
+Yusaku Maezawa,1900,2000,True,46,Technology,Japan,M
+Katarina Martinson,1900,1000,False,40,Diversified,Sweden,F
+Pedro Moreira Salles,1900,5000,False,62,Diversified,Brazil,M
+Alexander Nesis,1900,1000,True,59,Finance & Investments,Russia,M
+Oei Hong Leong,1900,1000,False,74,Finance & Investments,Singapore,M
+Nihat Ozdemir,1900,1000,True,72,Diversified,Turkey,M
+Gretel Packer,1900,1000,False,56,Media & Entertainment,Australia,F
+Victor Pinchuk,1900,1000,True,61,Metals & Mining,Ukraine,M
+Alexander Ponomarenko,1900,3000,True,57,Logistics,Russia,M
+Qi Jinxing,1900,1000,True,60,Real Estate,China,M
+Larry Robbins,1900,2000,True,52,Finance & Investments,United States,M
+Djoko Susanto,1900,1000,True,72,Fashion & Retail,Indonesia,M
+Sze Man Bok,1900,2000,True,72,Manufacturing,China,M
+Alain Taravella,1900,2000,True,74,Real Estate,France,M
+Martin Viessmann,1900,5000,False,68,Manufacturing,Germany,M
+Georg von Opel,1900,2000,False,55,Finance & Investments,United Kingdom,M
+Wang Chaobin,1900,1000,True,66,Real Estate,China,M
+Wei Yin-Heng,1900,1000,True,63,Food & Beverage,China,M
+David Zalik,1900,2000,True,48,Technology,United States,M
+Leslie Alexander,1800,2000,True,78,Sports,United States,M
+Igor Altushkin,1800,3000,True,51,Metals & Mining,Russia,M
+Roberto Angelini Rossi,1800,2000,False,73,Diversified,Chile,M
+Nigel Austin,1800,1000,True,51,Fashion & Retail,Australia,M
+O. Francis Biondi,1800,1000,True,57,Finance & Investments,United States,M
+Chen Xueli,1800,1000,True,70,Healthcare,China,M
+Chi Yufeng,1800,1000,False,51,Technology,China,M
+Mark Coombs,1800,2000,True,61,Finance & Investments,United Kingdom,M
+John de Mol,1800,2000,True,67,Media & Entertainment,Netherlands,M
+Alfredo Egydio Arruda Villela Filho,1800,2000,False,52,Finance & Investments,Brazil,M
+Paul Foster,1800,1000,True,64,Energy,United States,M
+James France,1800,1000,False,77,Sports,United States,M
+Yasuhiro Fukushima,1800,1000,True,74,Media & Entertainment,Japan,M
+Christopher Goldsbury,1800,1000,False,79,Food & Beverage,United States,M
+Alexandre Grendene Bartelle,1800,2000,True,72,Fashion & Retail,Brazil,M
+Brian Higgins,1800,1000,True,57,Finance & Investments,United States,M
+Stanley Hubbard,1800,2000,False,88,Media & Entertainment,United States,M
+Hui Lin Chit,1800,2000,True,68,Manufacturing,China,M
+Hal Jackman,1800,1000,True,89,Finance & Investments,Canada,M
+Stephen Jarislowsky,1800,1000,True,96,Finance & Investments,Canada,M
+George Joseph,1800,1000,True,100,Finance & Investments,United States,M
+Edward Lampert,1800,1000,True,59,Finance & Investments,United States,M
+Marc Lasry,1800,1000,True,61,Finance & Investments,United States,M
+Peter Leibinger,1800,1000,False,55,Manufacturing,Germany,M
+Regine Leibinger,1800,1000,False,59,Manufacturing,Germany,F
+Nicola Leibinger-Kammueller,1800,1000,False,62,Manufacturing,Germany,F
+Wolfgang Leitner,1800,2000,True,69,Construction & Engineering,Austria,M
+George Marcus,1800,1000,True,80,Real Estate,United States,M
+Yves-Loic Martin,1800,1000,True,56,Healthcare,France,M
+Gary Michelson,1800,1000,True,73,Healthcare,United States,M
+Robert G. Miller,1800,2000,True,76,Technology,Canada,M
+Fernando Roberto Moreira Salles,1800,5000,False,75,Diversified,Brazil,M
+Joao Moreira Salles,1800,5000,False,60,Diversified,Brazil,M
+Walther Moreira Salles Junior,1800,5000,False,65,Finance & Investments,Brazil,M
+Liora Ofer,1800,1000,False,68,Finance & Investments,Israel,F
+Pierre Karl Péladeau,1800,1000,False,60,Media & Entertainment,Canada,M
+Phillip T. (Terry) Ragon,1800,2000,True,72,Technology,United States,M
+Krit Ratanarak,1800,2000,False,75,Media & Entertainment,Thailand,M
+Jerry Reinsdorf,1800,1000,True,86,Sports,United States,M
+Rajju Shroff,1800,1000,True,88,Manufacturing,India,M
+Henry Swieca,1800,1000,True,64,Finance & Investments,United States,M
+Robert Toennies,1800,3000,False,43,Food & Beverage,Germany,M
+Torbjorn Tornqvist,1800,2000,True,68,Energy,Switzerland,M
+Charlotte Colket Weber,1800,1000,False,79,Food & Beverage,United States,F
+Wu Yulan,1800,1000,True,52,Healthcare,China,F
+Elaine Wynn,1800,2000,True,79,Gambling & Casinos,United States,F
+Farkhad Akhmedov,1700,1000,True,66,Energy,Russia,M
+Marc Andreessen,1700,1000,True,50,Finance & Investments,United States,M
+David Booth,1700,1000,True,76,Finance & Investments,United States,M
+Saket Burman,1700,1000,False,45,Food & Beverage,United Arab Emirates,M
+Phongthep Chiaravanont,1700,1000,False,70,Diversified,Thailand,M
+Ivan Chrenko,1700,1000,True,54,Real Estate,Slovakia,M
+Sol Daurella,1700,1000,False,56,Food & Beverage,Spain,F
+Dulce Pugliese de Godoy Bueno,1700,2000,True,74,Healthcare,Brazil,F
+Norbert Dentressangle,1700,1000,True,67,Logistics,France,M
+Oleg Deripaska,1700,6000,True,54,Metals & Mining,Russia,M
+Donald Foss,1700,1000,True,77,Automotive,United States,M
+Rolf Gerling,1700,1000,False,67,Finance & Investments,Switzerland,M
+William Heinecke,1700,2000,True,72,Real Estate,Thailand,M
+Michael Jordan,1700,1000,True,59,Sports,United States,M
+Dmitry Kamenshchik,1700,3000,True,53,Service,Russia,M
+Anthony Langley,1700,1000,True,67,Diversified,United Kingdom,M
+James Leininger,1700,1000,True,77,Healthcare,United States,M
+Louise Lindh,1700,1000,False,42,Diversified,Sweden,F
+Anand Mahindra,1700,1000,False,66,Diversified,India,M
+Billy Joe (Red) McCombs,1700,1000,True,94,Diversified,United States,M
+Alberto Palatchi,1700,1000,True,72,Fashion & Retail,Spain,M
+Nelson Peltz,1700,1000,True,79,Finance & Investments,United States,M
+Jorge Perez,1700,3000,True,72,Real Estate,United States,M
+Arkady Rotenberg,1700,3000,True,70,Construction & Engineering,Russia,M
+Dieter Schnabel,1700,1000,False,76,Manufacturing,Germany,M
+Shao Qinxiang,1700,1000,True,67,Manufacturing,China,M
+Basudeo Singh,1700,1000,True,81,Healthcare,India,M
+Gordon Wu,1700,1000,True,86,Real Estate,Hong Kong,M
+Yao Kuizhang,1700,1000,True,57,Food & Beverage,China,M
+Vladimir Yevtushenkov,1700,2000,True,73,Telecom,Russia,M
+Zhang Yubai,1700,1000,True,57,Food & Beverage,China,M
+Anita Zucker,1700,3000,False,70,Manufacturing,United States,F
+Vasily Anisimov,1600,1000,True,70,Metals & Mining,Russia,M
+Mori Arkin,1600,1000,True,69,Healthcare,Israel,M
+Semahat Sevim Arsel,1600,2000,False,93,Diversified,Turkey,F
+Clifford Asness,1600,3000,True,55,Finance & Investments,United States,M
+Louis Bacon,1600,1000,True,65,Finance & Investments,United States,M
+Amit Burman,1600,1000,False,52,Food & Beverage,India,M
+Ana Lucia de Mattos Barretto Villela,1600,2000,False,48,Finance & Investments,Brazil,F
+Jamie Dimon,1600,1000,True,66,Finance & Investments,United States,M
+Gary Fegel,1600,1000,True,48,Metals & Mining,Switzerland,M
+Gao Yunfeng,1600,1000,True,55,Manufacturing,China,M
+Sam Goi,1600,2000,True,75,Food & Beverage,Singapore,M
+Sergei Gordeev,1600,1000,True,49,Real Estate,Russia,M
+Bill Gross,1600,1000,True,77,Finance & Investments,United States,M
+Lutz Mario Helmig,1600,2000,True,75,Healthcare,Germany,M
+Ilkka Herlin,1600,1000,False,63,Manufacturing,Finland,M
+Asok Kumar Hiranandani,1600,1000,False,67,Real Estate,Singapore,M
+Anurang Jain,1600,1000,True,60,Manufacturing,India,M
+Richard Kayne,1600,1000,True,76,Finance & Investments,United States,M
+William Koch,1600,1000,False,81,Energy,United States,M
+Kagemasa Kozuki,1600,1000,True,81,Technology,Japan,M
+Theodore Leonsis,1600,1000,True,66,Sports,United States,M
+David Xueling Li,1600,1000,True,49,Technology,China,M
+Li Jiaquan,1600,1000,True,58,Manufacturing,China,M
+Li Rucheng,1600,1000,True,70,Fashion & Retail,China,M
+Li Sze Lim,1600,3000,True,65,Real Estate,China,M
+Lim Wee Chai,1600,1000,True,64,Manufacturing,Malaysia,M
+Liu Ming Chung,1600,1000,True,59,Manufacturing,Hong Kong,M
+Vincent Lo,1600,2000,False,73,Real Estate,Hong Kong,M
+Brandt Louie,1600,2000,False,78,Food & Beverage,Canada,M
+Catherine Lozick,1600,2000,False,76,Manufacturing,United States,F
+"Cargill MacMillan, III.",1600,1000,False,62,Food & Beverage,United States,M
+Duncan MacMillan,1600,1000,True,84,Finance & Investments,United States,M
+John MacMillan,1600,1000,False,72,Food & Beverage,United States,M
+Martha MacMillan,1600,1000,False,70,Food & Beverage,United States,F
+William MacMillan,1600,1000,False,67,Food & Beverage,United States,M
+Terence (Terry) Matthews,1600,1000,True,79,Telecom,Canada,M
+Kazuo Okada,1600,3000,True,79,Gambling & Casinos,Japan,M
+Tomas Olivo Lopez,1600,2000,True,48,Real Estate,Spain,M
+Brian Roberts,1600,1000,False,62,Media & Entertainment,United States,M
+Sheryl Sandberg,1600,1000,True,52,Technology,United States,F
+Andres Santo Domingo,1600,4000,False,43,Food & Beverage,United States,M
+Gerald Schwartz,1600,1000,True,80,Finance & Investments,Canada,M
+Sathien Setthasit,1600,1000,True,67,Food & Beverage,Thailand,M
+Niraj Shah,1600,1000,True,48,Technology,United States,M
+Evgeny (Eugene) Shvidler,1600,1000,True,58,Energy,United Kingdom,M
+Peter Sperling,1600,1000,False,62,Service,United States,M
+David Teoh,1600,1000,True,66,Telecom,Australia,M
+Ion Tiriac,1600,1000,True,82,Finance & Investments,Romania,M
+Clemens Toennies,1600,3000,True,65,Food & Beverage,Germany,M
+Wei Ing-Chou,1600,1000,True,68,Food & Beverage,China,M
+Wei Ying-Chiao,1600,1000,True,67,Food & Beverage,Taiwan,M
+Yang Tingdong,1600,1000,True,61,Food & Beverage,China,M
+Yu Peidi,1600,1000,True,62,Real Estate,China,M
+Antti Aarnio-Wihuri,1500,2000,False,82,Diversified,Finland,M
+Chirayu Amin,1500,1000,False,75,Healthcare,India,M
+Lesley Bamberger,1500,1000,False,56,Real Estate,Netherlands,M
+Bernhard Braun-Luedicke,1500,2000,False,45,Healthcare,Germany,M
+Eva Maria Braun-Luedicke,1500,2000,False,35,Healthcare,Germany,F
+Ana Maria Brescia Cafferata,1500,1000,False,97,Diversified,Peru,F
+Nikolai Buinov,1500,2000,True,54,Energy,Russia,M
+Paolo Bulgari,1500,1000,False,84,Fashion & Retail,Italy,M
+Ahmet Calik,1500,1000,True,64,Diversified,Turkey,M
+Steve Case,1500,1000,True,63,Technology,United States,M
+Binod Chaudhary,1500,1000,False,66,Diversified,Nepal,M
+Steve Conine,1500,1000,True,49,Technology,United States,M
+Eduardo Costantini,1500,1000,True,75,Real Estate,Argentina,M
+Bharat Desai,1500,1000,True,69,Technology,United States,M
+Mohammed Dewji,1500,1000,False,46,Diversified,Tanzania,M
+Domenico Dolce,1500,1000,True,63,Fashion & Retail,Italy,M
+Bulent Eczacibasi,1500,1000,False,72,Diversified,Turkey,M
+Faruk Eczacibasi,1500,1000,False,67,Diversified,Turkey,M
+Henry Engelhardt,1500,1000,True,64,Finance & Investments,United Kingdom,M
+Eduardo Eurnekian,1500,2000,True,89,Diversified,Argentina,M
+John Farber,1500,1000,True,96,Manufacturing,United States,M
+Stefano Gabbana,1500,1000,True,59,Fashion & Retail,Italy,M
+Geng Jianming,1500,2000,True,59,Real Estate,China,M
+Alan Gerry,1500,1000,True,93,Media & Entertainment,United States,M
+Balkrishan Goenka,1500,1000,True,55,Manufacturing,India,M
+Gu Wei,1500,1000,True,57,Manufacturing,China,M
+Torstein Hagen,1500,2000,True,79,Service,Switzerland,M
+Timothy Headington,1500,1000,False,71,Energy,United States,M
+Ilona Herlin,1500,1000,False,57,Manufacturing,Finland,F
+Niranjan Hiranandani,1500,1000,True,72,Real Estate,India,M
+Drew Houston,1500,1000,True,39,Technology,United States,M
+Huang Rulun,1500,4000,True,70,Real Estate,China,M
+Sidney Kimmel,1500,1000,True,94,Fashion & Retail,United States,M
+Seth Klarman,1500,1000,True,64,Finance & Investments,United States,M
+Mustafa Rahmi Koc,1500,2000,False,91,Diversified,Turkey,M
+Pyotr Kondrashev,1500,1000,True,72,Manufacturing,Austria,M
+Kong Jian Min,1500,2000,True,54,Real Estate,China,M
+Hemendra Kothari,1500,1000,False,75,Finance & Investments,India,M
+Youssef Mansour,1500,1000,True,76,Diversified,Egypt,M
+David McMurtry,1500,1000,True,81,Manufacturing,United Kingdom,M
+Massimo Moratti,1500,1000,False,76,Energy,Italy,M
+Robert Mouawad,1500,1000,False,77,Service,Bahrain,M
+Ezra Nahmad,1500,1000,False,76,Finance & Investments,Monaco,M
+Kentaro Ogawa,1500,1000,True,73,Food & Beverage,Japan,M
+Niti Osathanugrah,1500,1000,False,48,Finance & Investments,Thailand,M
+Karl-Johan Persson,1500,1000,False,47,Fashion & Retail,Sweden,M
+Markus Persson,1500,1000,True,42,Media & Entertainment,Sweden,M
+Tom Persson,1500,1000,False,37,Fashion & Retail,Sweden,M
+Kevin Plank,1500,1000,True,49,Fashion & Retail,United States,M
+Andreas Pohl,1500,1000,False,57,Finance & Investments,Germany,M
+"Reinfried Pohl, Jr.",1500,1000,False,62,Finance & Investments,Germany,M
+Fernando Roig,1500,1000,False,74,Fashion & Retail,Spain,M
+Fayez Sarofim,1500,1000,False,93,Finance & Investments,United States,M
+Antonio Luiz Seabra,1500,1000,True,79,Fashion & Retail,United Kingdom,M
+Yuri Shefler,1500,1000,True,54,Food & Beverage,Switzerland,M
+Mikhail Shelkov,1500,1000,True,53,Metals & Mining,Russia,M
+Charlotte Soderstrom,1500,1000,False,45,Fashion & Retail,Sweden,F
+Thomas Steyer,1500,1000,True,64,Finance & Investments,United States,M
+Kevin Systrom,1500,1000,True,38,Technology,United States,M
+Hary Tanoesoedibjo,1500,1000,True,56,Media & Entertainment,Indonesia,M
+Jonathan Tisch,1500,1000,False,68,Diversified,United States,M
+Wilma Tisch,1500,1000,False,94,Finance & Investments,United States,F
+Kenny Troutt,1500,1000,True,74,Telecom,United States,M
+Myron Wentz,1500,1000,True,82,Fashion & Retail,Cayman Islands,M
+Radhe Shyam Agarwal,1400,1000,True,77,Fashion & Retail,India,M
+Syed Mokhtar AlBukhary,1400,1000,True,70,Construction & Engineering,Malaysia,M
+Patricia Angelini Rossi,1400,2000,False,68,Diversified,Chile,F
+Elena Baturina,1400,1000,True,59,Construction & Engineering,United Kingdom,F
+Thomas Bruch,1400,1000,False,71,Fashion & Retail,Germany,M
+Richard Chang,1400,1000,True,75,Real Estate,Taiwan,M
+Chen Tianqiao,1400,1000,True,48,Technology,United States,M
+Chin Jong Hwa,1400,2000,True,63,Automotive,Taiwan,M
+Darwin Deason,1400,1000,True,81,Service,United States,M
+Diego Della Valle,1400,1000,False,68,Fashion & Retail,Italy,M
+Mark Dixon,1400,1000,True,62,Real Estate,Monaco,M
+Radhe Shyam Goenka,1400,1000,True,76,Fashion & Retail,India,M
+Ayman Hariri,1400,1000,False,43,Construction & Engineering,France,M
+Christoph Henkel,1400,2000,False,64,Fashion & Retail,United Kingdom,M
+Johan Johannson,1400,4000,False,55,Fashion & Retail,Norway,M
+Ramesh Juneja,1400,2000,True,66,Healthcare,India,M
+Viktor Kharitonin,1400,1000,True,49,Healthcare,Russia,M
+Kurt Krieger,1400,3000,True,74,Fashion & Retail,Germany,M
+Mustafa Kucuk,1400,2000,True,58,Fashion & Retail,Turkey,M
+Jenny Lindén Urnes,1400,1000,False,51,Manufacturing,Sweden,F
+Anatoly Lomakin,1400,1000,True,69,Metals & Mining,Russia,M
+Jeffrey Lorberbaum,1400,2000,False,67,Manufacturing,United States,M
+Gary Magness,1400,1000,False,68,Media & Entertainment,United States,M
+Vadim Moshkovich,1400,2000,True,54,Food & Beverage,Russia,M
+Marius Nacht,1400,1000,True,56,Technology,Israel,M
+Adam Neumann,1400,2000,True,43,Real Estate,United States,M
+Simon Nixon,1400,1000,True,54,Technology,United Kingdom,M
+Stefan Olsson,1400,2000,False,73,Diversified,United Kingdom,M
+Ranjan Pai,1400,1000,False,49,Service,India,M
+Mark Pincus,1400,1000,True,56,Technology,United States,M
+Alexey Repik,1400,2000,True,42,Healthcare,Russia,M
+Subhash Runwal,1400,1000,True,78,Real Estate,India,M
+Carlos Sanchez,1400,2000,False,60,Healthcare,Brazil,M
+Martin Selig,1400,1000,True,84,Real Estate,United States,M
+Bhadresh Shah,1400,1000,True,70,Manufacturing,India,M
+Ben Silbermann,1400,1000,True,39,Media & Entertainment,United States,M
+Sun Qinghuan,1400,1000,True,48,Technology,China,M
+Tong Jinquan,1400,2000,True,67,Real Estate,China,M
+John Van Lieshout,1400,1000,True,76,Real Estate,Australia,M
+Wang Jian,1400,3000,True,68,Technology,China,M
+Gavril Yushvaev,1400,1000,True,64,Finance & Investments,Russia,M
+Zhuo Jun,1400,1000,False,56,Manufacturing,Hong Kong,F
+Alberto Alcocer,1300,1000,True,79,Finance & Investments,Spain,M
+Alexandra Andresen,1300,1000,False,25,Diversified,Norway,F
+Katharina Andresen,1300,1000,False,26,Diversified,Norway,F
+Mehmet Aydinlar,1300,1000,True,65,Healthcare,Turkey,M
+Angela Bennett,1300,1000,False,78,Metals & Mining,Australia,F
+Oleg Boyko,1300,1000,True,57,Diversified,Switzerland,M
+Anna Maria Braun,1300,1000,False,43,Healthcare,Germany,F
+Edouard Carmignac,1300,1000,True,74,Finance & Investments,France,M
+Jeffrey Cheah,1300,1000,True,77,Real Estate,Malaysia,M
+Chen Shiliang,1300,1000,True,58,Manufacturing,China,M
+Cheng Xianfeng,1300,1000,True,53,Healthcare,China,M
+Chua Thian Poh,1300,1000,True,73,Real Estate,Singapore,M
+Alberto Cortina,1300,1000,True,76,Finance & Investments,Spain,M
+Sandor Csanyi,1300,1000,True,69,Diversified,Hungary,M
+Richard Desmond,1300,1000,True,70,Media & Entertainment,United Kingdom,M
+Susumu Fujita,1300,1000,True,48,Media & Entertainment,Japan,M
+Francis Holder,1300,1000,True,81,Food & Beverage,France,M
+Zarakh Iliev,1300,3000,True,55,Real Estate,Russia,M
+Mitchell Jacobson,1300,1000,False,71,Service,United States,M
+Yuri Kovalchuk,1300,1000,True,70,Finance & Investments,Russia,M
+Michael Krasny,1300,1000,True,68,Technology,United States,M
+Heikki Kyostila,1300,2000,True,76,Healthcare,Finland,M
+Liu Ming Hui,1300,2000,True,59,Energy,Hong Kong,M
+Martin Moller Nielsen,1300,2000,True,57,Logistics,United Kingdom,M
+Yoshiko Mori,1300,2000,False,81,Real Estate,Japan,F
+Mofatraj Munot,1300,2000,True,77,Real Estate,India,M
+God Nisanov,1300,3000,True,49,Real Estate,Russia,M
+Vadim Novinsky,1300,1000,True,58,Metals & Mining,Ukraine,M
+Forrest Preston,1300,1000,True,89,Healthcare,United States,M
+Lily Safra,1300,1000,False,84,Finance & Investments,Switzerland,F
+Deniz Sahenk,1300,1000,False,76,Diversified,Turkey,F
+Thomas Sandell,1300,1000,True,61,Finance & Investments,United Kingdom,M
+Albert Shigaboutdinov,1300,1000,True,69,Diversified,Russia,M
+Nobutoshi Shimamura,1300,1000,True,96,Fashion & Retail,Japan,M
+Ron Sim,1300,1000,True,63,Fashion & Retail,Singapore,M
+Terry Snow,1300,1000,True,78,Real Estate,Australia,M
+Manny Stul,1300,1000,True,72,Manufacturing,Australia,M
+Rustem Sulteev,1300,1000,True,68,Energy,Russia,M
+Tony Tan Caktiong,1300,4000,True,69,Food & Beverage,Philippines,M
+Jim Thompson,1300,1000,True,82,Logistics,Hong Kong,M
+Wan Long,1300,1000,True,81,Food & Beverage,China,M
+Wang Jianyi,1300,1000,True,59,Technology,China,M
+"Alfred West, Jr.",1300,1000,True,79,Finance & Investments,United States,M
+Dan Wilks,1300,1000,True,65,Energy,United States,M
+Farris Wilks,1300,1000,True,70,Energy,United States,M
+Kostyantin Zhevago,1300,1000,True,48,Metals & Mining,Ukraine,M
+Zhu Xingliang,1300,2000,True,62,Construction & Engineering,China,M
+Hamad bin Jassim bin Jaber Al Thani,1200,1000,False,62,Finance & Investments,Qatar,M
+Mika Anttonen,1200,2000,True,55,Energy,Finland,M
+Jose Maria Aristrain,1200,1000,False,59,Metals & Mining,Switzerland,M
+Emilio Azcarraga Jean,1200,1000,False,54,Media & Entertainment,Mexico,M
+Thomas Bailey,1200,1000,True,85,Finance & Investments,United States,M
+Andrei Bokarev,1200,2000,True,55,Manufacturing,Russia,M
+Ludwig Theodor Braun,1200,1000,False,32,Healthcare,Germany,M
+Friederike Braun-Luedicke,1200,2000,False,38,Healthcare,Germany,F
+Yvon Chouinard,1200,1000,True,83,Fashion & Retail,United States,M
+Gleb Fetisov,1200,1000,True,55,Telecom,Russia,M
+Robert Fisher,1200,1000,False,68,Fashion & Retail,United States,M
+William Fisher,1200,1000,False,65,Fashion & Retail,United States,M
+J. Christopher Flowers,1200,1000,True,64,Finance & Investments,United States,M
+Bernd Freier,1200,1000,True,65,Fashion & Retail,Germany,M
+Dan Gertler,1200,1000,False,48,Metals & Mining,Israel,M
+Richard Hayne,1200,1000,True,74,Fashion & Retail,United States,M
+Huang Shih Tsai,1200,2000,True,70,Real Estate,China,M
+Mohammed Ibrahim,1200,1000,True,75,Telecom,United Kingdom,M
+Hedda im Brahm-Droege,1200,2000,True,67,Finance & Investments,Germany,F
+Chatchai Kaewbootta,1200,1000,True,70,Finance & Investments,Thailand,M
+Andrei Kosogov,1200,1000,True,61,Energy,Russia,M
+Guy Laliberté,1200,1000,True,62,Media & Entertainment,Canada,M
+David Penaloza Alanis,1200,1000,False,48,Construction & Engineering,Mexico,M
+Stefan Pierer,1200,1000,True,65,Automotive,Austria,M
+Murdaya Poo,1200,2000,False,81,Diversified,Indonesia,M
+Michael Price,1200,1000,False,69,Finance & Investments,United States,M
+Andrei Rappoport,1200,1000,True,58,Finance & Investments,Russia,M
+Helena Revoredo,1200,2000,False,75,Service,Spain,F
+Nobutada Saji,1200,1000,False,76,Food & Beverage,Japan,M
+Leonard Schleifer,1200,1000,True,69,Healthcare,United States,M
+Airat Shaimiev,1200,1000,True,60,Energy,Russia,M
+Radik Shaimiev,1200,1000,True,57,Energy,Russia,M
+Vijay Shekhar Sharma,1200,1000,True,43,Service,India,M
+Michael Steinhardt,1200,1000,True,81,Finance & Investments,United States,M
+Lucio Tan,1200,4000,True,87,Diversified,Philippines,M
+Yoshikazu Tanaka,1200,1000,True,45,Technology,Japan,M
+Sam Tarascio,1200,1000,True,77,Real Estate,Australia,M
+Alexander Tedja,1200,1000,True,76,Real Estate,Indonesia,M
+Laurie Tisch,1200,1000,False,71,Diversified,United States,F
+Steven Tisch,1200,1000,False,73,Diversified,United States,M
+Wim van der Leegte,1200,1000,False,74,Manufacturing,Netherlands,M
+Thongma Vijitpongpun,1200,1000,True,64,Real Estate,Thailand,M
+Horst Wortmann,1200,1000,True,80,Fashion & Retail,Germany,M
+Wu Chung-yi,1200,1000,False,66,Manufacturing,Taiwan,M
+Xiu Laigui,1200,1000,True,67,Healthcare,China,M
+Joao Alves de Queiroz Filho,1100,2000,True,69,Diversified,Brazil,M
+Sara Blakely,1100,1000,True,51,Fashion & Retail,United States,F
+Henadiy Boholyubov,1100,1000,True,60,Diversified,Ukraine,M
+Turgay Ciner,1100,1000,True,66,Diversified,Turkey,M
+Gabriel Escarrer,1100,1000,True,87,Service,Spain,M
+Paul Fireman,1100,1000,True,78,Fashion & Retail,United States,M
+Donald Friese,1100,1000,True,81,Manufacturing,United States,M
+Soichiro Fukutake,1100,1000,False,76,Service,New Zealand,M
+Stelios Haji-Ioannou,1100,1000,False,55,Service,Monaco,M
+Ronnen Harary,1100,1000,True,50,Manufacturing,Canada,M
+Eduardo Hochschild,1100,1000,False,58,Metals & Mining,Peru,M
+Jonas Kamprad,1100,1000,False,56,Finance & Investments,United Kingdom,M
+Mathias Kamprad,1100,1000,False,52,Finance & Investments,United Kingdom,M
+Peter Kamprad,1100,1000,False,58,Finance & Investments,Belgium,M
+Samvel Karapetyan,1100,3000,True,56,Construction & Engineering,Russia,M
+Alexander Karp,1100,1000,True,54,Technology,United States,M
+Koh Wee Meng,1100,1000,True,58,Real Estate,Singapore,M
+Sergei Kolesnikov,1100,1000,True,50,Manufacturing,Russia,M
+Nancy Lerner,1100,1000,False,61,Finance & Investments,United States,F
+Norma Lerner,1100,1000,False,86,Finance & Investments,United States,F
+Randolph Lerner,1100,1000,False,60,Finance & Investments,United States,M
+Li Tan,1100,1000,True,57,Healthcare,China,F
+Ma Xiuhui,1100,1000,True,51,Manufacturing,China,F
+Yasseen Mansour,1100,1000,True,60,Diversified,Egypt,M
+Kerr Neilson,1100,1000,True,72,Finance & Investments,Australia,M
+Anton Rabie,1100,1000,True,50,Manufacturing,Canada,M
+Igor Rybakov,1100,1000,True,49,Manufacturing,Russia,M
+K. Rai Sahi,1100,1000,True,75,Real Estate,Canada,M
+Analjit Singh,1100,1000,False,68,Diversified,India,M
+Dirk Stroeer,1100,1000,False,53,Media & Entertainment,Germany,M
+Mehmet Sinan Tara,1100,1000,False,63,Construction & Engineering,Turkey,M
+Robert Toll,1100,1000,True,81,Real Estate,United States,M
+Surin Upatkoon,1100,1000,True,72,Diversified,Malaysia,M
+Murat Vargi,1100,1000,True,74,Telecom,Turkey,M
+Allan Wong,1100,1000,True,72,Manufacturing,Hong Kong,M
+Yang Erzhu,1100,1000,True,71,Real Estate,China,M
+Yu Rong,1100,1000,True,50,Healthcare,China,M
+Zhang Cheng Fei,1100,1000,True,54,Manufacturing,China,M
+Krishna Kumar Bangur,1000,1000,False,61,Manufacturing,India,M
+Johanna Braun,1000,1000,False,42,Healthcare,Germany,F
+Karl Friedrich Braun,1000,1000,False,39,Healthcare,Germany,M
+Jean-Pierre Cayard,1000,4000,False,79,Food & Beverage,France,M
+Tony Chen,1000,1000,True,72,Technology,Taiwan,M
+Vivien Chen,1000,2000,False,63,Real Estate,Hong Kong,F
+Pollyanna Chu,1000,7000,True,64,Finance & Investments,Hong Kong,F
+Sefik Yilmaz Dizdar,1000,1000,True,84,Fashion & Retail,Turkey,M
+Charles Dunstone,1000,1000,True,58,Telecom,United Kingdom,M
+Polys Haji-Ioannou,1000,1000,False,62,Service,Monaco,M
+Hiroshi Ishibashi,1000,1000,False,75,Automotive,Japan,M
+Bent Jensen,1000,1000,False,70,Manufacturing,Denmark,M
+Morris Kahn,1000,1000,True,92,Technology,Israel,M
+Eugene Kaspersky,1000,1000,True,56,Technology,Russia,M
+Ihor Kolomoyskyy,1000,1000,True,59,Diversified,Ukraine,M
+Liu Baolin,1000,1000,True,68,Fashion & Retail,China,M
+Bruce Nordstrom,1000,1000,False,88,Fashion & Retail,United States,M
+Roberto Ongpin,1000,1000,True,85,Diversified,Philippines,M
+Ren Zhengfei,1000,2000,True,78,Telecom,China,M
+Francisco Jose Riberas Mera,1000,2000,False,57,Manufacturing,Spain,M
+Boris Rotenberg,1000,1000,True,65,Construction & Engineering,Russia,M
+Alan Rydge,1000,1000,True,69,Media & Entertainment,Australia,M
+Oliver Samwer,1000,1000,True,48,Technology,Germany,M
+Axel Stawski,1000,1000,True,71,Real Estate,United States,M
+Peter-Alexander Wacker,1000,1000,False,70,Manufacturing,Germany,M
+"Richard Yuengling, Jr.",1000,1000,False,79,Food & Beverage,United States,M
