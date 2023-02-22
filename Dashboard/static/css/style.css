@@ -154,7 +154,7 @@ section h3 {
 
 .tableau-body {
     width: 100%;
-    height: 100%; /* made this 100% for the tableau dashboard to fit based on the tableau java code */
+    height: 920px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;

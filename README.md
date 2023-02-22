@@ -4,9 +4,12 @@
 
 **File Sources:**
 
-- Jupyter Notebook: [cleaning_data.ipynb](cleaning_data.ipynb)
-- CSV: [forbes_2022_billionaires.csv](Resources/forbes_2022_billionaires.csv)
-- Cleaned CSV: [cleaned_billionaire.csv](Resources/cleaned_billionaire.csv)
+- Original Forbes 2022 Billionaire List Data: [forbes_2022_billionaires.csv](Resources/forbes_2022_billionaires.csv)
+- Cleaning Process with Python for 2022 Data: [cleaning_data.ipynb](cleaning_data.ipynb)
+- Cleaned Forbes 2022 Billionaire List Data: [cleaned_billionaire.csv](Resources/cleaned_billionaire.csv)
+- Original Forbes 2018 Billionaire List Data: [forbes_2018_billionaires.csv](Resources/forbes_2018_billionaires.csv)
+- Cleaning Process with Python for 2018 Data: [cleaning_data_2018.ipynb](cleaning_data_2018.ipynb)
+- Cleaned Forbes 2018 Billionaire List Data: [cleaned_2018_billionaire.csv](Resources/cleaned_2018_billionaire.csv)
 
 **Technologies Used:**
 
@@ -106,6 +109,8 @@ We will examine the following questions:
 
 #### Exploratory Data Analysis
 
+- Exploratory Data Analysis: [billionaire_exploratory_analysis.ipynb](/billionaire_exploratory_analysis.ipynb)
+
 - Using Jupyter Notebook and Pandas the cleaned dataset for 2022 was filtered down to see the relationship between the number of billionaires and gender specifics. Below shows a pie chart highlighting the gender split between Male and Female. Male made up 88.8% of billionaires while Female only made up 11.2%.
 
 ![2022_Category_vs_Billionaires.png](Images/2022_Gender_Pie.png)
@@ -191,7 +196,12 @@ The confusion matrix presents the prediction values.
 ![Section 6 confusion matrix](Images/section6_cm.png)
 
 <sub> \* A note about features: "The feature importance scores returned by a random forest classifier are typically normalized so that they add up to 1.0, with higher scores indicating more important features. The values are not necessarily proportional to the percentage of the overall prediction that each feature contributes, and they are not bounded by 0 and 100.
-In general, it’s more important to focus on the relative importance of each feature, rather than the absolute magnitude of the scores. For example, if a feature has an importance score of 0.2 and another feature has a score of 0.1, it means that the first feature is twice as important as the second feature in the prediction task." </sub>
+In general, it’s more important to focus on the relative importance of each feature, rather than the absolute magnitude of the scores. For example, if a feature has an importance score of 0.2 and another feature has a score of 0.1, it means that the first feature is twice as important as the second feature in the prediction model." </sub>
+
+---
+## Tableau Dashboard
+View our analysis and visualizations for the Forbes Billionaires List data on our [Tableau Public Dashboard](https://public.tableau.com/views/billionairedata/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+
 
 ---
 
@@ -201,18 +211,19 @@ We examined who billionaires are throughout the data exploration, analysis, mach
 
 - Will a model be able to predict if a billionaire's final worth is greater than $4.799 billion (the mean net worth value on the list) based off feature input values? Will it be able to predict more accurately if 2018 list is included?
 
-A logistic regression model can predict if a billionaire's final worth is greater than $4.799 billion with moderate accuracy.
-The results were similar for the lone 2022 data and the 2018/ 2022 merged data. The merged 2018/ 2022 data was slightly less accurate than the lone 2022 data.
+  - A logistic regression model can predict if a billionaire's final worth is greater than $4.799 billion with moderate accuracy.
+  - The results were similar for the lone 2022 data and the 2018/ 2022 merged data. The merged 2018/ 2022 data was slightly less accurate than the lone 2022 data.
 
 - Do the average ages of billionaires vary across different countries? Do ages vary from the 2018 to 2022 lists?
 
-Yes, there are differences in the average age of billionaires across countries. However, the bulk of the average age range across countries falls between 55 and 75 with a few outliers below 55 and above 75. There doesn't seem to be any significant difference between the 2018 and 2022 datasets.
+  - Yes, there are differences in the average age of billionaires across countries. However, the bulk of the average age range across countries falls between 55 and 75 with a few outliers below 55 and above 75. 
+  - There doesn't seem to be any significant difference between the 2018 and 2022 datasets.
 
 - Which industries produced billionaires in specific age groups and demographics? Do these industries vary from the 2018 to 2022 lists?
 
-In 2022, Technology produced almost half of the wealth seen in billionaires for those 49 and under. We see a major shift with the 50 to 59 demographic, where Technology continued to produce the most wealth for billionaires, but the percentage shrinks to about 25%. The 60 to 69 demographic sees the majority of billionaire wealth produced by the Finance & Investments industry. The Fashion & Retail industry produced the majority of billionaire wealth for the 70 to 79 and 80 to 89 demographics. Lastly, the Finance & Investments industry produced the majority of billionaire wealth for ages 90 and up.
+  - In 2022, Technology produced almost half of the wealth seen in billionaires for those 49 and under. We see a major shift with the 50 to 59 demographic, where Technology continued to produce the most wealth for billionaires, but the percentage shrinks to about 25%. The 60 to 69 demographic sees the majority of billionaire wealth produced by the Finance & Investments industry. The Fashion & Retail industry produced the majority of billionaire wealth for the 70 to 79 and 80 to 89 demographics. Lastly, the Finance & Investments industry produced the majority of billionaire wealth for ages 90 and up.
 
-There are two major differences seen in 2018. The industry that produced most billionaires for groups 59 and under, as well as the 80 to 89 group, and 90 and up group follow similar trends as seen in 2022. However, we see some shifts in the 60 to 69 age demographic, with this demographic seeing the most wealth being created by the Fashion & Retail Industry. For the 70 to 79 demographic, there is a tie between Fashion & Retail and Finance & Investments creating the most wealth. 
+  - There are two major differences seen in 2018. The industry that produced most billionaires for groups 59 and under, as well as the 80 to 89 group, and 90 and up group follow similar trends as seen in 2022. However, we see some shifts in the 60 to 69 age demographic, with this demographic seeing the most wealth being created by the Fashion & Retail Industry. For the 70 to 79 demographic, there is a tie between Fashion & Retail and Finance & Investments creating the most wealth. 
 
 - Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?
 
@@ -220,4 +231,6 @@ There are two major differences seen in 2018. The industry that produced most bi
 
 ## Summary:
 
-After cleaning the data set we can now see that our number of billionaires for 2022 are filtered down to 2,576 people with 8 important features. All of the information is relative to future analysis in understanding the relationships between these individuals around the world.
+After cleaning the data set we can now see that our number of billionaires for 2022 are filtered down to 2,576 people with 7 important features. All of the information is relative to future analysis in understanding the relationships between these individuals around the world.
+
+We examined who billionaires are throughout the data exploration, analysis, machine learning model prediction, and visualization process. After consideration of our data, we are able to answer our original questions with evidence from the 2018 and 2022 Forbes Billionaires Lists.
