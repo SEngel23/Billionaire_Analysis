@@ -209,6 +209,11 @@ The results were similar for the lone 2022 data and the 2018/ 2022 merged data. 
 Yes, there are differences in the average age of billionaires across countries. However, the bulk of the average age range across countries falls between 55 and 75 with a few outliers below 55 and above 75. There doesn't seem to be any significant difference between the 2018 and 2022 datasets.
 
 - Which industries produced billionaires in specific age groups and demographics? Do these industries vary from the 2018 to 2022 lists?
+
+In 2022, Technology produced almost half of the wealth seen in billionaires for those 49 and under. We see a major shift with the 50 to 59 demographic, where Technology continued to produce the most wealth for billionaires, but the percentage shrinks to about 25%. The 60 to 69 demographic sees the majority of billionaire wealth produced by the Finance & Investments industry. The Fashion & Retail industry produced the majority of billionaire wealth for the 70 to 79 and 80 to 89 demographics. Lastly, the Finance & Investments industry produced the majority of billionaire wealth for ages 90 and up.
+
+There are two major differences seen in 2018. The industry that produced most billionaires for groups 59 and under, as well as the 80 to 89 group, and 90 and up group follow similar trends as seen in 2022. However, we see some shifts in the 60 to 69 age demographic, with this demographic seeing the most wealth being created by the Fashion & Retail Industry. For the 70 to 79 demographic, there is a tie between Fashion & Retail and Finance & Investments creating the most wealth. 
+
 - Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?
 
 ---
