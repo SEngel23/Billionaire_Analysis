@@ -37,7 +37,7 @@ padding:20px;
 
 }
 ul li:hover{
-background:rgba(150, 210, 213, 0.5);
+background:rgba(113, 158, 160, 0.75);
 }
 ul li:last-child{
 border-bottom-left-radius:4px;
