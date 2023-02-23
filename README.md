@@ -257,6 +257,19 @@ We examined who billionaires are throughout the data exploration, analysis, mach
 
 ---
 
+## Opportunities for improvement:
+* Incorporate more visual innovations. One idea was to create gifs to animal changes over time.
+* Delving further into inspecting data for outliers.
+* Creating an engine to feed the model an array of values to predict an output within the HTML page.
+* Hosting of HTML summary to a personalized domain within our repository for a more polished and seamless presentation.
+
+## Recommendations for future analysis:
+* Examine additional time stamps. Incorporate additional datasets to include the 2012 Forbes billionaire data list to review changes throughout a longer time span.
+* Inspect correlations between overall billionaire wealth with economic health by country. We had a specific interest in looking at this within the United States due to the overwhelming ration of billionaires and billionaire wealth it the country. Does the increase in billionaires or billionaire overall net worth impact economic health seen in other financial demographics.
+* Compare Self-Made versus inherited wealth over time. Are there changes to the impact of inherited wealth?
+
+---
+
 ## Summary:
 
 After cleaning the data set we can now see that our number of billionaires for 2022 are filtered down to 2,576 people with 7 important features. All of the information is relative to future analysis in understanding the relationships between these individuals around the world.
