@@ -246,6 +246,8 @@ We examined who billionaires are throughout the data exploration, analysis, mach
   - There are two major differences seen in 2018. The industry that produced most billionaires for groups 59 and under, as well as the 80 to 89 group, and 90 and up group follow similar trends as seen in 2022. However, we see some shifts in the 60 to 69 age demographic, with this demographic seeing the most wealth being created by the Fashion & Retail Industry. For the 70 to 79 demographic, there is a tie between Fashion & Retail and Finance & Investments creating the most wealth. 
 
 - Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?
+  - The United States and China have a dominating proportion of total billionaires in both 2018 and 2022.
+  - There were 441 more billionaires in 2022 than there were in 2018. Of the new billionaires, 179 were from China and 163 were from the U.S.
 
 ---
 
