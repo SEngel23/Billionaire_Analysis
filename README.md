@@ -258,7 +258,7 @@ We examined who billionaires are throughout the data exploration, analysis, mach
 ---
 
 ## Opportunities for improvement:
-* Incorporate more visual innovations. One idea was to create gifs to animal changes over time.
+* Incorporate more visual innovations. One idea was to create gifs to animate changes over time.
 * Delving further into inspecting data for outliers.
 * Creating an engine to feed the model an array of values to predict an output within the HTML page.
 * Hosting of HTML summary to a personalized domain within our repository for a more polished and seamless presentation.
