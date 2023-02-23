@@ -1,4 +1,3 @@
-
 /* Set overall style for the page */
 body {
   margin: 0;
@@ -89,7 +88,7 @@ header {
   flex-direction: column; /* makes the elements in the section go in a vertical/ column direction instead of horizontal */
   justify-content: center; /* aligns across the horizontal axis */
   align-items: center; /* aligns across the vertical axis */
-  background-image: url('../images/money_background.png'); 
+  background-image: url('../../images/money_background.png'); 
   background-repeat: no-repeat;
   background-size: cover; /* scales the image to cover the entire header */
   background-position: center center; /* positions the image at the center of the header */

@@ -69,19 +69,19 @@
     <div class="learning-model-body">
       <h2>Machine Learning Model</h2>
       <div class="text">
-      <p>lying a supervised machine learning model to the dataset can reveal if hidden trends in the data can lead to accurate predictions. In this model, we will predict whether or not a billionaire has a final worth greater than the 2022 mean final worth value of $4.799 billion.</p>
+      <p>Applying a supervised machine learning model to the dataset can reveal if hidden trends in the data can lead to accurate predictions. In this model, we will predict whether or not a billionaire has a final worth greater than the 2022 mean final worth value of $4.799 billion.</p>
       <p>In the first two runs of the Logistic Regression model, a binary column was added to the dataframe that captured billionaires with final worth greater than (>) $4.799 billion. The features used were columns "rank", "age", "category", "country", "gender_F", and "gender_M" with the target column "finalWorth>4799". Training and testing the model under logistic regression, the model was able to produce results of 99.22% accuracy due to the "rank" column being included.</p>
       <p>In the next two runs of the model, the column "rank" was removed to see if the model could find trends in the remaining features without the orientation of "rank" involved. The model was less accurate with an accuracy score of 77.32% for the lone 2022 data and 77.94% for the 2018 and 2022 merged data run. It is of note that in the confusion matrix of these runs of the model, the true positive and false positive cells have values of 0. This could suggest that the model is guessing conservatively, or the model is generalizing too heavily based on the limited data provided.</p>
       <p>In the final two runs, a Random Forest Classifier was used to rank the importance of the features. This ensemble model gave us scores to measure how critical a feature was in calculating whether a billionaire's final worth is greater than $4.799 billion. </p>
       <p>The accuracy scores of these models turned to be slightly less than the Logistic Regression model runs, with accuracy scores of 71.70% for the lone 2022 data and 74.87% for the 2018 and 2022 merged data.</p>
       <p>Confusion matrix for the lone 2022 data after using the Random Forest Classifier model: <br></p>
-      <img src = "../images/section5_cm.png" alt = "section 5 confusion matrix">
+      <img src = "./images/section5_cm.png" alt = "section 5 confusion matrix">
       <p>Confusion matrix for the 2018 and 2022 merged data after using the Random Forest Classifier model: <br></p>
-      <img src = "../images/section6_cm.png" alt = "section 6 confusion matrix">
+      <img src = "./images/section6_cm.png" alt = "section 6 confusion matrix">
       <p>Features ranked by importance for lone 2022 data: <br></p>
-      <img src = "../images/section5_fi.png" alt = "section 5 feature importance ranking list">
+      <img src = "./images/section5_fi.png" alt = "section 5 feature importance ranking list">
       <p>Features ranked by importance for 2018 and 2022 merged data: <br></p>
-      <img src = "../images/section6_fi.png" alt = "section 6 feature importance ranking list">
+      <img src = "./images/section6_fi.png" alt = "section 6 feature importance ranking list">
       <p>This suggests Age is an important factor in both runs of this model. It also displays that the factor Country may have been a more important decider in past years, suggesting that new billionaires are originating from a variance of countries.</p>
     </div>
     </div>
