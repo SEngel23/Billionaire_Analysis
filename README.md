@@ -142,6 +142,8 @@ The cleaned data was read into a dataframe for the 2022 Forbes List. A column wa
 Target features are "rank", "age", "category", "country", "gender_F", and "gender_M" with the target column "finalWorth>4799".
 Training and testing the model under logistic regression, the model was able to produce results of 99.22% accuracy.
 
+![Section 1 accuracy score](Images/section1_as.png)
+
 The confusion matrix presents the prediction values.
 
 ![Section 1 confusion matrix](Images/section1_cm.png)
@@ -150,7 +152,9 @@ The confusion matrix presents the prediction values.
 
 This model takes the cleaned merge data from 2018 and 2022 and ran through another logistical regression model. Using the same framework as section 1, a new column was generated to identify billionaires with a networth over $4.799 billion.
 
-While this model generated a slightly lower accuracy, the model is still very accurate with a result of 96.61%.
+While this model generated a slightly lower accuracy, the model is still very accurate with a result of 96.18%.
+
+![Section 2 accuracy score](Images/section2_as.png)
 
 The confusion matrix presents the prediction values.
 
@@ -160,7 +164,9 @@ The confusion matrix presents the prediction values.
 
 After further analysis of section 1 and 2 models, we wanted to see how much weight the "rank" column had on the machine learning model. The "rank" column was removed and the 2022 data from section 1 was ran through the logistical regression model to see how the results differ from the section 1 results.
 
-The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 76.94% versus with the "rank" column 99.22%.
+The accuracy of the model was significally impacted by the "rank" column resulting in a lower accuracy score of 77.32% versus with the "rank" column 99.22%.
+
+![Section 3 accuracy score](Images/section3_as.png)
 
 The confusion matrix presents the prediction values. Note that there are 0 values in the true positive and false positive cells. This means no values were predicted to have final worth > $4.799 and turned out to actually have final worth < $4.799, and no values were predicted final worth < $4.799 and turned out to have final worth > $4.799. This could suggest that the model is guessing conservatively, or the model is generalizing too heavily based on the limited data provided. If we were able to access more data, the generalization problem could be corrected through extra training.
 
@@ -170,7 +176,9 @@ The confusion matrix presents the prediction values. Note that there are 0 value
 
 We then tested the 2018 and 2022 merged data with the revised feature list to see if the accuracy remains level with the model in section 3.
 
-After running through the logistical regression model, the accuracy score came to be slightly more at 80.49%
+After running through the logistical regression model, the accuracy score came to be slightly more at 77.94%
+
+![Section 4 accuracy score](Images/section4_as.png)
 
 The confusion matrix presents the prediction values. Note that there are 0 values in the true positive and false positive cells. This means no values were predicted to have final worth > $4.799 and turned out to actually have final worth < $4.799, and no values were predicted final worth < $4.799 and turned out to have final worth > $4.799. This could suggest that the model is guessing conservatively, or the model is generalizing too heavily based on the limited data provided. If we were able to access more data, the generalization problem could be corrected through extra training.
 
@@ -179,7 +187,13 @@ The confusion matrix presents the prediction values. Note that there are 0 value
 #### Model Run 5:
 
 After viewing the success of the LogisticRegression model, we decided to use the RandomForestClassifier ensemble model to rank the importance of the features. This will give us a full list of the features as well as scores to measure how critical they are in calculating whether a billionaire's final worth is greater than $4.799 billion.
-After applying this model to the 2022 dataset, the accuracy score came to be slightly less at 76.94%. The feature importances were ranked in this order: "age" (0.5129), "country" (0.2561), "category" (0.2145), "gender_F" (0.0084), "gender_M" (0.0079). This suggests age is significantly more important to predicting final worth than the other features.\*
+After applying this model to the 2022 dataset, the accuracy score came to be slightly less at 76.94%. 
+
+![Section 5 accuracy score](Images/section5_as.png)
+
+The feature importances were ranked in this order: "age", "country", "category", "gender_F", "gender_M". This suggests age is significantly more important to predicting final worth than the other features.\*
+
+![Section 5 feature importances](Images/section5_fi.png)
 
 The confusion matrix presents the prediction values.
 
@@ -189,7 +203,13 @@ The confusion matrix presents the prediction values.
 
 We applied the RandomForestClassifier ensemble model to the 2018 and 2022 merged data to see if the feature importance rankings would hold steady with additional data.
 
-The accuracy of this model came to be slightly higher than the model in section 5, but still below the accuracy score of section 4: 74.44%. The feature importances were ranked in this order: "age" (0.4468), "country" (0.3025), "category" (0.2390), "gender_M" (0.0061), "gender_F" (0.0055). This suggests age is significantly more important to predicting final worth than the other features. Also to note, the "gender_M" and "gender_F" features were flipped in this model. This can be supported by the fact that there were more females on the 2022 Forbes Billionaires List than on the 2018 list. We can also observe that "country" and "category" have more distance between them in the 2018 and 2022 merged data, suggesting "country" may have experienced some changes that occurred between the 2018 and 2022 lists.\*
+The accuracy of this model came to be less than all of the previous models at 71.70%. 
+
+![Section 6 accuracy score](Images/section6_as.png)
+
+The feature importances were ranked in this order: "age", "country", "category", "gender_F", "gender_M". This suggests age is significantly more important to predicting final worth than the other features. We can also observe that "country" and "category" have more distance between them in the 2018 and 2022 merged data, suggesting "country" may have experienced some changes that occurred between the 2018 and 2022 lists.\*
+
+![Section 6 feature importances](Images/section6_fi.png)
 
 The confusion matrix presents the prediction values.
 
@@ -226,6 +246,8 @@ We examined who billionaires are throughout the data exploration, analysis, mach
   - There are two major differences seen in 2018. The industry that produced most billionaires for groups 59 and under, as well as the 80 to 89 group, and 90 and up group follow similar trends as seen in 2022. However, we see some shifts in the 60 to 69 age demographic, with this demographic seeing the most wealth being created by the Fashion & Retail Industry. For the 70 to 79 demographic, there is a tie between Fashion & Retail and Finance & Investments creating the most wealth. 
 
 - Which countries are home to billionaires? Also, how many billionaires live in each country? How do these totals change from the 2018 to 2022 lists?
+  - The United States and China have a dominating proportion of total billionaires in both 2018 and 2022.
+  - There were 441 more billionaires in 2022 than there were in 2018. Of the new billionaires, 179 were from China and 163 were from the U.S.
 
 ---
 
